@@ -1,0 +1,400 @@
+{
+  "generated_at": "2026-06-16T08:48:13.842973+00:00",
+  "data_dir": "generated_low_resource_cases",
+  "selection_rule": "Thresholds are selected separately by method. For each method, choose the smallest scanned threshold such that redundancy is below 15% for every country aggregate and every individual source file.",
+  "target_max_redundancy_rate": 0.15,
+  "methods": {
+    "dialect": {
+      "method_label": "方言化",
+      "metric": {
+        "name": "character_3gram_jaccard",
+        "label": "字符 3-gram Jaccard",
+        "redundant_if": "similarity >= 0.988",
+        "normalization": "Unicode NFKC，小写，合并空白字符；保留占位符",
+        "formula": "J(A,B)=|A∩B|/|A∪B|，A/B 为字符 3-gram 集合"
+      },
+      "selected_threshold": 0.988,
+      "selected_threshold_rates": {
+        "overall": {
+          "group": "方言化",
+          "count": 153,
+          "redundant_count": 4,
+          "redundancy_rate": 0.026143790849673203,
+          "redundancy_rate_percent": 2.6143790849673203
+        },
+        "by_country": [
+          {
+            "group": "沙特-方言化",
+            "count": 51,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "泰国-方言化",
+            "count": 56,
+            "redundant_count": 1,
+            "redundancy_rate": 0.017857142857142856,
+            "redundancy_rate_percent": 1.7857142857142856
+          },
+          {
+            "group": "土耳其-方言化",
+            "count": 46,
+            "redundant_count": 3,
+            "redundancy_rate": 0.06521739130434782,
+            "redundancy_rate_percent": 6.521739130434782
+          }
+        ],
+        "by_file": [
+          {
+            "group": "generated_low_resource_cases/arabic_privacy_dialect.json",
+            "count": 21,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/arabic_safety_dialect_generalization.json",
+            "count": 30,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/thai_privacy_dialect.json",
+            "count": 26,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/thai_safety_dialect_generalization.json",
+            "count": 30,
+            "redundant_count": 1,
+            "redundancy_rate": 0.03333333333333333,
+            "redundancy_rate_percent": 3.3333333333333335
+          },
+          {
+            "group": "generated_low_resource_cases/turkish_privacy_dialect.json",
+            "count": 16,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/turkish_safety_dialect_generalization.json",
+            "count": 30,
+            "redundant_count": 3,
+            "redundancy_rate": 0.1,
+            "redundancy_rate_percent": 10.0
+          }
+        ]
+      },
+      "threshold_sweep": [
+        {
+          "threshold": 0.95,
+          "overall_rate": 0.346405,
+          "max_country_rate": 0.565217,
+          "max_file_rate": 0.833333
+        },
+        {
+          "threshold": 0.96,
+          "overall_rate": 0.24183,
+          "max_country_rate": 0.391304,
+          "max_file_rate": 0.6
+        },
+        {
+          "threshold": 0.97,
+          "overall_rate": 0.183007,
+          "max_country_rate": 0.304348,
+          "max_file_rate": 0.466667
+        },
+        {
+          "threshold": 0.98,
+          "overall_rate": 0.104575,
+          "max_country_rate": 0.23913,
+          "max_file_rate": 0.366667
+        },
+        {
+          "threshold": 0.986,
+          "overall_rate": 0.045752,
+          "max_country_rate": 0.130435,
+          "max_file_rate": 0.2
+        },
+        {
+          "threshold": 0.987,
+          "overall_rate": 0.039216,
+          "max_country_rate": 0.108696,
+          "max_file_rate": 0.166667
+        },
+        {
+          "threshold": 0.988,
+          "overall_rate": 0.026144,
+          "max_country_rate": 0.065217,
+          "max_file_rate": 0.1
+        },
+        {
+          "threshold": 0.989,
+          "overall_rate": 0.019608,
+          "max_country_rate": 0.043478,
+          "max_file_rate": 0.066667
+        },
+        {
+          "threshold": 0.99,
+          "overall_rate": 0.013072,
+          "max_country_rate": 0.043478,
+          "max_file_rate": 0.066667
+        }
+      ],
+      "similarity_distribution": {
+        "by_file": [
+          {
+            "group": "generated_low_resource_cases/arabic_privacy_dialect.json",
+            "count": 21,
+            "min": 0.7068965517241379,
+            "median": 0.8604651162790697,
+            "p85": 0.896551724137931,
+            "p90": 0.896551724137931,
+            "p95": 0.8983050847457628,
+            "max": 0.8983050847457628
+          },
+          {
+            "group": "generated_low_resource_cases/arabic_safety_dialect_generalization.json",
+            "count": 30,
+            "min": 0.8159509202453987,
+            "median": 0.9355187943876667,
+            "p85": 0.9621212121212122,
+            "p90": 0.9697986577181208,
+            "p95": 0.9746192893401016,
+            "max": 0.9819819819819819
+          },
+          {
+            "group": "generated_low_resource_cases/thai_privacy_dialect.json",
+            "count": 26,
+            "min": 0.6842105263157895,
+            "median": 0.8428571428571429,
+            "p85": 0.9215686274509803,
+            "p90": 0.926829268292683,
+            "p95": 0.9393939393939394,
+            "max": 0.95
+          },
+          {
+            "group": "generated_low_resource_cases/thai_safety_dialect_generalization.json",
+            "count": 30,
+            "min": 0.6319018404907976,
+            "median": 0.9502719502719503,
+            "p85": 0.9799196787148594,
+            "p90": 0.982824427480916,
+            "p95": 0.9856733524355301,
+            "max": 0.9897540983606558
+          },
+          {
+            "group": "generated_low_resource_cases/turkish_privacy_dialect.json",
+            "count": 16,
+            "min": 0.8636363636363636,
+            "median": 0.9150717703349283,
+            "p85": 0.9454545454545454,
+            "p90": 0.9454545454545454,
+            "p95": 0.9516129032258065,
+            "max": 0.9516129032258065
+          },
+          {
+            "group": "generated_low_resource_cases/turkish_safety_dialect_generalization.json",
+            "count": 30,
+            "min": 0.8832684824902723,
+            "median": 0.9663243733011175,
+            "p85": 0.9876543209876543,
+            "p90": 0.9878419452887538,
+            "p95": 0.9912536443148688,
+            "max": 0.9930795847750865
+          }
+        ]
+      },
+      "threshold_basis": {
+        "rationale": "方言化泛化主要通过少量字母、音系或词尾替换实现，冗余风险是只改动了极少字符。因此用字符 3-gram Jaccard 直接衡量原句与方言化句子的表层重叠度；分词对阿拉伯语、泰语、土耳其语并不一致，字符级 n-gram 更稳。扫描阈值后，0.988 是同时满足每个国家组和每个单独文件冗余率低于 15% 的最小阈值。",
+        "references": [
+          {
+            "paper": "Broder, On the Resemblance and Containment of Documents, 1997",
+            "url": "https://doi.org/10.1109/SEQUEN.1997.666900",
+            "note": "提出用 shingled sets/Jaccard resemblance 做文档近重复检测，是本类表层近重复判定的基础。"
+          },
+          {
+            "paper": "Lee et al., Deduplicating Training Data Makes Language Models Better, ACL 2022",
+            "url": "https://arxiv.org/abs/2107.06499",
+            "note": "在语言模型训练数据去重中使用精确匹配和 MinHash 近似匹配，近重复以高 n-gram/Jaccard 重叠为核心信号。"
+          }
+        ]
+      }
+    },
+    "qwen_rewrite": {
+      "method_label": "本地模型改写",
+      "metric": {
+        "name": "chrf2_char_1_to_6",
+        "label": "chrF2 字符 1-6 gram F-score",
+        "redundant_if": "similarity >= 0.854",
+        "normalization": "Unicode NFKC，小写，合并空白字符；计算前移除 【sb】/【sth】 等占位符",
+        "formula": "chrFβ=(1+β²)PR/(β²P+R)，β=2，P/R 为字符 1-6 gram 平均精确率/召回率"
+      },
+      "selected_threshold": 0.854,
+      "selected_threshold_rates": {
+        "overall": {
+          "group": "本地模型改写",
+          "count": 30,
+          "redundant_count": 1,
+          "redundancy_rate": 0.03333333333333333,
+          "redundancy_rate_percent": 3.3333333333333335
+        },
+        "by_country": [
+          {
+            "group": "沙特-本地模型改写",
+            "count": 10,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "泰国-本地模型改写",
+            "count": 10,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "土耳其-本地模型改写",
+            "count": 10,
+            "redundant_count": 1,
+            "redundancy_rate": 0.1,
+            "redundancy_rate_percent": 10.0
+          }
+        ],
+        "by_file": [
+          {
+            "group": "generated_low_resource_cases/arabic_privacy_qwen_rewrite.json",
+            "count": 10,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/thai_privacy_qwen_rewrite.json",
+            "count": 10,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/turkish_privacy_qwen_rewrite.json",
+            "count": 10,
+            "redundant_count": 1,
+            "redundancy_rate": 0.1,
+            "redundancy_rate_percent": 10.0
+          }
+        ]
+      },
+      "threshold_sweep": [
+        {
+          "threshold": 0.7,
+          "overall_rate": 0.166667,
+          "max_country_rate": 0.4,
+          "max_file_rate": 0.4
+        },
+        {
+          "threshold": 0.75,
+          "overall_rate": 0.1,
+          "max_country_rate": 0.3,
+          "max_file_rate": 0.3
+        },
+        {
+          "threshold": 0.8,
+          "overall_rate": 0.1,
+          "max_country_rate": 0.3,
+          "max_file_rate": 0.3
+        },
+        {
+          "threshold": 0.85,
+          "overall_rate": 0.066667,
+          "max_country_rate": 0.2,
+          "max_file_rate": 0.2
+        },
+        {
+          "threshold": 0.854,
+          "overall_rate": 0.033333,
+          "max_country_rate": 0.1,
+          "max_file_rate": 0.1
+        },
+        {
+          "threshold": 0.86,
+          "overall_rate": 0.033333,
+          "max_country_rate": 0.1,
+          "max_file_rate": 0.1
+        },
+        {
+          "threshold": 0.9,
+          "overall_rate": 0.033333,
+          "max_country_rate": 0.1,
+          "max_file_rate": 0.1
+        },
+        {
+          "threshold": 0.95,
+          "overall_rate": 0.0,
+          "max_country_rate": 0.0,
+          "max_file_rate": 0.0
+        }
+      ],
+      "similarity_distribution": {
+        "by_file": [
+          {
+            "group": "generated_low_resource_cases/arabic_privacy_qwen_rewrite.json",
+            "count": 10,
+            "min": 0.1700174085127098,
+            "median": 0.3540588953861118,
+            "p85": 0.5239193263799677,
+            "p90": 0.5239193263799677,
+            "p95": 0.7421991566011339,
+            "max": 0.7421991566011339
+          },
+          {
+            "group": "generated_low_resource_cases/thai_privacy_qwen_rewrite.json",
+            "count": 10,
+            "min": 0.23276134554400232,
+            "median": 0.4030038007440673,
+            "p85": 0.542118960954659,
+            "p90": 0.542118960954659,
+            "p95": 0.5954906774949427,
+            "max": 0.5954906774949427
+          },
+          {
+            "group": "generated_low_resource_cases/turkish_privacy_qwen_rewrite.json",
+            "count": 10,
+            "min": 0.21663264193103696,
+            "median": 0.5593175627186777,
+            "p85": 0.8536556929139448,
+            "p90": 0.8536556929139448,
+            "p95": 0.908966882270846,
+            "max": 0.908966882270846
+          }
+        ]
+      },
+      "threshold_basis": {
+        "rationale": "大模型改写的目标是语义保持但表达变化，因此不能把“语义相似”本身当作冗余。冗余应看改写句是否大量复用原句表述。chrF 用字符 n-gram 的精确率和召回率衡量表层重合，比单纯 Jaccard 更适合长短略有变化的生成式改写；移除占位符是为了避免固定槽位抬高相似度。扫描阈值后，0.854 是同时满足每个国家组和每个单独文件冗余率低于 15% 的最小阈值。",
+        "references": [
+          {
+            "paper": "Popović, chrF: character n-gram F-score for automatic MT evaluation, WMT 2015",
+            "url": "https://aclanthology.org/W15-3049/",
+            "note": "提出 chrF，用字符 n-gram F-score 评价生成文本与参考文本的重合度，适合跨语言且不依赖分词。"
+          },
+          {
+            "paper": "Papineni et al., BLEU: a Method for Automatic Evaluation of Machine Translation, ACL 2002",
+            "url": "https://aclanthology.org/P02-1040/",
+            "note": "BLEU 将 n-gram 重合用于自动评价生成文本，是用表层重合衡量生成输出接近程度的经典依据。"
+          },
+          {
+            "paper": "Zhu et al., Texygen: A Benchmarking Platform for Text Generation Models, 2018",
+            "url": "https://arxiv.org/abs/1802.01886",
+            "note": "在文本生成评测中区分 quality、diversity、consistency，支持把生成多样性与内容一致性分开看待。"
+          }
+        ]
+      }
+    }
+  }
+}

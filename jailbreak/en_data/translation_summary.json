@@ -1,0 +1,44 @@
+{
+  "input_dir": "/Users/cucool/Documents/argument/jailbreak/pro_data",
+  "output_dir": "/Users/cucool/Documents/argument/jailbreak/en_data",
+  "model": "qwen2.5:7b",
+  "base_url": "http://localhost:11434/v1",
+  "files": {
+    "QA_arabic.json": {
+      "output": "/Users/cucool/Documents/argument/jailbreak/en_data/QA_arabic.json",
+      "total": 114,
+      "success": 114,
+      "failure": 0
+    },
+    "QA_thai.json": {
+      "output": "/Users/cucool/Documents/argument/jailbreak/en_data/QA_thai.json",
+      "total": 112,
+      "success": 112,
+      "failure": 0
+    },
+    "QA_turkish.json": {
+      "output": "/Users/cucool/Documents/argument/jailbreak/en_data/QA_turkish.json",
+      "total": 80,
+      "success": 80,
+      "failure": 0
+    },
+    "privacy_arabic.json": {
+      "output": "/Users/cucool/Documents/argument/jailbreak/en_data/privacy_arabic.json",
+      "total": 76,
+      "success": 76,
+      "failure": 0
+    },
+    "privacy_thai.json": {
+      "output": "/Users/cucool/Documents/argument/jailbreak/en_data/privacy_thai.json",
+      "total": 75,
+      "success": 75,
+      "failure": 0
+    },
+    "privacy_turkish.json": {
+      "output": "/Users/cucool/Documents/argument/jailbreak/en_data/privacy_turkish.json",
+      "total": 76,
+      "success": 76,
+      "failure": 0
+    }
+  }
+}

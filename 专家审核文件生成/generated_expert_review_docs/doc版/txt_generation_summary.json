@@ -1,0 +1,65 @@
+[
+  {
+    "country": "沙特",
+    "dialect_count": 52,
+    "rewrite_count": 13,
+    "translation_count": 115,
+    "translation_block_count": 115,
+    "fixed_translation_count": 37,
+    "fixed_translation_sentence_count": 63,
+    "ra_dri_count": 78,
+    "ra_dri_counts_by_type": {
+      "隐私": 27,
+      "价值贬损": 25,
+      "违规协助": 26
+    },
+    "total": 180,
+    "output_block_total": 180,
+    "gap_to_200": null,
+    "dialect_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/沙特/部分方言化的规则及示例审核.txt",
+    "rewrite_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/沙特/同义改写示例审核.txt",
+    "translation_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/沙特/句子翻译审核.txt"
+  },
+  {
+    "country": "泰国",
+    "dialect_count": 54,
+    "rewrite_count": 13,
+    "translation_count": 110,
+    "translation_block_count": 110,
+    "fixed_translation_count": 37,
+    "fixed_translation_sentence_count": 63,
+    "ra_dri_count": 73,
+    "ra_dri_counts_by_type": {
+      "隐私": 26,
+      "价值贬损": 23,
+      "违规协助": 24
+    },
+    "total": 177,
+    "output_block_total": 177,
+    "gap_to_200": null,
+    "dialect_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/泰国/部分方言化的规则及示例审核.txt",
+    "rewrite_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/泰国/同义改写示例审核.txt",
+    "translation_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/泰国/句子翻译审核.txt"
+  },
+  {
+    "country": "土耳其",
+    "dialect_count": 43,
+    "rewrite_count": 13,
+    "translation_count": 122,
+    "translation_block_count": 122,
+    "fixed_translation_count": 37,
+    "fixed_translation_sentence_count": 63,
+    "ra_dri_count": 85,
+    "ra_dri_counts_by_type": {
+      "隐私": 30,
+      "价值贬损": 27,
+      "违规协助": 28
+    },
+    "total": 178,
+    "output_block_total": 178,
+    "gap_to_200": null,
+    "dialect_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/土耳其/部分方言化的规则及示例审核.txt",
+    "rewrite_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/土耳其/同义改写示例审核.txt",
+    "translation_path": "/Users/cucool/Documents/argument/generated_expert_review_docs/simplified/土耳其/句子翻译审核.txt"
+  }
+]

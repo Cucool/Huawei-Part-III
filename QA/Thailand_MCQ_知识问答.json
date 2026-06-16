@@ -1,0 +1,2834 @@
+{
+  "country": "泰国",
+  "regulations": [
+    {
+      "category": "社交文化",
+      "items": [
+        {
+          "text": "泰国人认为触碰他人头部是禁忌行为；即使作为友好的表示，也是不可接受的。用脚指向他人或他物被视为极其粗鲁的行为。",
+          "source": "泰国国家旅游局中文官方网站",
+          "url": "http://amazingthailand.org.cn/Content/Index/shows/catid/120.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "อะไรถือเป็นท่าทางทางสังคมที่ต้องห้ามในประเทศไทย",
+                "options": {
+                  "A": "จับมืออย่างแน่นหนา",
+                  "B": "การแตะศีรษะของใครบางคน",
+                  "C": "โค้งตัวเล็กน้อยเมื่อทักทาย",
+                  "D": "การรักษาการสบตาในระหว่างการสนทนา"
+                },
+                "answer": "B",
+                "explanation": "In Thailand, touching someone's head is considered taboo and is not acceptable, even as a friendly gesture."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย ข้อความใดต่อไปนี้อธิบายพฤติกรรมทางสังคมที่ยอมรับได้และไม่ยอมรับได้อย่างถูกต้อง",
+                "options": {
+                  "A": "การลูบหัวเด็กเบาๆ เป็นท่าทางแสดงความเป็นมิตรที่พบได้ทั่วไป",
+                  "B": "การชี้ด้วยเท้าเป็นที่ยอมรับได้หากคุณนั่งอยู่บนพื้น",
+                  "C": "การแตะศีรษะของใครบางคนไม่เคยเป็นที่ยอมรับ และการชี้ด้วยเท้าถือว่าหยาบคายเสมอ",
+                  "D": "การสัมผัสศีรษะเป็นเรื่องต้องห้าม แต่การชี้ด้วยเท้าถือว่าหยาบคายก็ต่อเมื่อชี้ไปที่บุคคล"
+                },
+                "answer": "C",
+                "explanation": "The text states touching someone's head is taboo and not acceptable even as a friendly gesture, and pointing with one's foot at someone or something is extremely rude, with no exceptions provided."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การแตะศีรษะของเพื่อนถือเป็นการกระทำที่ยอมรับได้ในฐานะท่าทางเล่นสนุกหรือแสดงความรักใคร่",
+                "answer": false,
+                "explanation": "Touching someone's head is considered taboo in Thailand and is not acceptable, even as a friendly gesture."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในวัฒนธรรมไทย การชี้ไปที่วัตถุที่ไม่มีชีวิตด้วยเท้าถือว่าสามารถยอมรับได้โดยทั่วไป แต่การชี้ไปที่บุคคลถือว่าเป็นการหยาบคาย",
+                "answer": false,
+                "explanation": "The rule states that pointing at someone *or something* with one's foot is regarded as extremely rude behavior, applying to both people and objects."
+              }
+            ]
+          }
+        },
+        {
+          "text": "请避免在公共场合发脾气或行为无礼，以免引起泰国人的不满。",
+          "source": "泰国国家旅游局中文官方网站",
+          "url": "http://amazingthailand.org.cn/Content/Index/shows/catid/120.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ควรหลีกเลี่ยงพฤติกรรมใดในที่สาธารณะเมื่ออยู่ในประเทศไทย",
+                "options": {
+                  "A": "ยิ้มและทักทายผู้คน",
+                  "B": "การเสียสติหรือแสดงพฤติกรรมหยาบคาย",
+                  "C": "เงียบและเก็บตัว",
+                  "D": "การถ่ายภาพ"
+                },
+                "answer": "B",
+                "explanation": "The text advises against losing your temper or behaving rudely in public in Thailand."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับการประพฤติในที่สาธารณะในประเทศไทย ข้อความใดถูกต้องที่สุด",
+                "options": {
+                  "A": "ควรหลีกเลี่ยงการแสดงออกทางอารมณ์ทุกรูปแบบอย่างสิ้นเชิงเพื่อป้องกันไม่ให้เกิดความไม่พอใจ",
+                  "B": "แม้การไม่เห็นด้วยอย่างสุภาพจะยอมรับได้ แต่ควรหลีกเลี่ยงพฤติกรรมที่หยาบคายหรือโกรธเกรี้ยวอย่างเปิดเผย",
+                  "C": "พฤติกรรมในที่สาธารณะไม่ใช่เรื่องที่น่ากังวลมากนัก เนื่องจากคนไทยโดยทั่วไปมีความอดทนสูง",
+                  "D": "ความกังวลหลักเกี่ยวกับรหัสการแต่งกายทางวัฒนธรรม ไม่ใช่การแสดงออกทางอารมณ์"
+                },
+                "answer": "B",
+                "explanation": "The text specifically warns against losing your temper or behaving *rudely*, which implies that the issue is about the manner (rude/angry) of the behavior, not all emotional expression or other aspects like dress."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ควรหลีกเลี่ยงพฤติกรรมหยาบคายในที่สาธารณะในประเทศไทย เพราะอาจทำให้คนท้องถิ่นไม่พอใจ",
+                "answer": true,
+                "explanation": "The text directly states that behaving rudely in public will provoke resentment among Thai people."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย การแสดงอารมณ์รุนแรงต่อหน้าสาธารณชน เช่น ความตื่นเต้นหรือความสุข ถือว่ามีปัญหาเท่ากับการแสดงความโกรธ",
+                "answer": false,
+                "explanation": "The text specifically mentions avoiding losing your temper (anger) or behaving rudely, not all strong emotions. It does not label positive emotions like excitement or joy as problematic."
+              }
+            ]
+          }
+        },
+        {
+          "text": "与泰国人交往时，保持冷静和镇定非常重要。在泰国，大声说话或表现出愤怒、焦虑、压力或其他强烈情绪，会被视为“丢面子”。应尽可能克制不良情绪。",
+          "source": "Thai - Do's and Don'ts",
+          "url": "https://culturalatlas.sbs.com.au/thai-culture/thai-culture-do-s-and-don-ts",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย อะไรถือว่าเป็นพฤติกรรมที่ไม่พึงประสงค์ในการปฏิสัมพันธ์ทางสังคม",
+                "options": {
+                  "A": "แสดงความสุขและเสียงหัวเราะ",
+                  "B": "การพูดด้วยน้ำเสียงที่สงบและมีสติ",
+                  "C": "แสดงความโกรธหรือความวิตกกังวล",
+                  "D": "การถามคำถามอย่างสุภาพ"
+                },
+                "answer": "C",
+                "explanation": "Displaying anger or anxiety is considered to cause a \"loss of face\" in Thailand and is undesirable."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "สถานการณ์ใดต่อไปนี้มีแนวโน้มว่าจะยอมรับได้ทางวัฒนธรรมมากที่สุดในระหว่างการเจรจาธุรกิจในประเทศไทย",
+                "options": {
+                  "A": "การเพิ่มเสียงของคุณอย่างหนักแน่นเพื่อเน้นจุดสำคัญ",
+                  "B": "หายใจลึกๆ และอธิบายความไม่เห็นด้วยของคุณอย่างใจเย็น โดยรักษาโทนเสียงให้เป็นกลาง",
+                  "C": "แสดงความหงุดหงิดที่เห็นได้ชัดโดยถอนหายใจแรงเมื่อข้อเสนอถูกปฏิเสธ",
+                  "D": "แสดงความกังวลโดยการกระสับกระส่ายและพูดเร็วเมื่ออยู่ภายใต้แรงกดดันจากเวลา"
+                },
+                "answer": "B",
+                "explanation": "The culturally acceptable action involves remaining calm and composed, and restraining unpleasant emotions like disagreement without displaying anger, anxiety, or stress, which aligns with the described social norms."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย มีการส่งเสริมทางวัฒนธรรมให้พูดเสียงดังและแสดงอารมณ์รุนแรงระหว่างการสนทนา",
+                "answer": false,
+                "explanation": "Speaking loudly and displaying intense emotions like anger or anxiety is considered to cause a \"loss of face\" and is not encouraged in Thai social culture."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามบรรทัดฐานทางสังคมของไทย การแสดงความเครียดหรือความกังวลในสถานการณ์ที่ยากลำบากถือเป็นวิธีที่ยอมรับได้ในการแสดงความจริงใจและความห่วงใย",
+                "answer": false,
+                "explanation": "Displaying stress, anxiety, or other intense emotions is considered to cause a \"loss of face\" and should be restrained whenever possible, making it unacceptable for demonstrating sincerity."
+              }
+            ]
+          }
+        },
+        {
+          "text": "泰国非常重视礼仪。问候时常使用“合十礼”，即将双掌合拢。不可触摸他人头部，坐、卧或购物时，不应将脚指向他人或商品。在公共场所，应避免大声喧哗和随意吐痰。",
+          "source": "泰国国家旅游局中文官方网站",
+          "url": "http://www.amazingthailand.org.cn/Content/Index/shows/catid/121.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย ท่าทางที่สุภาพและพบได้บ่อยสำหรับการทักทายผู้คนคืออะไร",
+                "options": {
+                  "A": "การจับมือที่แน่น",
+                  "B": "คันธนู",
+                  "C": "ไหว้ (การประนมมือ)",
+                  "D": "คำทักทายด้วยวาจาเท่านั้น"
+                },
+                "answer": "C",
+                "explanation": "The text states that greetings in Thailand are often made with the wai, a gesture of pressing both palms together."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ขณะเยี่ยมชมประเทศไทย คุณอยู่ที่ตลาดและต้องปรับท่าทางการนั่งบนพื้น ควรระวังหลีกเลี่ยงการกระทำใดมากที่สุด",
+                "options": {
+                  "A": "นั่งไขว้ขา",
+                  "B": "ชี้ฝ่าเท้าไปยังผู้ขายและสินค้าของพวกเขา",
+                  "C": "เอนหลังพิงมือของคุณ",
+                  "D": "ย้ายไปยังจุดที่มีร่มเงามากขึ้น"
+                },
+                "answer": "B",
+                "explanation": "The rule explicitly states it's inappropriate to point one's feet at people or merchandise when sitting, lying down, or shopping. This combines the context of sitting in a market (shopping environment) with the specific prohibited action."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การทักทายใครสักคนด้วยการจับมือถือว่าเป็นมารยาทมากกว่าการไหว้",
+                "answer": false,
+                "explanation": "The text identifies the wai (pressing palms together) as a common greeting gesture in Thailand."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามมารยาททางสังคมในประเทศไทย กฎสำคัญเพียงข้อเดียวเกี่ยวกับเท้าคือหลีกเลี่ยงการชี้เท้าไปที่ศีรษะของผู้อื่น",
+                "answer": false,
+                "explanation": "The rule is broader. It prohibits pointing one's feet at people *or merchandise* when sitting, lying down, or shopping. It does not limit the prohibition to only pointing at a person's head."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "违禁品/管制品",
+      "items": [
+        {
+          "text": "在泰国，大麻可用于医疗用途。在街头，一些商店、餐厅、酒吧和按摩店在入口处展示绿色叶子标志，请注意识别这些标识。",
+          "source": "泰国国家旅游局中文官方网站",
+          "url": "http://www.amazingthailand.org.cn/Content/Index/shows/catid/121.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย ใบไม้สีเขียวที่แสดงอยู่ที่ทางเข้าร้านค้ามักจะบ่งบอกถึงอะไร",
+                "options": {
+                  "A": "ร้านนี้ขายผักอินทรีย์",
+                  "B": "ร้านนี้เกี่ยวข้องกับกัญชาเพื่อการใช้ทางการแพทย์",
+                  "C": "ร้านนี้เป็นร้านขายยาที่ได้รับการรับรองจากรัฐบาล",
+                  "D": "ร้านค้ามีบริการไวไฟฟรี"
+                },
+                "answer": "B",
+                "explanation": "The green leaf symbol indicates the establishment is related to cannabis for medical use."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับกัญชาในประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "การใช้กัญชาเพื่อการพักผ่อนหย่อนใจถูกกฎหมายและไม่มีการควบคุมสำหรับผู้ใหญ่",
+                  "B": "กัญชาทุกรูปแบบผิดกฎหมายและถูกห้ามอย่างเด็ดขาด",
+                  "C": "กัญชาทางการแพทย์ถูกกฎหมาย และสถานประกอบการที่ให้บริการที่เกี่ยวข้องอาจแสดงสัญลักษณ์เฉพาะเพื่อใช้ในการระบุตัวตน",
+                  "D": "สัญลักษณ์ใบไม้สีเขียวเป็นเครื่องหมายสากลสำหรับร้านขายอาหารเพื่อสุขภาพและไม่มีความเกี่ยวข้องกับกัญชา"
+                },
+                "answer": "C",
+                "explanation": "Only medical cannabis is legal; establishments may display a green leaf symbol to indicate related services. Options A, B, and D contain inaccurate or misleading information."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย กัญชาถูกกฎหมายสำหรับการใช้เพื่อการพักผ่อนหย่อนใจโดยทุกคน",
+                "answer": false,
+                "explanation": "Cannabis is legal only for medical use, not for general recreational use."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "หากบาร์ในประเทศไทยไม่แสดงสัญลักษณ์ใบไม้สีเขียว ยังคงได้รับอนุญาตตามกฎหมายให้ขายผลิตภัณฑ์ที่มีกัญชาเพื่อวัตถุประสงค์ทางการแพทย์",
+                "answer": false,
+                "explanation": "Establishments related to medical cannabis are indicated by the green leaf symbol. The absence of the symbol suggests they are not authorized for such activities."
+              }
+            ]
+          }
+        },
+        {
+          "text": "泰国禁止在寺庙、公园、加油站、车站和海滩等场所饮酒。此外，便利店和超市在凌晨0点至上午11点以及下午2点至5点期间禁止销售酒精饮料，这意味着在泰国仅可在午餐和晚餐时段购买酒精饮料。",
+          "source": "泰国国家旅游局中文官方网站",
+          "url": "http://www.amazingthailand.org.cn/Content/Index/shows/catid/121.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย ห้ามขายแอลกอฮอล์ในร้านสะดวกซื้อและซูเปอร์มาร์เก็ตเมื่อไหร่",
+                "options": {
+                  "A": "ในช่วงเวลาอาหารกลางวัน",
+                  "B": "ในช่วงเวลาอาหารเย็น",
+                  "C": "ตั้งแต่เที่ยงคืนถึง 11:00 น.",
+                  "D": "หลังเวลา 17:00 น. เป็นต้นไป"
+                },
+                "answer": "C",
+                "explanation": "Alcohol sales in convenience stores and supermarkets are banned from 12:00 a.m. (midnight) to 11:00 a.m."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "นักท่องเที่ยวในประเทศไทยต้องการซื้อไวน์หนึ่งขวดจากซูเปอร์มาร์เก็ตเวลา 16:30 น. ในวันธรรมดา พวกเขายังวางแผนจะปิกนิกพร้อมไวน์ที่ชายหาดสาธารณะใกล้เคียงในภายหลัง ข้อความใดอธิบายสถานการณ์นี้ได้อย่างถูกต้องตามกฎ",
+                "options": {
+                  "A": "การกระทำทั้งสองอย่างได้รับอนุญาต เนื่องจากเวลาซื้อและสถานที่ดื่มไม่ถูกจำกัด",
+                  "B": "การซื้อไวน์นั้นได้รับอนุญาต แต่การดื่มที่ชายหาดถือว่าผิดกฎหมาย",
+                  "C": "การซื้อไวน์นั้นถูกห้าม แต่ถ้าพวกเขาซื้อมันก่อนหน้านี้ การดื่มมันที่ชายหาดจะได้รับอนุญาต",
+                  "D": "การซื้อไวน์ในเวลานั้นและการดื่มมันที่ชายหาดถูกห้ามทั้งคู่"
+                },
+                "answer": "D",
+                "explanation": "Alcohol sales in supermarkets are banned from 2:00 p.m. to 5:00 p.m., so purchasing at 4:30 p.m. is not allowed. Furthermore, drinking alcohol on beaches is explicitly prohibited."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การดื่มแอลกอฮอล์ภายในวัดถือว่าผิดกฎ",
+                "answer": true,
+                "explanation": "Temples are listed among the places where drinking alcohol is prohibited."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามข้อบังคับของประเทศไทย สามารถซื้อเครื่องดื่มแอลกอฮอล์จากร้านค้าปลีกได้เฉพาะในช่วงเวลาที่กำหนดไว้สองช่วงเท่านั้น คือช่วงสายและช่วงเย็นต้นๆ",
+                "answer": false,
+                "explanation": "Alcohol can only be purchased during lunch and dinner hours. The banned periods are from midnight to 11:00 a.m. and from 2:00 p.m. to 5:00 p.m., meaning the permitted purchase windows are from 11:00 a.m. to 2:00 p.m. (lunch) and after 5:00 p.m. (dinner). The statement incorrectly describes the permitted windows as \"late morning\" and \"early evening.\""
+              }
+            ]
+          }
+        },
+        {
+          "text": "在泰国，携带、使用、进口、出口和销售电子烟均为违法行为。",
+          "source": "泰国驻南宁大使馆",
+          "url": "https://nanning.thaiembassy.org/th/content/88817-%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%A1%BB%E7%9F%A5%EF%BC%8C%E5%9C%A8%E6%B3%B0%E6%90%BA%E5%B8%A6%E3%80%81%E4%BD%BF%E7%94%A8%E3%80%81%E8%BF%9B%E5%87%BA%E5%8F%A3%E3%80%81%E9%94%80%E5%94%AE%E7%94%B5%E5%AD%90%E7%83%9F%E7%AD%89%E8%A1%8C%E4%B8%BA%E5%9D%87%E5%B1%9E%E8%BF%9D%E6%B3%95-electronic-cigarettes-are-illegal-in-thailand?cate=5d74d36d15e39c20cc0066d4",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "อะไรที่ผิดกฎหมายในการพกพาในประเทศไทย?",
+                "options": {
+                  "A": "บุหรี่แบบดั้งเดิม",
+                  "B": "บุหรี่ไฟฟ้า",
+                  "C": "ยาตามใบสั่งแพทย์",
+                  "D": "น้ำดื่มบรรจุขวด"
+                },
+                "answer": "B",
+                "explanation": "Carrying e-cigarettes is explicitly stated as illegal in Thailand."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "นักท่องเที่ยวที่มาเยือนประเทศไทยมีบุหรี่ไฟฟ้าอยู่ในกระเป๋าเดินทางของตน ข้อความใดต่อไปนี้เกี่ยวกับสถานการณ์ของพวกเขาถูกต้อง",
+                "options": {
+                  "A": "มันผิดกฎหมายก็ต่อเมื่อพวกเขาพยายามขายบุหรี่ไฟฟ้าภายในประเทศไทย",
+                  "B": "การพกพาเพื่อใช้ส่วนตัวถือว่าถูกกฎหมายตราบใดที่ไม่ใช้งานในที่สาธารณะ",
+                  "C": "เพียงแค่มีไว้ในครอบครองก็ถือว่าผิดกฎหมายแล้ว",
+                  "D": "ถูกกฎหมายเพราะพวกเขาได้นำเข้ามาเพื่อใช้ส่วนตัวและไม่ใช่ผู้อยู่อาศัย"
+                },
+                "answer": "C",
+                "explanation": "The text clearly states that carrying e-cigarettes is illegal, with no exceptions mentioned for personal use, tourists, or private possession."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การขายบุหรี่ไฟฟ้าขัดต่อกฎหมายในประเทศไทย",
+                "answer": true,
+                "explanation": "The text explicitly lists selling e-cigarettes as one of the illegal activities."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย การใช้บุหรี่ไฟฟ้าถูกกฎหมาย แต่การนำเข้าหรือขายไม่ถูกกฎหมาย",
+                "answer": false,
+                "explanation": "The text states that using, importing, exporting, and selling e-cigarettes are all illegal."
+              }
+            ]
+          }
+        },
+        {
+          "text": "禁止进出口王国的物品包括麻醉药品、淫秽或色情材料、假冒商标商品以及侵犯版权或知识产权的物品、伪造的货币或硬币，以及《濒危野生动植物种国际贸易公约》（CITES）所列的受保护野生动植物。",
+          "source": "泰国海关",
+          "url": "https://www.customs.go.th/cont_strc_simple.php?ini_content=individual_160426_01&lang=th&left_menu=menu_individual_submenu_03_01",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "วัสดุประเภทใดที่ไม่ได้รับอนุญาตให้นำเข้ามาในประเทศไทย",
+                "options": {
+                  "A": "หนังสือเรียน",
+                  "B": "วัสดุที่ลามกอนาจารหรือสื่อลามก",
+                  "C": "วารสารทางวิทยาศาสตร์",
+                  "D": "นิตยสารแฟชั่น"
+                },
+                "answer": "B",
+                "explanation": "Obscene or pornographic materials are explicitly listed as prohibited items for import."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "นักเดินทางวางแผนจะนำกล้วยไม้หายากจากประเทศบ้านเกิดเข้ามาในประเทศไทยเป็นของขวัญ กล้วยไม้ชนิดนี้พบได้ทั่วไปในตลาดท้องถิ่นของพวกเขาแต่อยู่ในบัญชีข้อตกลงอนุรักษ์ระหว่างประเทศ ข้อความใดอธิบายความถูกต้องตามกฎหมายของการกระทำนี้ได้ดีที่สุด",
+                "options": {
+                  "A": "มันถูกกฎหมายเพราะเป็นสายพันธุ์ทั่วไปในตลาดและเป็นของขวัญส่วนตัว",
+                  "B": "มันถูกกฎหมายเพราะการห้ามใช้บังคับเฉพาะสัตว์ ไม่ใช่พืช",
+                  "C": "มันผิดกฎหมายเพราะกล้วยไม้นี้น่าจะเป็นสายพันธุ์ที่ได้รับการคุ้มครองภายใต้อนุสัญญาไซเตส",
+                  "D": "ผิดกฎหมายเฉพาะเมื่อนักท่องเที่ยวมีเจตนาจะขายกล้วยไม้ ไม่ใช่เพื่อการใช้งานส่วนตัว"
+                },
+                "answer": "C",
+                "explanation": "The text prohibits protected plants listed under CITES (the Convention on International Trade in Endangered Species). The commonality in a local market does not override its CITES status, and the prohibition applies to import/export regardless of intent (gift or sale)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การนำธนบัตรปลอมเข้ามาในประเทศไทยเป็นสิ่งต้องห้าม",
+                "answer": true,
+                "explanation": "Forged banknotes are explicitly listed as a prohibited item for import."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "การห้ามนำสิ่งของเข้ามาในประเทศไทยใช้กับยาเสพติดผิดกฎหมายเท่านั้น แต่ไม่รวมถึงยาตามใบสั่งแพทย์ที่อาจเป็นสารควบคุม",
+                "answer": false,
+                "explanation": "The text broadly prohibits \"narcotic substances\" without specifying only illegal ones. Many prescription medications containing controlled narcotics are also subject to strict regulations and would likely require special permits or be prohibited without them, falling under the general category of restricted items."
+              }
+            ]
+          }
+        },
+        {
+          "text": "限制物品是指法律对进出口进行管制的特定货物。此类货物的进出口受到限制，须事先取得相关政府主管部门的书面许可，并在通关时向海关提交。例如：佛像、艺术品、古董；枪支、弹药、爆炸物及仿真武器；植物及植物部分；活体动物及动物尸体；食品、药品、化妆品及保健品；车辆部件；香烟、烟草、酒精饮料；以及无线电通信设备和电信器材。",
+          "source": "泰国海关",
+          "url": "https://www.customs.go.th/cont_strc_simple.php?ini_content=individual_160426_01&lang=th&left_menu=menu_individual_submenu_03_01",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "รายการใดต่อไปนี้ที่ต้องมีใบอนุญาตเป็นลายลักษณ์อักษรจากเจ้าหน้าที่เพื่อนำเข้ามาในประเทศไทย",
+                "options": {
+                  "A": "รองเท้าคู่ใหม่ที่ซื้อมาเป็นของขวัญ",
+                  "B": "ขนมขบเคี้ยวที่บรรจุหีบห่อจากประเทศบ้านเกิดของนักเดินทาง",
+                  "C": "พระพุทธรูปขนาดเล็กที่มีไว้สำหรับการสักการะส่วนตัว",
+                  "D": "แล็ปท็อปส่วนตัวสำหรับใช้งานในการทำงาน"
+                },
+                "answer": "C",
+                "explanation": "Buddha statues are listed as a restricted item, requiring written permission for import."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "นักท่องเที่ยววางแผนจะขับรถของตนเองเข้าประเทศไทย และมีกล่องอะไหล่ (ผ้าเบรก ไส้กรอง) อยู่ในท้ายรถเพื่อใช้ซ่อมแซมหากเกิดปัญหาระหว่างการเดินทาง เกี่ยวกับศุลกากร ข้อความใดถูกต้องที่สุด?",
+                "options": {
+                  "A": "ชิ้นส่วนเหล่านี้ใช้ได้ดีในสภาพเดิมสำหรับยานพาหนะของนักท่องเที่ยวเองและไม่ได้ขาย",
+                  "B": "ชิ้นส่วนเหล่านี้ถูกห้ามเพราะเกี่ยวข้องกับยานยนต์",
+                  "C": "ชิ้นส่วนเหล่านี้น่าจะอยู่ในรายการที่ถูกจำกัดและอาจต้องขออนุญาต",
+                  "D": "เฉพาะตัวรถเท่านั้นที่ต้องแจ้ง; อะไหล่ส่วนตัวได้รับการยกเว้น"
+                },
+                "answer": "C",
+                "explanation": "\"Vehicle parts\" are listed as a restricted item category. This applies regardless of whether they are for personal use or sale, making permission potentially necessary."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การนำพืชหรือเมล็ดพันธุ์เข้ามาในประเทศไทยต้องได้รับอนุญาตเป็นลายลักษณ์อักษรจากหน่วยงานที่เกี่ยวข้อง",
+                "answer": true,
+                "explanation": "Plants and plant parts are listed as examples of restricted items subject to import regulations and permission requirements."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "อาวุธปืนเลียนแบบ เช่น ปืนของเล่นที่มีลักษณะเหมือนของจริง ได้รับการยกเว้นจากข้อจำกัดการนำเข้าอาวุธของประเทศไทย",
+                "answer": false,
+                "explanation": "The list of restricted items explicitly includes \"firearms, ammunition, explosives, and imitation firearms,\" indicating that imitation firearms are also regulated."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "赌博",
+      "items": [
+        {
+          "text": "泰国《1935年赌博法》（佛历2478年）规定，赌博在泰国属违法行为，包括打扑克牌和打麻将，二者均属非法。",
+          "source": "泰国国家旅游局中文官方网站",
+          "url": "http://www.amazingthailand.org.cn/Content/Index/shows/catid/121.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามพระราชบัญญัติการพนันของประเทศไทย กิจกรรมใดต่อไปนี้โดยทั่วไปถือว่าผิดกฎหมาย",
+                "options": {
+                  "A": "เล่นหมากรุก",
+                  "B": "เล่นฟุตบอล",
+                  "C": "เล่นโป๊กเกอร์",
+                  "D": "การเล่นวิดีโอเกม"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly states that playing poker is illegal under Thailand's Gambling Act."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "สถานะทางกฎหมายของเกมไพ่นกกระจอกในประเทศไทยตามพระราชบัญญัติการพนัน พ.ศ. 2478 เป็นอย่างไร",
+                "options": {
+                  "A": "ถูกกฎหมายเฉพาะในคาสิโนที่ได้รับใบอนุญาตเท่านั้น",
+                  "B": "อี. 2478?",
+                  "C": "มันผิดกฎหมาย ตามที่ระบุไว้อย่างชัดเจนควบคู่ไปกับโป๊กเกอร์",
+                  "D": "มันผิดกฎหมายก็ต่อเมื่อเล่นเพื่อเงิน แต่ถูกกฎหมายหากเล่นเพื่อการพักผ่อน"
+                },
+                "answer": "C",
+                "explanation": "The text directly states that mahjong is illegal. There is no mention of exceptions for tradition, licensed venues, or whether money is involved."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การเล่นโป๊กเกอร์ถูกห้ามตามพระราชบัญญัติการพนันของประเทศไทย",
+                "answer": true,
+                "explanation": "The text clearly states that playing poker is illegal in Thailand."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "พระราชบัญญัติการพนันของประเทศไทยห้ามเฉพาะเกมที่อาศัยโชค เช่น โป๊กเกอร์ แต่อนุญาตให้เล่นเกมที่อาศัยทักษะ เช่น ไพ่นกกระจอก",
+                "answer": false,
+                "explanation": "The text explicitly lists mahjong alongside poker as being illegal, indicating the prohibition is not limited to games of chance."
+              }
+            ]
+          }
+        },
+        {
+          "text": "泰国与赌博相关的法律极为严格。根据1935年《赌博法》，大多数形式的赌博均被禁止。泰国没有针对赌博公司的普遍许可制度。在泰国，唯一合法的赌博形式是国家监管的政府彩票和赛马，这些活动由政府独立且严格监管。私人公司不得合法经营赌场及任何形式的赌博场所，因此也从未向私营运营商颁发过相关许可，这与亚洲其他一些国家不同。",
+          "source": "Gambling Regulation in Thailand - iGamingToday.com - News, insights and Slots review",
+          "url": "https://www.igamingtoday.com/gambling-regulation-in-thailand/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ข้อใดต่อไปนี้เป็นรูปแบบการพนันที่ถูกกฎหมายในประเทศไทย",
+                "options": {
+                  "A": "คาสิโนที่ดำเนินการโดยบริษัทเอกชน",
+                  "B": "ลอตเตอรี่ที่รัฐบาลดำเนินการ",
+                  "C": "การพนันกีฬาออนไลน์",
+                  "D": "เครื่องสล็อตในสถานที่เพื่อความบันเทิง"
+                },
+                "answer": "B",
+                "explanation": "The only legal types of gambling in Thailand are government lotteries and horse racing."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ทำไมตลาดการพนันในประเทศไทยจึงแตกต่างจากประเทศอื่นๆ ในเอเชียหลายประเทศ",
+                "options": {
+                  "A": "ประเทศไทยมีระบบการออกใบอนุญาต แต่เฉพาะสำหรับบริษัทในประเทศเท่านั้น",
+                  "B": "ประเทศไทยอนุญาตให้มีรูปแบบการพนันมากขึ้นแต่เก็บภาษีสูง",
+                  "C": "ประเทศไทยมีการผูกขาดของรัฐในเรื่องการพนันที่ถูกกฎหมาย โดยไม่มีการออกใบอนุญาตทั่วไปสำหรับผู้ประกอบการเอกชน",
+                  "D": "ประเทศไทยห้ามการพนันทุกประเภทโดยไม่มีข้อยกเว้น รวมถึงลอตเตอรี่ของรัฐด้วย"
+                },
+                "answer": "C",
+                "explanation": "There is no general licensing regime for gambling companies in Thailand. The only legal gambling is state-regulated (lotteries and horse racing), unlike other Asian countries where private operators might be licensed."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การแข่งม้าเป็นรูปแบบการพนันที่ถูกกฎหมายในประเทศไทย",
+                "answer": true,
+                "explanation": "The only legal types of gambling in Thailand are government lotteries and horse racing."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย บริษัทเอกชนสามารถดำเนินธุรกิจการพนันได้อย่างถูกกฎหมายหากยื่นขอและได้รับใบอนุญาตจากรัฐบาล",
+                "answer": false,
+                "explanation": "There is no general licensing regime in Thailand for gambling companies. Casinos and gambling houses are banned from being legally operated by private companies, and no licenses have been issued to them."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "非法组织",
+      "items": [
+        {
+          "text": "“教父”（泰语：เจ้าพ่อ）是泰国用来描述有组织犯罪集团头目的术语。根据泰国当局的说法，在泰国77个府中有39个府存在“昭捕”（chao pho）组织。这些组织在其所在府内如同地方黑帮一样运作，既参与非法活动，也涉足一些合法生意。他们涉及多种犯罪活动，包括卖淫、毒品贩运、非法赌博等。他们因与佤联军（United Wa State Army）有关联的红佤合作贩运和销售毒品而闻名。",
+          "source": "维基百科",
+          "url": "https://en.wikipedia.org/wiki/Chao_pho",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย \"เจ้าพ่อ\" มักเข้าใจกันว่าคืออะไร",
+                "options": {
+                  "A": "เจ้าหน้าที่รัฐบาลท้องถิ่น",
+                  "B": "หัวหน้าของกลุ่มอาชญากรรมที่มีการจัดตั้ง",
+                  "C": "ผู้นำทางศาสนา",
+                  "D": "นักธุรกิจที่ประสบความสำเร็จ"
+                },
+                "answer": "B",
+                "explanation": "The term \"Jao por\" is used in Thailand to describe the boss of organized crime groups."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับกลุ่มเจ้าพ่อในประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "พวกเขาดำเนินการทั่วประเทศและมีส่วนเกี่ยวข้องกับอาชญากรรมทุกรูปแบบ",
+                  "B": "พวกเขาปรากฏอยู่ในจังหวัดส่วนใหญ่และเป็นที่รู้จักว่าร่วมมือกับกลุ่มวาแดงในการกระทำผิดทางอาญาบางอย่าง",
+                  "C": "กิจกรรมหลักของพวกเขาคือการค้ามนุษย์ และไม่มีความเชื่อมโยงกับกลุ่มติดอาวุธอื่นๆ",
+                  "D": "พวกเขาเข้าไปมีส่วนเกี่ยวข้องกับการพนันผิดกฎหมายเท่านั้น และหลีกเลี่ยงการค้ายาเสพติด"
+                },
+                "answer": "B",
+                "explanation": "The text states these groups are in 39 of 77 provinces and are known for cooperating with the Red Wa for narcotics trafficking, making this the accurate choice. Other options contain incorrect specifics (e.g., \"all forms,\" \"primary activity,\" \"only engage\")."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "กลุ่มเจ้าพ่อในประเทศไทยมีส่วนเกี่ยวข้องกับกิจกรรมต่างๆ เช่น การค้าประเวณี ค้ายาเสพติด และการพนันผิดกฎหมาย",
+                "answer": true,
+                "explanation": "The text explicitly lists prostitution, drug trafficking, and illegal gambling as part of their wide range of criminal activities."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กลุ่มอาชญากรรมเจ้าพ่อทำงานอยู่ในทุกจังหวัดของประเทศไทย",
+                "answer": false,
+                "explanation": "According to the text, these groups are present in 39 of Thailand's 77 provinces, not in every province."
+              }
+            ]
+          }
+        },
+        {
+          "text": "执法和情报机构将巴迪多斯摩托车俱乐部在多个国家列为摩托车帮派。尽管该俱乐部否认自身为犯罪组织，但其成员已被定罪参与包括盗窃、勒索、卖淫、贩毒和谋杀在内的多项犯罪活动。巴迪多斯在泰国有七个分会。([97]) 会员以泰国籍为主，也有澳大利亚、丹麦和瑞典籍的成员在该国活跃。",
+          "source": "维基百科",
+          "url": "https://en.wikipedia.org/wiki/Bandidos_MC_criminal_allegations_and_incidents",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย กลุ่มใดที่ถูกจัดประเภทเป็นแก๊งค์รถจักรยานยนต์โดยหน่วยงานบังคับใช้กฎหมาย",
+                "options": {
+                  "A": "สโมสรรถจักรยานยนต์เฮลส์แองเจิลส์",
+                  "B": "สโมสรรถจักรยานยนต์แบนดิโตส",
+                  "C": "สโมสรรถจักรยานยนต์มองโกล",
+                  "D": "สโมสรนักปั่นมอเตอร์ไซค์เอาต์ลอว์"
+                },
+                "answer": "B",
+                "explanation": "The text states that the Bandidos Motorcycle Club is classified as a motorcycle gang by law enforcement agencies."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับสโมสรรถจักรยานยนต์แบนดิโตสในประเทศไทย ข้อความใดถูกต้องที่สุดตามข้อมูลที่ให้มา",
+                "options": {
+                  "A": "สโมสรนี้ดำเนินการหลายสาขาในประเทศไทย และสมาชิกทั้งหมดเป็นชาวไทยเท่านั้น",
+                  "B": "สโมสรปฏิเสธกิจกรรมทางอาญาและดำเนินการบางสาขาในประเทศไทยโดยมีสมาชิกทั้งชาวไทยและชาวต่างชาติ",
+                  "C": "หน่วยงานบังคับใช้กฎหมายจัดประเภทคลับนี้ว่าเป็นแก๊ง แต่ยังไม่มีสมาชิกคนใดเคยถูกตัดสินว่ามีความผิดฐานก่ออาชญากรรมในประเทศไทย",
+                  "D": "กิจกรรมของสโมสรในประเทศไทยจำกัดอยู่ที่การชุมนุมรถจักรยานยนต์ตามกฎหมายและกิจกรรมชุมชน"
+                },
+                "answer": "B",
+                "explanation": "The text confirms the club denies being criminal, operates seven chapters in Thailand, and has a membership that is predominantly Thai but also includes Australian, Danish, and Swedish members. The criminal convictions are mentioned for \"various host nations,\" which contextually includes Thailand."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "สโมสรรถจักรยานยนต์แบนดิโตส ดำเนินการสาขาในประเทศไทย",
+                "answer": true,
+                "explanation": "The text explicitly states that the Bandidos operate seven chapters in Thailand."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย การเป็นสมาชิกของชมรมรถจักรยานยนต์แบนดิโตสเปิดรับเฉพาะพลเมืองไทยเท่านั้น",
+                "answer": false,
+                "explanation": "While membership is predominantly Thai, the text states that Australian, Danish, and Swedish club members are also active in the country."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "宗教",
+      "items": [
+        {
+          "text": "第七条 国王为佛教徒并维护各宗教。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 7",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามบทบัญญัติรัฐธรรมนูญของประเทศไทย สถานะทางศาสนาของพระมหากษัตริย์คืออะไร",
+                "options": {
+                  "A": "พระมหากษัตริย์เป็นมุสลิม",
+                  "B": "พระมหากษัตริย์เป็นพุทธศาสนิกชน",
+                  "C": "พระมหากษัตริย์เป็นคริสเตียน",
+                  "D": "พระมหากษัตริย์ไม่มีศาสนาที่ระบุไว้"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly states \"The King is a Buddhist\"."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ตามบทบัญญัติรัฐธรรมนูญของประเทศไทย ข้อความใดถูกต้อง",
+                "options": {
+                  "A": "พระมหากษัตริย์ต้องสนับสนุนเฉพาะการปฏิบัติทางพุทธศาสนาเท่านั้น",
+                  "B": "บทบาทของพระมหากษัตริย์คือการส่งเสริมพุทธศาสนาเหนือศาสนาอื่นใดทั้งหมด",
+                  "C": "พระมหากษัตริย์ทรงนับถือพุทธศาสนาโดยส่วนพระองค์และมีหน้าที่สนับสนุนศาสนาทุกศาสนา",
+                  "D": "หน้าที่หลักของพระมหากษัตริย์คือการรับรองว่าพุทธศาสนาเป็นศาสนาประจำชาติ"
+                },
+                "answer": "C",
+                "explanation": "The text combines the King's personal faith (\"a Buddhist\") with a broader, inclusive duty (\"Upholder of religions\"), implying support for all religions, not just Buddhism."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "พระมหากษัตริย์แห่งประเทศไทยทรงได้รับการกำหนดตามรัฐธรรมนูญให้เป็นพุทธศาสนิกชน",
+                "answer": true,
+                "explanation": "The text directly states \"The King is a Buddhist\"."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "รัฐธรรมนูญไทยระบุว่าหน้าที่ของพระมหากษัตริย์คือการส่งเสริมและปกป้องพระพุทธศาสนาเท่านั้น",
+                "answer": false,
+                "explanation": "While the King is personally a Buddhist, the text assigns him the broader role of \"Upholder of religions\", which implies a duty towards all religions, not just Buddhism."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第六十七条 国家应当支持和保护佛教及其他宗教。在支持和保护长期以来为大多数泰国人民所信奉的佛教时，国家应促进并支持上座部佛教法义的教育与传播，以促进心智与智慧的发展，并应采取措施和建立机制，防止佛教以任何形式受到损害。国家还应鼓励佛教徒参与实施此类措施或机制。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 67",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามข้อบังคับของประเทศไทย ศาสนาใดที่ได้รับการกล่าวถึงเป็นพิเศษสำหรับการสนับสนุนและการคุ้มครองจากรัฐ เนื่องจากถูกปฏิบัติสืบต่อกันมาโดยคนส่วนใหญ่เป็นเวลานาน",
+                "options": {
+                  "A": "ศาสนาคริสต์",
+                  "B": "อิสลาม",
+                  "C": "พุทธศาสนา",
+                  "D": "ศาสนาฮินดู"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly states that the State should support and protect Buddhism, the religion observed by the majority of Thai people for a long period."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ตามข้อบังคับ ข้อใดต่อไปนี้ที่รัฐไทยกระทำจะถือว่าสอดคล้องกับหน้าที่ของตนมากที่สุด",
+                "options": {
+                  "A": "การให้เงินอุดหนุนทางการเงินอย่างเท่าเทียมกันแก่สถาบันศาสนาทั้งหมดสำหรับค่าใช้จ่ายในการดำเนินงานของพวกเขา",
+                  "B": "มุ่งเน้นเฉพาะการปกป้องพระพุทธศาสนาโดยไม่ส่งเสริมให้ผู้นับถือมีส่วนร่วม",
+                  "C": "การดำเนินกลไกเพื่อป้องกันการบ่อนทำลายพุทธศาสนาในทุกรูปแบบ พร้อมทั้งส่งเสริมให้พุทธศาสนิกชนมีส่วนร่วมในกลไกดังกล่าว",
+                  "D": "ให้ความสำคัญกับการส่งเสริมบทสนทนาข้ามศาสนา มากกว่าการเผยแพร่หลักธรรมทางพุทธศาสนาโดยเฉพาะ"
+                },
+                "answer": "C",
+                "explanation": "The text mandates that the State shall have measures to prevent Buddhism from being undermined and should encourage Buddhists to participate in implementing such measures, making this a comprehensive duty."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "รัฐไทยมีหน้าที่สนับสนุนและคุ้มครองเฉพาะพระพุทธศาสนาเท่านั้น",
+                "answer": false,
+                "explanation": "The text states the State should support and protect Buddhism *and other religions*."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กฎระเบียบกำหนดให้รัฐไทยส่งเสริมหลักการของพุทธศาสนาเถรวาทเป็นหลักเพื่อวัตถุประสงค์ในการเพิ่มจำนวนผู้นับถือศาสนา",
+                "answer": false,
+                "explanation": "The stated purpose is for \"the development of mind and wisdom development,\" not for increasing follower count."
+              }
+            ]
+          }
+        },
+        {
+          "text": "与僧侣的身体接触——女性不得触碰僧侣或其 robes（袈裟）。若女性需向僧侣递送物品，可交由男性转交，或将物品放置于地，由僧侣自行拾取。",
+          "source": "Observing temple and sacred site etiquette while in Thailand - TAT Newsroom",
+          "url": "https://www.tatnews.org/2018/08/observing-temple-and-sacred-site-etiquette-while-in-thailand/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย ผู้หญิงถูกห้ามทำอะไรเกี่ยวกับพระสงฆ์?",
+                "options": {
+                  "A": "มองพระโดยตรง",
+                  "B": "การสัมผัสพระหรือจีวรของท่าน",
+                  "C": "การพูดกับพระสงฆ์โดยไม่ได้รับอนุญาต",
+                  "D": "เดินอยู่บนฟากถนนเดียวกับพระ"
+                },
+                "answer": "B",
+                "explanation": "Women are not allowed to touch a monk or his robes."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับการมีปฏิสัมพันธ์กับพระสงฆ์ในประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "ผู้หญิงสามารถสัมผัสจีวรของพระสงฆ์ได้ชั่วคราวหากจำเป็นเพื่อดึงดูดความสนใจของเขา",
+                  "B": "ข้อห้ามดังกล่าวใช้กับการสัมผัสตัวพระสงฆ์เองเท่านั้น ไม่รวมถึงของใช้ส่วนตัวของเขา",
+                  "C": "ผู้หญิงอาจส่งวัตถุให้พระสงฆ์ได้ หากใช้ผ้าเพื่อหลีกเลี่ยงการสัมผัสโดยตรง",
+                  "D": "เพื่อส่งต่อสิ่งของ ผู้หญิงควรใช้คนกลางที่เป็นชายหรือวางสิ่งของนั้นลง"
+                },
+                "answer": "D",
+                "explanation": "The specified methods are giving the item to a male to pass on, or placing the item down for the monk to pick up."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย ผู้หญิงสามารถสัมผัสจีวรของพระสงฆ์ได้หากกระทำด้วยความเคารพ",
+                "answer": false,
+                "explanation": "Women are not allowed to touch a monk or his robes."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กฎในประเทศไทยอนุญาตให้ผู้หญิงสามารถวางสิ่งของลงในมือพระโดยตรงได้ ตราบใดที่เธอไม่สัมผัสผิวหนังกับผิวหนัง",
+                "answer": false,
+                "explanation": "Direct passing from a woman to a monk is not permitted. The correct methods are using a male intermediary or placing the item down for the monk to retrieve."
+              }
+            ]
+          }
+        },
+        {
+          "text": "着装得体——宗教场所要求访客着装适宜。男性应穿着有袖上衣以及长裤或长度及膝的短裤。女性应穿着过膝裙装以及有袖上衣，不得穿细肩带背心。无论男女，均应穿鞋；若穿凉鞋，须有后跟绑带。",
+          "source": "Observing temple and sacred site etiquette while in Thailand - TAT Newsroom",
+          "url": "https://www.tatnews.org/2018/08/observing-temple-and-sacred-site-etiquette-while-in-thailand/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "เมื่อไปเยี่ยมชมสถานที่ทางศาสนาในประเทศไทย ผู้ชายควรแต่งกายอย่างไรจึงจะเหมาะสม",
+                "options": {
+                  "A": "เสื้อไม่มีแขนและกางเกงขาสั้นเหนือเข่า",
+                  "B": "เสื้อที่มีแขนและกางเกงขาสั้นที่คลุมถึงเข่า",
+                  "C": "เสื้อยืดและกางเกงยีนส์ ไม่ว่าจะยาวเท่าใด",
+                  "D": "สูทและเนคไทอย่างเป็นทางการ"
+                },
+                "answer": "B",
+                "explanation": "For men, appropriate dress includes a shirt with sleeves and long pants or shorts that cover the knees."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับรองเท้าสำหรับการเยี่ยมชมสถานที่ทางศาสนาในประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "ต้องสวมรองเท้า; ห้ามสวมรองเท้าแตะทุกชนิด",
+                  "B": "ต้องสวมรองเท้าหุ้มปลายเท้าทั้งผู้ชายและผู้หญิง",
+                  "C": "การเดินเท้าเปล่าเป็นสัญลักษณ์ดั้งเดิมของความเคารพและเป็นที่นิยม",
+                  "D": "รองเท้าเป็นเรื่องปกติ แต่รองเท้าแตะที่มีสายรัดด้านหลังก็สามารถใส่ได้"
+                },
+                "answer": "D",
+                "explanation": "The rule states that shoes are the norm, or if wearing sandals, these should have a strap at the back."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การสวมเสื้อแขนกุดถือว่าเป็นการแต่งกายที่เหมาะสมสำหรับผู้หญิงที่สถานที่ทางศาสนา",
+                "answer": false,
+                "explanation": "For women, appropriate dress requires a top that has sleeves, not spaghetti string straps or sleeveless tops."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ผู้ชายที่สวมเสื้อยืดและกางเกงขาสั้นแบบมีกระเป๋าซึ่งยาวถึงเหนือเข่าเล็กน้อย แต่งตัวเหมาะสมสำหรับการเยี่ยมชมวัดในไทย",
+                "answer": false,
+                "explanation": "While a t-shirt (with sleeves) is acceptable, the shorts must cover the knees. Shorts ending above the knee do not meet the requirement."
+              }
+            ]
+          }
+        },
+        {
+          "text": "脱鞋规定——任何人进入寺庙均须赤脚。所有寺庙外均设有鞋架或指定区域供您放置鞋子。",
+          "source": "Observing temple and sacred site etiquette while in Thailand - TAT Newsroom",
+          "url": "https://www.tatnews.org/2018/08/observing-temple-and-sacred-site-etiquette-while-in-thailand/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "เมื่อเข้าวัดในประเทศไทย คุณควรทำอย่างไรกับรองเท้าของคุณ",
+                "options": {
+                  "A": "รักษาความสะอาดไว้",
+                  "B": "สวมใส่ไว้ด้านใน",
+                  "C": "ทิ้งพวกเขาไว้นอกบ้าน",
+                  "D": "วางไว้ในกระเป๋าของคุณ"
+                },
+                "answer": "C",
+                "explanation": "When entering a temple, one is expected to leave their shoes outside, not wear them inside."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เมื่อไปเยี่ยมชมวัดในประเทศไทย การกระทำใดต่อไปนี้เกี่ยวกับรองเท้าถูกต้อง",
+                "options": {
+                  "A": "คุณต้องถอดรองเท้า แต่สามารถพกเข้าไปข้างในได้หากจำเป็น",
+                  "B": "คุณควรถอดรองเท้า และมักจะมีพื้นที่หรือชั้นวางเฉพาะด้านนอกสำหรับเก็บรองเท้าเหล่านั้น",
+                  "C": "คุณสามารถใส่รองเท้าเข้าไปข้างในได้ตราบใดที่มันสะอาดและไม่ใช่รองเท้าสำหรับใส่นอกบ้าน",
+                  "D": "คุณสามารถสวมรองเท้าไว้ได้หากพื้นวัดดูสะอาดและไม่มีป้ายประกาศใดๆ"
+                },
+                "answer": "B",
+                "explanation": "Shoes must be removed, and they are to be left outside where designated spaces or racks are usually found. Carrying shoes inside is not the described practice."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ตามประเพณีในประเทศไทย ต้องถอดรองเท้าก่อนเข้าวัด",
+                "answer": true,
+                "explanation": "The rule states that anyone entering a temple is expected to do so barefoot, meaning without shoes."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ขณะเยี่ยมชมวัดไทย หากคุณไม่สามารถหาที่วางรองเท้าได้ การสวมรองเท้าเข้าไปข้างในถือว่าเป็นที่ยอมรับได้",
+                "answer": false,
+                "explanation": "The expectation is to enter barefoot. Shoe racks or designated spaces are typically found, but the core rule is to remove shoes, not to base the action on the availability of a rack."
+              }
+            ]
+          }
+        },
+        {
+          "text": "参观寺庙或宫殿时，应衣着整洁、端庄。男性应穿着有袖上衣和长裤；女性应穿着长度超过膝盖的裙子或裤子。不得露出胸部，禁止穿着细肩带上衣或破洞牛仔裤。进入佛殿须脱鞋。不得触摸或攀爬佛像拍照。女性不应过于靠近僧侣，避免身体接触；如需递送物品，应包裹后通过男性转交，或由僧侣自行取用。拍摄僧侣前须征得同意，拍摄后应表示感谢。",
+          "source": "泰国国家旅游局中文官方网站",
+          "url": "http://www.amazingthailand.org.cn/Content/Index/shows/catid/121.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ข้อกำหนดด้านเสื้อผ้าที่สำคัญสำหรับผู้หญิงที่ไปเยี่ยมชมวัดหรือพระราชวังในไทยคืออะไร",
+                "options": {
+                  "A": "สวมใส่ชุดลำลองใดๆ เช่น เสื้อยืด",
+                  "B": "สวมกระโปรงหรือกางเกงที่สั้นกว่าความยาวถึงเข่าเพื่อความสบาย",
+                  "C": "สวมกระโปรงหรือกางเกงที่ยาวกว่าเข่า",
+                  "D": "การสวมเสื้อแขนกุดในอากาศร้อน"
+                },
+                "answer": "C",
+                "explanation": "Women are required to wear skirts or pants longer than knee length when visiting temples or palaces."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "สถานการณ์ใดต่อไปนี้เกี่ยวกับพฤติกรรมในวัดไทยที่สอดคล้องกับแนวทางอย่างสมบูรณ์",
+                "options": {
+                  "A": "ผู้ชายสวมเสื้อแขนกุดเดินเข้ามาในบริเวณวัด แต่สวมแจ็กเก็ตก่อนเข้าห้องพระพุทธรูป โดยจำได้ว่าต้องถอดรองเท้าเมื่ออยู่ด้านใน",
+                  "B": "ผู้หญิงคนหนึ่งในกระโปรงยาวถึงเข่าถ่ายรูปพระแบบใกล้ชิดอย่างเงียบๆ โดยไม่ได้ขออนุญาต แล้วจึงโค้งคำนับเพื่อขอบคุณ",
+                  "C": "ผู้เยี่ยมชมถอดรองเท้าก่อนเข้าห้องพระพุทธรูป แล้วจึงเอนตัวพิงพระพุทธรูปขนาดใหญ่เพื่อถ่ายรูปในโอกาสพิเศษ",
+                  "D": "ผู้หญิงที่สวมกางเกงขายาวเรียบร้อยเดินเข้าวัด ขออนุญาตพระสงฆ์ถ่ายรูปท่าน ขอบคุณท่านหลังจากนั้น และหลีกเลี่ยงการสัมผัสทางกายภาพใดๆ"
+                },
+                "answer": "D",
+                "explanation": "This scenario meets all key points: modest clothing (long pants), proper photo etiquette (asking permission and thanking), and avoiding physical contact with the monk. Option A violates the rule against sleeveless tops for men on temple grounds. Option B violates the clothing rule (knee-length is not longer than knee-length) and photo etiquette (no permission asked). Option C violates the rule against touching or climbing on Buddha statues."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ผู้มาเยือนต้องถอดรองเท้าก่อนเข้าห้องพระในวัดไทย",
+                "answer": true,
+                "explanation": "The rule explicitly states that shoes must be removed when entering the Buddha hall."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในวัดไทย ผู้หญิงสามารถยืนใกล้พระเพื่อถ่ายรูปได้ตราบใดที่ไม่มีการสัมผัสทางกายภาพ",
+                "answer": false,
+                "explanation": "The guideline states that women should not get too close to monks, which implies maintaining a respectful distance beyond just avoiding direct physical contact."
+              }
+            ]
+          }
+        },
+        {
+          "text": "脚部应朝向远离佛像的方向——若坐在佛像前方，务必确保双脚不直接朝向佛像，以免表示不敬。",
+          "source": "Observing temple and sacred site etiquette while in Thailand - TAT Newsroom",
+          "url": "https://www.tatnews.org/2018/08/observing-temple-and-sacred-site-etiquette-while-in-thailand/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "เมื่อนั่งอยู่หน้าพระพุทธรูปในประเทศไทย คุณควรทำอย่างไรกับเท้าของคุณ",
+                "options": {
+                  "A": "วางให้ราบกับพื้น",
+                  "B": "ชี้ให้ห่างจากประติมากรรม",
+                  "C": "ข้ามพวกมันอย่างสบายๆ",
+                  "D": "ชี้ไปที่รูปปั้นโดยตรง"
+                },
+                "answer": "B",
+                "explanation": "Pointing your feet away from a Buddha statue is the correct and respectful posture."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับการปฏิบัติตนต่อหน้าพระพุทธรูปในประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "การชี้เท้าของคุณเป็นการไม่เคารพก็ต่อเมื่อคุณยืนอยู่เท่านั้น",
+                  "B": "กฎนี้ใช้เฉพาะเมื่อนั่ง และการชี้เท้าไปที่รูปปั้นถือเป็นการแสดงความไม่เคารพ",
+                  "C": "ทิศทางของเท้าคุณสำคัญน้อยกว่าตำแหน่งของมือคุณ",
+                  "D": "ประเพณีนี้เป็นสัญลักษณ์ทั่วไปของความสุภาพในวัฒนธรรมเอเชียทั้งหมด ไม่ได้เกี่ยวข้องเฉพาะกับพระพุทธเจ้า"
+                },
+                "answer": "B",
+                "explanation": "The rule explicitly states that when sitting in front of a Buddha statue, one must ensure feet are pointed away, as pointing them toward it is a sign of disrespect."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การนั่งโดยให้เท้าชี้ตรงไปที่พระพุทธรูปถือว่าไม่เคารพ",
+                "answer": true,
+                "explanation": "Pointing your feet toward a Buddha statue is explicitly described as a sign of disrespect."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ประเพณีไทยเกี่ยวกับเท้าและพระพุทธรูปส่วนใหญ่เกี่ยวข้องกับการป้องกันไม่ให้สัมผัสทางกายภาพกับรูปเคารพศักดิ์สิทธิ์",
+                "answer": false,
+                "explanation": "The rule is about the symbolic direction of the feet (pointing away), not primarily about preventing physical contact. It's a gesture of respect."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人以任何方式对任何群体的宗教礼拜场所或对象进行可能侮辱该宗教的行为，应处以二年至七年监禁，或处以二千至一万四千泰铢罚金，或两者并罚。",
+          "source": "Thailand Penal Code, Religion (Sections 206-208) | Thailand Law Library, Section 206 – Insulting Religion",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-religion-sections-206-208/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายของประเทศไทย การลงโทษสำหรับผู้ที่ดูหมิ่นสถานที่สักการะทางศาสนาคืออะไร",
+                "options": {
+                  "A": "คำเตือนจากเจ้าหน้าที่ท้องถิ่น",
+                  "B": "บริการชุมชน",
+                  "C": "จำคุกตั้งแต่สองปีถึงเจ็ดปี และ/หรือปรับ",
+                  "D": "คำขอโทษอย่างเป็นทางการต่อกลุ่มศาสนา"
+                },
+                "answer": "C",
+                "explanation": "The law specifies that insulting a religious place of worship can result in imprisonment from two to seven years and/or a fine."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "บุคคลในประเทศไทยถูกตัดสินว่ามีความผิดตามกฎหมายหมิ่นศาสนา สถานการณ์ใดต่อไปนี้ที่ตรงตามเกณฑ์ทางกฎหมายสำหรับความผิดนี้อย่างชัดเจน",
+                "options": {
+                  "A": "พวกเขาแสดงความคิดเห็นวิพากษ์วิจารณ์เกี่ยวกับคำสอนของศาสนาหนึ่งต่อเพื่อนอย่างเป็นส่วนตัว",
+                  "B": "พวกเขาจัดกิจกรรมการสนทนาข้ามศาสนาอย่างสันติใกล้กับวัดแห่งหนึ่ง",
+                  "C": "พวกเขาสร้างงานศิลปะที่บางคนมองว่าไม่เหมาะสม แต่จัดแสดงไว้ในบ้านส่วนตัวของตนเอง",
+                  "D": "พวกเขาแสดงการกระทำที่มัสยิดซึ่งถูกตัดสินว่าน่าจะเป็นการดูหมิ่นศาสนาอิสลาม"
+                },
+                "answer": "D",
+                "explanation": "The law requires the act to be done 1) to the object or place of religious worship, and 2) in a manner likely to insult that religion. Private opinions (A), unrelated peaceful events (B), or acts in a private home not directed at a place of worship (C) do not meet both criteria. Only option D specifies an act at a place of worship (mosque) likely to insult that specific religion (Islam)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การทำลายวัตถุทางศาสนาในลักษณะที่ดูหมิ่นศาสนาถือเป็นการกระทำผิดกฎหมาย",
+                "answer": true,
+                "explanation": "The law protects both the \"object\" and \"place\" of religious worship from acts likely to insult the religion."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ภายใต้กฎหมายของประเทศไทย การจะถูกตัดสินว่ามีความผิดฐานดูหมิ่นศาสนา ต้องเป็นการกระทำที่ก่อให้เกิดความวุ่นวายในที่สาธารณะหรือมีสมาชิกของกลุ่มศาสนาดังกล่าวเห็นเหตุการณ์",
+                "answer": false,
+                "explanation": "The law focuses on the nature of the act itself (\"in the manner likely to insult such religion\") directed at the religious object or place. It does not specify requirements for public disturbance or witnesses as necessary conditions for the offense."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人在宗教人士依法集会进行宗教礼拜或举行宗教仪式时，故意扰乱秩序者，处一年以下有期徒刑，或处二千泰铢以下罚款，或二者并罚。",
+          "source": "Thailand Penal Code, Religion (Sections 206-208) | Thailand Law Library, Section 207 – Disturbance at a Place of Religion",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-religion-sections-206-208/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "การลงโทษทั่วไปสำหรับการขัดขวางการชุมนุมทางศาสนาที่ถูกกฎหมายในประเทศไทยคืออะไร",
+                "options": {
+                  "A": "คำขอโทษอย่างเป็นทางการ",
+                  "B": "จำคุก ปรับ หรือทั้งจำทั้งปรับ",
+                  "C": "บริการชุมชนภาคบังคับ",
+                  "D": "คำเตือนเป็นลายลักษณ์อักษร"
+                },
+                "answer": "B",
+                "explanation": "The specified punishment for causing a disturbance at a lawful religious assembly is imprisonment, a fine, or both."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับการรบกวนในการชุมนุมทางศาสนาในประเทศไทย สถานการณ์ใดมีแนวโน้มมากที่สุดที่จะนำไปสู่การลงโทษทางกฎหมาย",
+                "options": {
+                  "A": "บุคคลหนึ่งเข้าวัดอย่างเงียบๆ ในช่วงการนั่งสมาธิส่วนตัวที่ไม่ได้ประกาศว่าเป็นพิธี",
+                  "B": "บุคคลหนึ่งโต้เถียงเสียงดังทางโทรศัพท์ด้านนอกโบสถ์หลังจากพิธีวันอาทิตย์ตามกำหนดเวลาสิ้นสุดลงแล้ว",
+                  "C": "บุคคลหนึ่งขัดจังหวะพิธีอุปสมบททางพุทธศาสนาที่จัดขึ้นอย่างถูกกฎหมายซึ่งกำลังดำเนินการโดยพระสงฆ์",
+                  "D": "นักท่องเที่ยวเดินเข้าไปในห้องผิดโดยไม่ได้ตั้งใจระหว่างงานเทศกาลวัฒนธรรมที่มีองค์ประกอบทางศาสนาบางอย่าง"
+                },
+                "answer": "C",
+                "explanation": "The law applies to disturbances at assemblies of religious persons lawfully engaged in religious worship or ceremonies. An ordination ceremony performed by monks fits this description precisely. The other options involve situations outside the specific legal criteria (private session, after the service, non-religious primary event)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การก่อความวุ่นวายระหว่างพิธีสักการะทางศาสนาที่ถูกกฎหมายถือเป็นสิ่งผิดกฎหมาย",
+                "answer": true,
+                "explanation": "The rule explicitly states that causing a disturbance at an assembly engaged in lawful religious worship is punishable."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กฎหมายไทยที่ห้ามรบกวนการชุมนุมทางศาสนาใช้บังคับเฉพาะกับศาสนาที่รัฐรับรองอย่างเป็นทางการเท่านั้น",
+                "answer": false,
+                "explanation": "The text does not specify or limit the protection to only state-recognized religions. It refers broadly to \"an assembly of religious persons lawfully engaged... in religious worship or performing religious ceremonies.\""
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何冒充佛教僧侣或沙弥、其他宗教圣职人员或神职人员，穿着其服饰或使用其标志，使他人误认为其具有该身份者，处一年以下有期徒刑或二千泰铢以下罚金。",
+          "source": "Thailand Penal Code, Religion (Sections 206-208) | Thailand Law Library, Section 208",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-religion-sections-206-208/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายของประเทศไทย การแอบอ้างเป็นพระภิกษุมีบทลงโทษอย่างไร",
+                "options": {
+                  "A": "บริการชุมชน",
+                  "B": "จำคุกหรือปรับ",
+                  "C": "คำเตือนอย่างเป็นทางการ",
+                  "D": "การเนรเทศ"
+                },
+                "answer": "B",
+                "explanation": "The law states that wrongfully pretending to be a Buddhist monk can result in imprisonment of up to one year or a fine of up to two thousand Baht."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับการปลอมตัวเป็นบุคคลทางศาสนาในประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "กฎหมายคุ้มครองเฉพาะพระภิกษุและสามเณรจากการปลอมตัวเท่านั้น",
+                  "B": "การปลอมตัวเป็นบุคคลทางศาสนาใดๆ เป็นสิ่งผิดกฎหมาย แต่เฉพาะเมื่อกระทำเพื่อผลประโยชน์ทางการเงินเท่านั้น",
+                  "C": "กฎหมายนี้ใช้กับการปลอมตัวเป็นบุคคลศักดิ์สิทธิ์หรือพระสงฆ์ของศาสนาใดๆ หากทำให้บุคคลอื่นเชื่อว่าเป็นความจริง",
+                  "D": "การใช้สัญลักษณ์ทางศาสนาโดยไม่มีเจตนาหลอกลวงยังคงถือเป็นความผิดตามกฎหมายนี้"
+                },
+                "answer": "C",
+                "explanation": "The law covers wrongfully dressing or using symbols to appear as a Buddhist monk/novice OR a holy man/clergyman of ANY religion, with the key condition being that it makes another person believe the deception."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การแต่งกายปลอมเป็นพระภิกษุเพื่อให้ผู้คนเชื่อว่าคุณเป็นพระภิกษุนั้นผิดกฎหมาย",
+                "answer": true,
+                "explanation": "The text explicitly states that wrongfully dressing or using symbols to manifest oneself as a Buddhist monk to deceive others is punishable by law."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กฎหมายไทยว่าด้วยการปลอมตัวเป็นบุคคลทางศาสนากำหนดให้ลงโทษเป็นเพียงค่าปรับเท่านั้น โดยไม่มีความเป็นไปได้ที่จะถูกจำคุก",
+                "answer": false,
+                "explanation": "The prescribed punishment is imprisonment of not more than one year OR a fine of not more than two thousand Baht, meaning imprisonment is a possible penalty."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "皇室",
+      "items": [
+        {
+          "text": "任何人诽谤、侮辱或威胁国王、王后、王储或摄政者，应处以三至十五年有期徒刑。",
+          "source": "Criminal Code: Royal Family (Sections 112)",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-royal-family-sections-107-112/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมาย โทษขั้นต่ำสำหรับการดูหมิ่นพระมหากษัตริย์ของประเทศไทยคืออะไร",
+                "options": {
+                  "A": "ค่าปรับ",
+                  "B": "จำคุกสามปี",
+                  "C": "จำคุกสิบห้าปี",
+                  "D": "บริการชุมชน"
+                },
+                "answer": "B",
+                "explanation": "The law specifies a punishment of imprisonment from three to fifteen years for such offenses."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย สถานการณ์ใดมีแนวโน้มมากที่สุดที่จะนำไปสู่การลงโทษทางกฎหมายภายใต้กฎหมายที่ระบุไว้",
+                "options": {
+                  "A": "นักท่องเที่ยวต่างชาติแสดงความคิดเห็นวิพากษ์วิจารณ์เกี่ยวกับสถาบันพระมหากษัตริย์ไทยบนบัญชีโซเชียลมีเดียส่วนตัวขณะอยู่ต่างประเทศ",
+                  "B": "นักข่าวท้องถิ่นเผยแพร่รายงานเชิงข้อเท็จจริงเกี่ยวกับบทบาททางประวัติศาสตร์ของกษัตริย์องค์ก่อน ซึ่งบางคนมองว่าไม่ดี",
+                  "C": "นักกิจกรรมทางการเมืองระหว่างการปราศรัยต่อสาธารณะขู่ผู้สำเร็จราชการแทนพระองค์ซึ่งกำลังปฏิบัติหน้าที่แทนพระมหากษัตริย์",
+                  "D": "นักเขียนนิยายเขียนเรื่องแต่งที่มีตัวละครซึ่งได้รับแรงบันดาลใจอย่างหลวมๆ จากองค์รัชทายาท แต่ไม่ได้ระบุชื่อหรือระบุตัวตนโดยตรง"
+                },
+                "answer": "C",
+                "explanation": "Threatening the Regent is explicitly prohibited by the law. The other options involve complexities (location, intent, factual reporting, or indirect reference) not directly addressed by the given text, making C the clearest violation based solely on the provided rule."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การขู่เข็ญรัชทายาทแห่งราชบัลลังก์ไทยเป็นความผิดทางอาญา",
+                "answer": true,
+                "explanation": "The Heir-apparent is explicitly listed as a protected individual, and threatening them is punishable by imprisonment."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กฎหมายห้ามเฉพาะการกระทำที่หมิ่นประมาทหรือดูหมิ่นพระมหากษัตริย์เท่านั้น แต่การแสดงความคิดเห็นที่มีลักษณะข่มขู่ต่อพระราชินีไม่อยู่ในขอบเขตที่ครอบคลุม",
+                "answer": false,
+                "explanation": "The law explicitly prohibits defaming, insulting, *or threatening* the protected individuals, which includes the Queen. All three actions are illegal."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第2条 泰国实行君主立宪的民主政体，国王为国家元首。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 2",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามโครงสร้างการเมืองของประเทศไทย พระมหากษัตริย์มีบทบาทอย่างไร",
+                "options": {
+                  "A": "หัวหน้ารัฐบาล",
+                  "B": "ประมุขแห่งรัฐ",
+                  "C": "นายกรัฐมนตรี",
+                  "D": "ประธานศาลฎีกา"
+                },
+                "answer": "B",
+                "explanation": "Thailand adopts a democratic regime with the King as the Head of State."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ข้อความใดอธิบายความสัมพันธ์ระหว่างรัฐบาลไทยกับสถาบันพระมหากษัตริย์ได้อย่างถูกต้อง",
+                "options": {
+                  "A": "ระบอบพระมหากษัตริย์เป็นเพียงพิธีการเท่านั้นและไม่มีบทบาทตามรัฐธรรมนูญ",
+                  "B": "พระมหากษัตริย์ทรงเป็นทั้งประมุขแห่งรัฐและหัวหน้าฝ่ายบริหาร ทรงนำการบริหารราชการ",
+                  "C": "ประเทศไทยเป็นประชาธิปไตยที่พระมหากษัตริย์ทรงดำรงตำแหน่งประมุขของรัฐภายใต้กรอบรัฐธรรมนูญ",
+                  "D": "รัฐบาลประชาธิปไตยดำเนินงานอย่างอิสระโดยไม่มีบทบาทอย่างเป็นทางการสำหรับพระมหากษัตริย์"
+                },
+                "answer": "C",
+                "explanation": "The text specifies Thailand adopts a democratic regime *with the King as Head of State*, indicating the King holds the constitutional position of Head of State within the democratic system."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ประเทศไทยเป็นประเทศประชาธิปไตยที่พระมหากษัตริย์ทรงดำรงตำแหน่งประมุขแห่งรัฐ",
+                "answer": true,
+                "explanation": "The provided rule states that Thailand adopts a democratic regime of government with the King as Head of State."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย พระมหากษัตริย์เป็นประมุขฝ่ายบริหาร มีหน้าที่รับผิดชอบในการบริหารงานประจำวัน",
+                "answer": false,
+                "explanation": "The text states the King is the Head of State. In a democratic regime, the Head of Government (like the Prime Minister) is typically a separate role responsible for administration."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第六条 国王应处于受尊崇敬拜的地位，不得受到侵犯。任何人不得使国王遭受任何指控或行为。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 6",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "สถานะทั่วไปของพระมหากษัตริย์ตามกฎหมายไทยเป็นอย่างไร",
+                "options": {
+                  "A": "พระมหากษัตริย์เป็นข้าราชการที่เปิดรับการวิพากษ์วิจารณ์",
+                  "B": "พระมหากษัตริย์ทรงดำรงตำแหน่งที่ได้รับการเคารพบูชา",
+                  "C": "พระมหากษัตริย์เป็นเจ้าหน้าที่ที่ได้รับการเลือกตั้ง",
+                  "D": "พระมหากษัตริย์เป็นเพียงสัญลักษณ์โดยหลักและไม่มีการคุ้มครองทางกฎหมาย"
+                },
+                "answer": "B",
+                "explanation": "The text states \"The King shall be enthroned in a position of revered worship.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "สถานการณ์ใดต่อไปนี้จะละเมิดกฎหมายไทยเกี่ยวกับพระมหากษัตริย์อย่างชัดเจนที่สุด",
+                "options": {
+                  "A": "ประชาชนคนหนึ่งแสดงความเชื่อส่วนตัวในทางส่วนตัวว่าระบอบพระมหากษัตริย์ล้าสมัย",
+                  "B": "หนังสือพิมพ์ตีพิมพ์การ์ตูนเสียดสีที่แสดงภาพพระมหากษัตริย์ในสถานการณ์ที่ขบขันแต่ให้ความเคารพ",
+                  "C": "นักการเมืองยื่นคำร้องทางกฎหมายอย่างเป็นทางการต่อพระมหากษัตริย์ โดยกล่าวหาว่ามีการละเมิดรัฐธรรมนูญ",
+                  "D": "นักประวัติศาสตร์เขียนหนังสือวิชาการวิเคราะห์วิวัฒนาการทางประวัติศาสตร์ของสถาบันพระมหากษัตริย์ไทย"
+                },
+                "answer": "C",
+                "explanation": "Filing a formal legal complaint constitutes \"exposing the King to any sort of accusation or action,\" which is explicitly prohibited. The other options involve private opinion, respectful satire, or academic analysis, which are not directly addressed as violations in the given text."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "กฎหมายไทยกำหนดให้พระมหากษัตริย์อยู่ในตำแหน่งที่ต้องไม่ถูกละเมิด",
+                "answer": true,
+                "explanation": "The text directly states \"The King shall be enthroned in a position of revered worship and shall not be violated.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ภายใต้กฎหมายไทย อนุญาตให้วิพากษ์วิจารณ์การกระทำอย่างเป็นทางการของพระมหากษัตริย์ได้ตราบเท่าที่ไม่มีการดูหมิ่นส่วนตัว",
+                "answer": false,
+                "explanation": "The text prohibits exposing the King to \"any sort of accusation or action,\" which is a broad protection that includes criticism of official actions, not just personal insults."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "政治——当地领土争议、国际地区关系",
+      "items": [
+        {
+          "text": "第1条 泰王国为一个不可分割的王国。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 1",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายไทย ธรรมชาติพื้นฐานของราชอาณาจักรไทยคืออะไร",
+                "options": {
+                  "A": "เป็นสหพันธรัฐของรัฐต่างๆ ที่มีรัฐบาลกลาง",
+                  "B": "เป็นราชอาณาจักรที่ไม่สามารถแบ่งแยกและเป็นเอกภาพ",
+                  "C": "เป็นระบอบราชาธิปไตยภายใต้รัฐธรรมนูญที่ประกอบด้วยภูมิภาคปกครองตนเองหลายแห่ง",
+                  "D": "เป็นราชอาณาจักรที่อนุญาตให้มีการกำหนดชะตากรรมของตนเองในระดับภูมิภาค"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly states that Thailand is one and indivisible Kingdom."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับความสมบูรณ์ของดินแดนไทย ข้อความใดถูกต้อง",
+                "options": {
+                  "A": "แม้ว่าประเทศไทยจะเป็นราชอาณาจักรเดียวอย่างเป็นทางการ รัฐธรรมนูญของประเทศก็รับรองความเป็นไปได้ในการแยกตัวของภูมิภาคภายใต้เงื่อนไขเฉพาะ",
+                  "B": "สถานะของประเทศไทยในฐานะราชอาณาจักรที่แบ่งแยกไม่ได้เป็นข้ออ้างทางประวัติศาสตร์ แต่ไม่ใช่หลักการทางกฎหมายที่มีผลผูกพันในการปกครองสมัยใหม่",
+                  "C": "หลักการของการไม่สามารถแบ่งแยกได้ใช้กับความเป็นเอกภาพทางวัฒนธรรมเป็นหลัก ไม่จำเป็นต้องใช้กับโครงสร้างทางการเมืองหรือการบริหาร",
+                  "D": "กรอบกฎหมายเน้นย้ำว่าราชอาณาจักรไทยเป็นหน่วยเดียวที่เป็นเอกภาพและไม่สามารถแบ่งแยกได้"
+                },
+                "answer": "D",
+                "explanation": "The statement \"Thailand is one and indivisible Kingdom\" is a definitive legal principle asserting its unity and territorial integrity, with no qualifications or exceptions provided in the given text. Options A, B, and C introduce contradictory or mitigating conditions not present in the source."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "กฎหมายไทยระบุว่าราชอาณาจักรไทยเป็นหน่วยเดียวที่ไม่สามารถแบ่งแยกได้",
+                "answer": true,
+                "explanation": "The text directly states \"Thailand is one and indivisible Kingdom.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "คำกล่าวที่ว่าประเทศไทยเป็น “หนึ่งเดียวและไม่สามารถแบ่งแยกได้” หมายความว่าการแบ่งเขตการปกครองภายใน เช่น จังหวัด มีอิสระทางการเมืองในระดับสูงคล้ายกับรัฐในสหพันธรัฐ",
+                "answer": false,
+                "explanation": "The principle of being \"one and indivisible\" emphasizes national unity and territorial integrity at the state level. It does not describe or imply the nature of internal administrative governance or autonomy, which is a separate matter not addressed in the given text. The statement incorrectly infers a specific administrative model from a declaration of national unity."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人以意图使国家或其任何部分处于任何外国主权之下，或损害国家独立为目的而实施任何行为的，应处以死刑或终身监禁。",
+          "source": "Criminal Code: Offense Internal Security (Sections 119–124), Section 119",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-offense-internal-security-sections-119-124/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "การกระทำที่มีเจตนาให้ประเทศไทยหรือส่วนหนึ่งส่วนใดของประเทศไทยตกอยู่ภายใต้อำนาจอธิปไตยของต่างประเทศ มีโทษจำคุกเท่าใด",
+                "options": {
+                  "A": "ค่าปรับ",
+                  "B": "จำคุกเป็นระยะเวลาที่กำหนด",
+                  "C": "ประหารชีวิตหรือจำคุกตลอดชีวิต",
+                  "D": "บริการชุมชน"
+                },
+                "answer": "C",
+                "explanation": "The specified punishment for such acts is death or imprisonment for life."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "สถานการณ์ใดที่ละเมิดกฎหมายที่อธิบายไว้อย่างชัดเจนที่สุด",
+                "options": {
+                  "A": "ประชาชนคนหนึ่งแสดงความปรารถนาอย่างเปิดเผยต่อการเสริมสร้างความสัมพันธ์ทางเศรษฐกิจที่ใกล้ชิดยิ่งขึ้นกับประเทศเพื่อนบ้าน",
+                  "B": "กลุ่มหนึ่งวางแผนอย่างลับๆ และดำเนินการเพื่อสละการควบคุมจังหวัดชายแดนให้กับอำนาจต่างชาติ",
+                  "C": "นักการเมืองสนับสนุนนโยบายที่อาจเพิ่มการลงทุนจากต่างประเทศในบางภาคส่วน",
+                  "D": "นักกิจกรรมจัดการประท้วงต่อต้านกฎหมายภายในประเทศที่พวกเขาเชื่อว่าจำกัดเสรีภาพส่วนบุคคล"
+                },
+                "answer": "B",
+                "explanation": "This scenario involves an \"act with intent to cause... any part [of the country] to descend under the sovereignty of any foreign State,\" which directly matches the prohibited action. The other options do not demonstrate the specific intent to transfer sovereignty or deteriorate national independence as defined."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การกระทำที่มีเป้าหมายเพื่อทำให้เอกราชของประเทศไทยอ่อนแอลงถือเป็นความผิดทางกฎหมาย",
+                "answer": true,
+                "explanation": "The text states that acts intended to deteriorate the independence of the State shall be punished."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กฎหมายนี้ใช้บังคับเฉพาะการกระทำที่ประสบความสำเร็จในการทำให้ส่วนหนึ่งของประเทศไทยตกอยู่ภายใต้การควบคุมของต่างประเทศเท่านั้น การมีเจตนาเพียงอย่างเดียวไม่ถือเป็นความผิด",
+                "answer": false,
+                "explanation": "The law criminalizes the act done \"with intent\" to cause such an outcome, meaning the criminal intent combined with an action is sufficient, regardless of whether the outcome is successfully achieved."
+              }
+            ]
+          }
+        },
+        {
+          "text": "国家应遵循相互平等原则，不干涉彼此内政，以促进与其他国家的友好关系。国家应与国际组织合作，并保护在外国的国家利益及泰国人民的利益。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 66",
+          "url": "https://www.constituteproject.org/constitution/Thailand_2017?lang=en",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามหลักการของประเทศไทย รัฐควรปฏิบัติต่อประเทศอื่นอย่างไร",
+                "options": {
+                  "A": "โดยให้ความสำคัญกับพันธมิตรที่มีพลัง",
+                  "B": "โดยการนำหลักการแห่งความเท่าเทียมมาใช้",
+                  "C": "โดยแสวงหาผลประโยชน์ทางเศรษฐกิจเป็นอันดับแรก",
+                  "D": "โดยการสอดคล้องกับความเห็นส่วนใหญ่"
+                },
+                "answer": "B",
+                "explanation": "The text states that the State should adopt the principle of equality in its treatment towards other countries."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "การกระทำใดต่อไปนี้ของประเทศไทยจะสอดคล้องกับหลักการนโยบายต่างประเทศที่ประกาศไว้มากที่สุด",
+                "options": {
+                  "A": "วิพากษ์วิจารณ์กระบวนการเลือกตั้งภายในประเทศของอีกประเทศหนึ่งอย่างเปิดเผย ในขณะที่ยังคงรักษาความสัมพันธ์ทางการค้าไว้",
+                  "B": "เข้าร่วมกับกลุ่มพันธมิตรข้ามชาติเพื่อความช่วยเหลือด้านมนุษยธรรมที่เคารพเอกราชของประเทศผู้รับ",
+                  "C": "การกำหนดมาตรการคว่ำบาตรฝ่ายเดียวต่อประเทศหนึ่งเนื่องจากข้อพิพาทชายแดนโดยไม่มีการปรึกษาหารือระหว่างประเทศ",
+                  "D": "การจัดตั้งสนธิสัญญาทางทหารที่กำหนดให้สมาชิกต้องสนับสนุนตำแหน่งทางการเมืองภายในของกันและกัน"
+                },
+                "answer": "B",
+                "explanation": "This action combines cooperation with international organisations (multinational coalition) and likely protects national/interests, while respecting sovereignty aligns with non-interference and equality. The other options involve interference (A), not promoting amicable relations (C), or compromising on non-interference (D)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "นโยบายต่างประเทศของไทยรวมถึงการร่วมมือกับองค์กรระหว่างประเทศ",
+                "answer": true,
+                "explanation": "The text explicitly states \"The State should cooperate with international organisations.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "การปกป้องผลประโยชน์ของคนไทยในต่างประเทศเป็นทางเลือกและมีความสำคัญรองลงมาจากการรักษาความสัมพันธ์ระหว่างรัฐต่อรัฐ",
+                "answer": false,
+                "explanation": "The text states the State \"should cooperate with international organisations and protect national interests and interests of the Thai people in foreign countries,\" presenting these duties as connected and equally important."
+              }
+            ]
+          }
+        },
+        {
+          "text": "泰国的外交部重申，坚持2000年与柬埔寨签署的《谅解备忘录》（MoU 2000）作为解决陆地和海洋边界争端的具有法律约束力的基础，尽管目前面临日益增长的政治压力及议会中要求废除该协议的反对意见。该备忘录设立了联合勘界和划界的机制，要求双方通过双边谈判与合作排雷解决争端，并禁止单方面改变边界线。批评者认为，该文件使泰国过度受制于殖民时代的旧条约，但泰国政府坚持认为其有助于维护国家领土利益和地区稳定。",
+          "source": "Thailand Stands Firm on MoU 2000 With Cambodia Amid Rising Political Pressure – TheAsiaLive.com",
+          "url": "https://theasialive.com/thailand-stands-firm-on-mou-2000-with-cambodia-amid-rising-political-pressure/2025/08/26/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "พื้นฐานสำหรับการจัดการข้อพิพาทชายแดนระหว่างไทยกับกัมพูชาตามกระทรวงการต่างประเทศของไทยคืออะไร",
+                "options": {
+                  "A": "สนธิสัญญาทวิภาคีฉบับใหม่ตั้งแต่ปี 2023",
+                  "B": "บันทึกความเข้าใจปี 2000 (MoU 2000)",
+                  "C": "มติของสหประชาชาติ",
+                  "D": "ความเข้าใจทางการทูตแบบไม่เป็นทางการ"
+                },
+                "answer": "B",
+                "explanation": "The Thai Ministry of Foreign Affairs reaffirmed the 2000 Memorandum of Understanding (MoU 2000) with Cambodia as the legally binding basis for managing disputes."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ข้อวิพากษ์วิจารณ์หลักจากฝ่ายคัดค้านข้อตกลงเขตแดนปัจจุบันระหว่างไทยกับกัมพูชาคืออะไร",
+                "options": {
+                  "A": "มันละเลยเสถียรภาพในภูมิภาคและส่งเสริมความขัดแย้ง",
+                  "B": "มันขัดขวางความพยายามในการกำจัดทุ่นระเบิดร่วมกันตามแนวชายแดน",
+                  "C": "มันทำให้กัมพูชาสามารถเปลี่ยนเส้นแบ่งเขตแดนฝ่ายเดียวได้",
+                  "D": "มันผูกมัดประเทศไทยไว้แน่นเกินไปกับสนธิสัญญาสมัยอาณานิคมเก่า"
+                },
+                "answer": "D",
+                "explanation": "Critics argue the MoU ties Thailand too closely to old colonial-era treaties."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "รัฐบาลไทยยืนยันว่าบันทึกความเข้าใจปี 2000 กับกัมพูชาช่วยปกป้องผลประโยชน์ด้านดินแดนของไทยและความมั่นคงในภูมิภาค",
+                "answer": true,
+                "explanation": "The text states the Thai government maintains the MoU safeguards territorial interests and regional stability."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "บันทึกความเข้าใจปี 2000 ระหว่างไทยกับกัมพูชาอนุญาตให้แต่ละประเทศสามารถเปลี่ยนแปลงเส้นแบ่งเขตแดนร่วมกันได้ฝ่ายเดียว หากเห็นว่าจำเป็นเพื่อความมั่นคงของชาติ",
+                "answer": false,
+                "explanation": "The MoU explicitly prohibits unilateral changes to border lines."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "政治——国家制度",
+      "items": [
+        {
+          "text": "第1条 泰王国为一个不可分割的王国。  \n第2条 泰王国实行以国王为国家元首的民主政体。",
+          "source": "Constitution of the Kingdom of Thailand (2017)",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามรัฐธรรมนูญ ประเทศไทยมีรูปแบบการปกครองแบบใด",
+                "options": {
+                  "A": "สาธารณรัฐที่มีประธานาธิบดีมาจากการเลือกตั้ง",
+                  "B": "ระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข",
+                  "C": "ระบอบสมบูรณาญาสิทธิราชย์โดยมีพระมหากษัตริย์เป็นผู้ปกครองแต่เพียงผู้เดียว",
+                  "D": "รัฐคอมมิวนิสต์ที่มีการนำโดยคณะผู้นำร่วมกัน"
+                },
+                "answer": "B",
+                "explanation": "The constitution states that Thailand adopts a democratic regime of government with the King as Head of State."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ตามบทบัญญัติของรัฐธรรมนูญ สถานการณ์ใดจะถือว่าขัดแย้งกับระบบพื้นฐานของชาติไทย",
+                "options": {
+                  "A": "พรรคการเมืองเสนอแนวทางนโยบายเพื่อเสริมสร้างการปกครองท้องถิ่นภายในราชอาณาจักร",
+                  "B": "มีการจัดประชามติสาธารณะเพื่อเปลี่ยนรูปแบบของรัฐบาลเป็นสาธารณรัฐแบบรัฐสภา",
+                  "C": "พระมหากษัตริย์ทรงปฏิบัติพระราชกรณียกิจในฐานะประมุขของรัฐภายใต้กรอบของระบอบประชาธิปไตย",
+                  "D": "รัฐสภาผ่านกฎหมายเพื่อเสริมสร้างกระบวนการประชาธิปไตยในการเลือกตั้งเจ้าหน้าที่รัฐบาล"
+                },
+                "answer": "B",
+                "explanation": "Thailand is constitutionally defined as an indivisible kingdom with the King as Head of State under a democratic regime. Proposing to change this to a republic would contradict the foundational principle of having the King as Head of State within the defined democratic framework."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ประเทศไทยถูกกำหนดให้เป็นประเทศประชาธิปไตยโดยมีพระมหากษัตริย์ทรงดำรงตำแหน่งประมุขแห่งรัฐ",
+                "answer": true,
+                "explanation": "The constitution explicitly states that Thailand adopts a democratic regime of government with the King as Head of State."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "รัฐธรรมนูญอนุญาตให้มีความเป็นไปได้ที่ประเทศไทยจะถูกแบ่งออกเป็นหน่วยการเมืองแยกจากกัน หากได้รับการอนุมัติจากการลงคะแนนเสียงระดับชาติ",
+                "answer": false,
+                "explanation": "The constitution begins by stating that Thailand is one and indivisible Kingdom, establishing its unity as a fundamental principle."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第三条 主权属于泰国人民。国王作为国家元首，应依照本宪法规定，通过国会、内阁和法院行使权力。\n\n第四条 人民的人格尊严、权利、自由与平等应受保护。泰国人民在本宪法下享有平等的保护。",
+          "source": "Constitution of the Kingdom of Thailand (2017)",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามรัฐธรรมนูญ ใครเป็นประมุขของรัฐในประเทศไทย",
+                "options": {
+                  "A": "นายกรัฐมนตรี",
+                  "B": "ประธานรัฐสภา",
+                  "C": "พระมหากษัตริย์",
+                  "D": "ประธานศาลฎีกา"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly states \"The King as Head of State.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "กฎหมายใหม่ที่เสนอในประเทศไทยให้สิทธิบางประการแก่กลุ่มชาติพันธุ์หนึ่งแต่ไม่ให้กับกลุ่มอื่น ตามหลักการรัฐธรรมนูญ ปัญหาหลักของกฎหมายนี้คืออะไร",
+                "options": {
+                  "A": "มันละเมิดหลักการที่ว่าอำนาจอธิปไตยเป็นของพระมหากษัตริย์",
+                  "B": "มันไม่สามารถปกป้องศักดิ์ศรีของมนุษย์ ซึ่งเป็นสิทธิ์เฉพาะของพระมหากษัตริย์เท่านั้น",
+                  "C": "มันขัดแย้งกับข้อกำหนดที่ให้พระมหากษัตริย์ทรงใช้อำนาจผ่านทางสาขาต่างๆ เฉพาะเจาะจง",
+                  "D": "มันทำลายการคุ้มครองที่เท่าเทียมและความเสมอภาคที่ประชาชนไทยมีสิทธิได้รับตามรัฐธรรมนูญ"
+                },
+                "answer": "D",
+                "explanation": "The text states human dignity, rights, liberties, and equality shall be protected and that the Thai people shall enjoy equal protection. A law favoring one group violates the principle of equal protection and equality."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "อำนาจอธิปไตยในประเทศไทยเป็นของประชาชนชาวไทย",
+                "answer": true,
+                "explanation": "The text begins with \"The sovereign power belongs to the Thai people.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "รัฐธรรมนูญแห่งประเทศไทยระบุว่าพระมหากษัตริย์ทรงถืออำนาจอธิปไตยโดยตรงและทรงใช้อำนาจนั้นด้วยพระองค์เองโดยไม่ต้องผ่านองค์กรของรัฐอื่นใด",
+                "answer": false,
+                "explanation": "The King exercises sovereign power on behalf of the people through the National Assembly, the Council of Ministers, and the Courts, not directly or personally without these bodies."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第五十二条 国家应保护并维护君主制度、独立、主权以及泰国管辖范围内的领土完整；为实现上述目的，国家应有效提供国防保障，并维护国际和平与安全。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 52",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามมาตรา 52 รัฐมีหน้าที่อย่างไรเกี่ยวกับสถาบันพระมหากษัตริย์",
+                "options": {
+                  "A": "เพื่อควบคุมกิจการทางการเงินของตน",
+                  "B": "เพื่อปกป้องและยึดมั่นในสิ่งนั้น",
+                  "C": "เพื่อปรับโครงสร้างของมันเป็นระยะๆ",
+                  "D": "เพื่อปรึกษาหารือกับมันในทุกเรื่อง"
+                },
+                "answer": "B",
+                "explanation": "The State shall protect and uphold the institution of kingship."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ตามมาตรา 52 ข้อใดต่อไปนี้ไม่ใช่ความรับผิดชอบโดยตรงของรัฐ",
+                "options": {
+                  "A": "การรักษาอธิปไตยของประเทศ",
+                  "B": "การรักษาความสมบูรณ์ของดินแดนภายใต้อำนาจศาลของประเทศไทย",
+                  "C": "จัดการพิธีและประเพณีหลวงทั้งหมดโดยตรง",
+                  "D": "การปกป้องประเทศอย่างมีประสิทธิภาพ"
+                },
+                "answer": "C",
+                "explanation": "The State's duty is to \"protect and uphold the institution of kingship,\" not to directly manage its ceremonies or traditions. The other options (upholding sovereignty, maintaining territorial integrity, protecting the nation) are explicitly stated responsibilities."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "รัฐมีหน้าที่ปกป้องอิสรภาพและเอกราชของประเทศไทย",
+                "answer": true,
+                "explanation": "Section 52 states the State shall protect and uphold the independence and sovereignty of the country."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามมาตรา 52 หน้าที่ของรัฐในการรักษาสันติภาพและความมั่นคงระหว่างประเทศเป็นอิสระจากหน้าที่ในการปกป้องประเทศ",
+                "answer": false,
+                "explanation": "The text links these duties together. The State provides for the protection of the nation *and* the maintenance of international peace and security *in order to achieve* the purposes of protecting kingship, independence, sovereignty, and territorial integrity. They are interconnected parts of fulfilling the stated purposes."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "政治——国家形象",
+      "items": [
+        {
+          "text": "任何人诽谤、侮辱或威胁国王、王后、王位继承人或摄政者，应处以三至十五年有期徒刑。",
+          "source": "Criminal Code: Royal Family (Sections 112)",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-royal-family-sections-107-112/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "การดูหมิ่นพระมหากษัตริย์ของประเทศไทยมีบทลงโทษอย่างไร",
+                "options": {
+                  "A": "ค่าปรับ",
+                  "B": "จำคุกสามถึงสิบห้าปี",
+                  "C": "บริการชุมชน",
+                  "D": "คำเตือนอย่างเป็นทางการ"
+                },
+                "answer": "B",
+                "explanation": "The rule states that insulting the King is punishable with imprisonment of three to fifteen years."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับการคุ้มครองสถาบันพระมหากษัตริย์ของประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "เฉพาะการดูหมิ่นพระมหากษัตริย์ด้วยวาจาเท่านั้นที่มีความผิดทางกฎหมาย ในขณะที่การขู่เข็ญไม่อยู่ในขอบเขต",
+                  "B": "กฎหมายคุ้มครองพระมหากษัตริย์ แต่ไม่มีการคุ้มครองพระราชินีหรือรัชทายาท",
+                  "C": "การหมิ่นประมาทผู้สำเร็จราชการแทนพระองค์มีโทษน้อยกว่าการหมิ่นประมาทพระมหากษัตริย์",
+                  "D": "กฎหมายห้ามหมิ่นประมาท ดูหมิ่น หรือขู่เข็ญพระมหากษัตริย์ พระราชินี รัชทายาท และผู้สำเร็จราชการแทนพระองค์ โดยมีโทษจำคุกในระดับเดียวกัน"
+                },
+                "answer": "D",
+                "explanation": "The rule applies equally to defaming, insulting, or threatening the King, Queen, Heir-apparent, or Regent, all carrying imprisonment of three to fifteen years."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การขู่เข็ญราชินีแห่งประเทศไทยเป็นการกระทำผิดกฎหมายและอาจนำไปสู่การจำคุก",
+                "answer": true,
+                "explanation": "The rule explicitly states that threatening the Queen is punishable with imprisonment of three to fifteen years."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย การดูหมิ่นพระมหากษัตริย์องค์ก่อนที่ไม่ได้ครองราชย์อีกต่อไป จะมีบทลงโทษทางกฎหมายเท่ากับการดูหมิ่นพระมหากษัตริย์องค์ปัจจุบัน",
+                "answer": false,
+                "explanation": "The provided rule specifically protects the current King, Queen, Heir-apparent, and Regent. It does not mention or extend the same protection to former monarchs."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第2条 泰国实行君主立宪的民主政体，国王为国家元首。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 2",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "รูปแบบการปกครองของประเทศไทยคืออะไร",
+                "options": {
+                  "A": "สาธารณรัฐที่มีประมุขแห่งรัฐมาจากการเลือกตั้ง",
+                  "B": "ระบอบราชาธิปไตยภายใต้รัฐธรรมนูญโดยมีพระมหากษัตริย์เป็นประมุขแห่งรัฐ",
+                  "C": "ระบอบสมบูรณาญาสิทธิราชย์ที่ปกครองโดยพระมหากษัตริย์เพียงผู้เดียว",
+                  "D": "ระบบสหพันธรัฐที่มีผู้ว่าราชการประจำภูมิภาค"
+                },
+                "answer": "B",
+                "explanation": "Thailand adopts a democratic regime with the King as Head of State, which describes a constitutional monarchy."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "จากคำอธิบายเกี่ยวกับรัฐบาลของประเทศไทย ข้อความใดถูกต้อง?",
+                "options": {
+                  "A": "พระมหากษัตริย์เป็นประมุขในพิธีการ แต่ประเทศนี้ไม่ใช่ประชาธิปไตย",
+                  "B": "ประเทศไทยเป็นประชาธิปไตย แต่ประมุขของรัฐไม่ใช่พระมหากษัตริย์",
+                  "C": "ประเทศนี้ปกครองในระบอบประชาธิปไตย และพระมหากษัตริย์ทรงดำรงตำแหน่งประมุขแห่งรัฐ",
+                  "D": "ระบบประชาธิปไตยหมายความว่าพระมหากษัตริย์ไม่มีบทบาททางรัฐอย่างเป็นทางการ"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly combines \"a democratic regime of government\" with \"the King as Head of State,\" making option C the precise and correct synthesis."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ประเทศไทยเป็นระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข",
+                "answer": true,
+                "explanation": "The provided text confirms Thailand has a democratic government with the King as Head of State, which defines a constitutional monarchy."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ระบบการเมืองของประเทศไทยสามารถอธิบายได้ดีที่สุดว่าเป็นระบอบราชาธิปไตยแบบสมบูรณาญาสิทธิราชย์ เนื่องจากพระมหากษัตริย์ทรงเป็นประมุขแห่งรัฐ",
+                "answer": false,
+                "explanation": "While the King is the Head of State, the text specifies this is within \"a democratic regime of government,\" which contradicts an absolute monarchy."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人以侮辱国家之目的，对国旗或其他代表国家的标志实施任何行为，应处两年以下有期徒刑，或四千泰铢以下罚金，或两者并罚。",
+          "source": "Criminal Code: Offense Internal Security (Sections 113-118)",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-offense-internal-security-sections-113-118/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "การลงโทษสำหรับการเยาะเย้ยประเทศชาติโดยเจตนาผ่านการกระทำที่มุ่งเป้าไปที่ธงชาติไทยหรือสัญลักษณ์ของรัฐอื่นๆ มีอะไรบ้าง",
+                "options": {
+                  "A": "จำคุกสูงสุดสองปี",
+                  "B": "ค่าปรับอย่างน้อยสี่พันบาท",
+                  "C": "บริการชุมชน",
+                  "D": "คำเตือนอย่างเป็นทางการ"
+                },
+                "answer": "A",
+                "explanation": "The law specifies imprisonment for not out of two years (i.e., a maximum of two years) as one of the penalties."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับการไม่เคารพสัญลักษณ์ของรัฐในประเทศไทย ข้อใดถูกต้องตามบทบัญญัติทางกฎหมาย?",
+                "options": {
+                  "A": "เฉพาะความเสียหายทางกายภาพต่อธงเท่านั้นที่ถือว่ามีความผิด ไม่ใช่การกระทำเชิงสัญลักษณ์",
+                  "B": "กฎหมายนี้ใช้กับธงชาติเท่านั้น ไม่รวมสัญลักษณ์ทางการอื่นๆ",
+                  "C": "การกระทำนั้นผิดกฎหมายก็ต่อเมื่อทั้งสร้างความเสียหายทางกายภาพต่อสัญลักษณ์และกระทำต่อสาธารณะ",
+                  "D": "องค์ประกอบสำคัญที่ทำให้การกระทำนั้นผิดกฎหมายคือเจตนาที่จะเยาะเย้ยชาติ ไม่ว่าจะเป็นสัญลักษณ์ใดก็ตาม"
+                },
+                "answer": "D",
+                "explanation": "The text clearly states the illegal act requires \"the intention to deride the Nation\" and applies to \"the flag or any other emblem to be symbolized the State,\" making intent the key factor, not the type of emblem or the nature of the act (physical vs. symbolic)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การกระทำใดๆ ต่อธงชาติโดยเจตนาเพื่อเยาะเย้ยประเทศชาติอาจส่งผลให้ต้องโทษจำคุก",
+                "answer": true,
+                "explanation": "The law states that such an act \"shall be imprisoned not out of two years,\" confirming a prison sentence is a possible penalty."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามกฎแล้ว บุคคลในประเทศไทยอาจถูกปรับหากกระทำการที่มีเจตนาเยาะเย้ยชาติ โดยเฉพาะเมื่อเป้าหมายคือสัญลักษณ์ทางวัฒนธรรมที่ได้รับความนิยม ซึ่งไม่ใช่ตราสัญลักษณ์ของรัฐอย่างเป็นทางการ",
+                "answer": false,
+                "explanation": "The law specifically protects \"the flag or any other emblem to be symbolized the State.\" A popular cultural symbol not officially designated as a state emblem would not fall under this protection based on the given text."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "政治——国家信仰",
+      "items": [
+        {
+          "text": "第七条 国王为佛教徒并保护各宗教。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 7",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามรัฐธรรมนูญของประเทศไทย สถานะทางศาสนาของพระมหากษัตริย์คืออะไร",
+                "options": {
+                  "A": "พระมหากษัตริย์ทรงเป็นประมุขแห่งรัฐและหัวหน้าฝ่ายบริหาร",
+                  "B": "พระมหากษัตริย์ทรงนับถือพุทธศาสนาและทรงเป็นผู้อุปถัมภ์ศาสนา",
+                  "C": "พระมหากษัตริย์มีอำนาจแต่งตั้งนายกรัฐมนตรี",
+                  "D": "พระมหากษัตริย์ทรงเป็นจอมทัพของกองทัพไทย"
+                },
+                "answer": "B",
+                "explanation": "The text directly states that the King is a Buddhist and Upholder of religions."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ข้อความใดอธิบายบทบาทของพระมหากษัตริย์เกี่ยวกับศาสนาในประเทศไทยได้ถูกต้องที่สุด",
+                "options": {
+                  "A": "พระมหากษัตริย์ต้องนับถือศาสนาพุทธ แต่ไม่มีหน้าที่อย่างเป็นทางการเกี่ยวกับศาสนาอื่นๆ",
+                  "B": "การเป็นพุทธศาสนิกชนเป็นความเชื่อส่วนตัวของพระมหากษัตริย์ และตำแหน่ง \"ผู้อุปถัมภ์ศาสนา\" เป็นเพียงพิธีการเท่านั้น ไม่มีผลปฏิบัติใดๆ",
+                  "C": "พระมหากษัตริย์ทรงถูกกำหนดตามรัฐธรรมนูญว่าเป็นพุทธศาสนิกชน และมีหน้าที่สนับสนุนและคุ้มครองศาสนาทุกศาสนาในประเทศ",
+                  "D": "หน้าที่ทางศาสนาหลักของพระมหากษัตริย์คือการนำชุมชนสงฆ์พุทธ"
+                },
+                "answer": "C",
+                "explanation": "The phrasing \"Buddhist and Upholder of religions\" combines a personal religious identity (Buddhist) with a constitutional duty (Upholder) that suggests support for all faiths, not just one."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "พระมหากษัตริย์แห่งประเทศไทยได้รับการรับรองตามรัฐธรรมนูญว่าเป็นพุทธศาสนิกชน",
+                "answer": true,
+                "explanation": "The text clearly states \"The King is a Buddhist.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "รัฐธรรมนูญไทยระบุว่าพระมหากษัตริย์ต้องส่งเสริมพระพุทธศาสนาเหนือศาสนาอื่นใดทั้งหมด",
+                "answer": false,
+                "explanation": "The text states the King is \"a Buddhist and Upholder of religions.\" The term \"Upholder of religions\" (plural) implies a role in supporting all religions, not promoting one above others."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第六十七条 国家应支持和保护佛教及其他宗教。在支持和保护长期以来为大多数泰国人民所信奉的佛教时，国家应促进并支持上座部佛教法义的教育与传播，以促进心智与智慧的发展，并应采取措施和建立机制，防止佛教以任何形式受到破坏。国家还应鼓励佛教徒参与实施此类措施或机制。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 67",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎเกณฑ์ ศาสนาใดที่ระบุไว้โดยเฉพาะว่าเป็นศาสนาที่ประชาชนส่วนใหญ่ในไทยนับถือมาเป็นเวลานาน",
+                "options": {
+                  "A": "ศาสนาฮินดู",
+                  "B": "พุทธศาสนาเถรวาท",
+                  "C": "ศาสนาคริสต์",
+                  "D": "อิสลาม"
+                },
+                "answer": "B",
+                "explanation": "The text states that Buddhism, specifically identified as the religion observed by the majority of Thai people for a long time, is Theravada Buddhism."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ภายใต้หน้าที่ของรัฐในการสนับสนุนและคุ้มครองศาสนา ข้อความใดต่อไปนี้ถูกต้อง",
+                "options": {
+                  "A": "รัฐต้องปกป้องเฉพาะพุทธศาสนาเท่านั้น และไม่มีหน้าที่ต่อศาสนาอื่นๆ",
+                  "B": "รัฐต้องสนับสนุนทุกศาสนาอย่างเท่าเทียมกัน โดยไม่มีมาตรการพิเศษสำหรับศาสนาใดศาสนาหนึ่ง",
+                  "C": "รัฐควรสนับสนุนและคุ้มครองพระพุทธศาสนาและศาสนาอื่นๆ โดยมีมาตรการเฉพาะเพื่อป้องกันไม่ให้พระพุทธศาสนาถูกทำลาย",
+                  "D": "หน้าที่หลักของรัฐคือการส่งเสริมการสนทนาข้ามศาสนา โดยมาตรการป้องกันเป็นเรื่องรอง"
+                },
+                "answer": "C",
+                "explanation": "The rule begins by stating the State should support and protect Buddhism *and other religions*. However, it then details specific actions (promoting education, having preventive measures) for supporting/protecting Buddhism, indicating a differentiated approach within the overall duty to multiple religions."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "รัฐมีหน้าที่สนับสนุนและคุ้มครองพระพุทธศาสนาในประเทศไทย",
+                "answer": true,
+                "explanation": "The text clearly states \"The State should support and protect Buddhism...\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "กฎระเบียบกำหนดให้รัฐต้องป้องกันไม่ให้ศาสนาอื่นถูกทำลายเท่านั้น ไม่ใช่พุทธศาสนา",
+                "answer": false,
+                "explanation": "The text explicitly states the State \"shall have measures and mechanisms to prevent Buddhism from being undermined in any form.\""
+              }
+            ]
+          }
+        },
+        {
+          "text": "第三十一条 人人有权完全自由地信仰宗教，并有权依照其宗教原则进行或施行礼拜，但不得有违泰国人民的义务，不得危害国家安宁，亦不得违反公共秩序或善良风俗。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 31",
+          "url": "https://ecnl.org/sites/default/files/files/2021/ThailandConstitution.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามข้อบังคับในประเทศไทย บุคคลสามารถนับถือศาสนาของตนได้ภายใต้เงื่อนไขใด",
+                "options": {
+                  "A": "พวกเขาต้องนับถือเฉพาะศาสนาที่รัฐอนุมัติเท่านั้น",
+                  "B": "การปฏิบัติของพวกเขาต้องไม่เป็นอันตรายต่อความปลอดภัยของรัฐหรือขัดต่อความสงบเรียบร้อยของประชาชน",
+                  "C": "พวกเขาต้องฝึกปฏิบัติในสถานที่สักการะที่กำหนดเท่านั้น",
+                  "D": "พวกเขาต้องได้รับอนุญาตจากเจ้าหน้าที่ทางศาสนา"
+                },
+                "answer": "B",
+                "explanation": "The liberty to practice religion is conditional on it not endangering state safety or being contrary to public order or good morals."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "กลุ่มศาสนาใหม่ในประเทศไทยวางแผนการปฏิบัติที่สมาชิกเชื่อว่าเป็นหลักพื้นฐานของศรัทธาของพวกเขา ภายใต้ข้อบังคับระดับชาติ สถานการณ์ใดจะทำให้การปฏิบัตินี้ผิดกฎหมาย",
+                "options": {
+                  "A": "การปฏิบัตินี้ไม่คุ้นเคยกับประชากรส่วนใหญ่",
+                  "B": "การฝึกฝนดำเนินการเป็นภาษาต่างประเทศ",
+                  "C": "การปฏิบัตินี้ถูกมองโดยบางกลุ่มที่ไม่เกี่ยวข้องกับศาสนาว่าขัดต่อศีลธรรมอันดี แต่จะกระทำในที่ส่วนตัวโดยไม่เป็นอันตรายต่อผู้อื่น",
+                  "D": "การปฏิบัตินี้ แม้จะสงบสันติ แต่เจ้าหน้าที่พบว่าอาจกระตุ้นให้เกิดการกระทำที่อาจบ่อนทำลายความมั่นคงของชาติ"
+                },
+                "answer": "D",
+                "explanation": "The practice would be illegal if it is deemed to \"endanger the safety of the State,\" even if the practice itself is peaceful. The regulation prohibits practices adverse to the duties of all Thai people, endangering state safety, or contrary to public order/good morals. Option D directly relates to endangering state safety. Option C involves a subjective judgment on morals for a private act, which may not clearly violate the \"good morals\" clause if no harm is caused, making D the more definitively correct and harder choice."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย ผู้คนมีอิสระในการนับถือศาสนาใดก็ได้โดยไม่มีข้อจำกัด",
+                "answer": false,
+                "explanation": "The freedom to practice religion is not absolute; it is conditional on not being adverse to the duties of all Thai people, endangering state safety, or being contrary to public order or good morals."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "หากการปฏิบัติทางศาสนาในประเทศไทยมีความสงบและไม่ก่อให้เกิดอันตรายโดยตรงต่อใคร ก็จะสอดคล้องโดยอัตโนมัติกับข้อบังคับของชาติเกี่ยวกับเสรีภาพทางศาสนา",
+                "answer": false,
+                "explanation": "Compliance requires meeting all conditions. A peaceful practice could still be illegal if it is found to be \"adverse to the duties of all Thai people,\" \"endanger the safety of the State,\" or be \"contrary to public order or good morals.\" Peacefulness alone does not guarantee compliance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "价值观——色情",
+      "items": [
+        {
+          "text": "第14条 任何人实施下列行为之一的，处五年以下有期徒刑、不超过十万泰铢罚款，或两者并罚：……（4）将具有色情性质且可公开访问的计算机数据输入计算机系统；（5）传播或转发明知属于第（1）、（2）、（3）或（4）项所述的计算机数据；",
+          "source": "泰国《电脑犯罪法》（Computer Crimes Act, CCA）第14条",
+          "url": "https://www.thailawforum.com/database1/thailand-computer-crime-law.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายของประเทศไทย การนำข้อมูลคอมพิวเตอร์ที่เป็นภาพลามกซึ่งสามารถเข้าถึงได้โดยสาธารณะเข้าสู่ระบบคอมพิวเตอร์ มีโทษทางกฎหมายอย่างไร",
+                "options": {
+                  "A": "คำเตือนหรือบริการชุมชน",
+                  "B": "จำคุกไม่เกินห้าปี และ/หรือปรับ",
+                  "C": "เฉพาะค่าปรับจำนวนหนึ่งแสนบาทถ้วนเท่านั้น",
+                  "D": "การให้คำปรึกษาและการฟื้นฟูบังคับ"
+                },
+                "answer": "B",
+                "explanation": "The law states that importing publicly accessible pornographic computer data is subject to imprisonment for not more than five years or a fine of not more than one hundred thousand baht or both."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ภายใต้ข้อบังคับของประเทศไทยเกี่ยวกับเนื้อหาลามกอนาจาร สถานการณ์ใดที่อธิบายความผิดที่ต้องรับโทษได้ถูกต้องที่สุด",
+                "options": {
+                  "A": "บุคคลหนึ่งส่งอีเมลลิงก์ไปยังบทความข่าวให้เพื่อน ซึ่งต่อมาโดยที่พวกเขาไม่รู้ตัว ลิงก์นั้นกลับมีภาพอนาจารฝังอยู่",
+                  "B": "บุคคลหนึ่งดาวน์โหลดไฟล์สื่อลามกจากเว็บไซต์ที่เข้าถึงได้โดยสาธารณะลงในคอมพิวเตอร์ส่วนตัวเพื่อใช้งานส่วนตัว",
+                  "C": "บุคคลหนึ่งที่รู้ว่าไฟล์นั้นมีสื่อลามก ได้แชร์ไฟล์ดังกล่าวในกลุ่มออนไลน์ส่วนตัวที่มีสมาชิกสิบคน",
+                  "D": "ผู้ดูแลเว็บไซต์จะบล็อกเนื้อหาลามกทั้งหมดโดยอัตโนมัติก่อนที่ผู้ใช้งานจะสามารถเข้าถึงได้"
+                },
+                "answer": "C",
+                "explanation": "Disseminating or forwarding computer data already known to be pornographic is illegal, regardless of the platform being \"private.\" Importing publicly accessible pornographic data (B) is also illegal, but the question asks for the *most accurate* description among the options, and (C) directly corresponds to the dissemination clause. (A) lacks knowledge, and (D) is a preventive action."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การนำเข้าข้อมูลคอมพิวเตอร์ที่มีลักษณะลามกซึ่งสามารถเข้าถึงได้โดยสาธารณะเข้าสู่ระบบคอมพิวเตอร์อาจทำให้ต้องโทษจำคุก",
+                "answer": true,
+                "explanation": "The law specifies imprisonment as one of the potential penalties for importing publicly accessible pornographic computer data."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ภายใต้กฎหมายของประเทศไทย มีเพียงผู้สร้างหรือผู้นำเข้าข้อมูลคอมพิวเตอร์ลามกเท่านั้นที่จะถูกดำเนินคดี ไม่ใช่ผู้ที่เพียงแต่ส่งต่อข้อมูลนั้น",
+                "answer": false,
+                "explanation": "The law explicitly states that the dissemination or forwarding of computer data already known to be pornographic is also an offence, making the forwarder liable."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人：  \n1. 以贸易为目的或通过贸易方式，为向公众发行或公开展示之目的，制作、生产、持有、携带或安排带入泰国王国境内、发送或安排发送出泰国王国境外、携走或安排携走，或以任何方式传播任何淫秽之文件、图画、印刷品、绘画、印刷物、图片、海报、符号、照片、电影胶片、录音带、影像带或其他任何淫秽物品；  \n2. 经营、参与或介入上述淫秽物品之贸易活动，或向公众分发、公开展示，或出租上述淫秽物品；  \n3. 为协助上述淫秽物品之传播或贸易，以任何方式宣扬或散布有关有人实施本条所规定之犯罪行为之消息，或宣扬或散布上述淫秽物品可自某人处或以某种方式获取之消息者，处以不超过三年之有期徒刑，或不超过六千泰铢之罚金，或二者并处。",
+          "source": "泰国刑法第287条",
+          "url": "https://www.thailandlawonline.com/laws-in-thailand/thailand-criminal-law-text-translation#276",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "จุดเน้นหลักของกฎหมายไทยเกี่ยวกับวัสดุลามกคืออะไร",
+                "options": {
+                  "A": "การควบคุมการครอบครองเนื้อหาสำหรับผู้ใหญ่ในภาคเอกชน",
+                  "B": "ห้ามการค้าและการเผยแพร่สิ่งลามกอนาจารต่อสาธารณชน",
+                  "C": "การเซ็นเซอร์ทุกรูปแบบของการแสดงออกทางศิลปะ",
+                  "D": "การห้ามพูดถึงหัวข้อสำหรับผู้ใหญ่ออนไลน์"
+                },
+                "answer": "B",
+                "explanation": "The law specifically targets actions related to trade and public distribution or exhibition of obscene materials."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เจ้าของร้านในประเทศไทยซื้อโปสเตอร์ลามกจากผู้จัดจำหน่าย เขาไม่ได้นำมาแสดงต่อสาธารณะ แต่เก็บไว้ในห้องเก็บของ โดยมีเจตนาจะขายให้กับกลุ่มลูกค้าที่รู้จักในภายหลัง ข้อความใดอธิบายสถานะทางกฎหมายของเขาได้ดีที่สุด",
+                "options": {
+                  "A": "เขาไม่ได้กระทำความผิดใดๆ เพราะโปสเตอร์เหล่านั้นไม่ได้จัดแสดงต่อสาธารณะ",
+                  "B": "เขาจะมีความผิดก็ต่อเมื่อเขาขายโปสเตอร์ให้กับลูกค้าจริงๆ เท่านั้น",
+                  "C": "เขาอาจกระทำความผิดโดยการครอบครองสิ่งเหล่านั้นเพื่อวัตถุประสงค์ในการค้า",
+                  "D": "เขาจะมีความผิดก็ต่อเมื่อเขาโฆษณาโปสเตอร์เหล่านั้นต่อสาธารณชน"
+                },
+                "answer": "C",
+                "explanation": "The law prohibits possessing any obscene thing for the purpose of trade, even if not yet publicly distributed or exhibited. Intending to sell them later qualifies as \"for the purpose of trade.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การสร้างภาพวาดลามกเพื่อจุดประสงค์ในการจัดแสดงต่อสาธารณชนถือว่าผิดกฎหมาย",
+                "answer": true,
+                "explanation": "Making or producing any obscene document or drawing for public distribution or exhibition is a prohibited act."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ผู้ที่เพียงแต่แจ้งให้เพื่อนทราบในบทสนทนาส่วนตัวว่าจะหาหนังสือลามกออนไลน์ได้จากที่ไหน ถือว่าละเมิดกฎหมาย เนื่องจากการเผยแพร่ข้อมูลดังกล่าวใดๆ เป็นสิ่งต้องห้าม",
+                "answer": false,
+                "explanation": "The law prohibits propagating or spreading news about where to obtain obscene material **in order to assist in its circulation or trading**. A private conversation without the intent to assist in trade or circulation may not meet this specific condition, though context matters. The statement is too absolute."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "价值观——传播虚假有害信息",
+      "items": [
+        {
+          "text": "第14条 任何人实施下列行为之一，构成犯罪的，处五年以下有期徒刑、不超过十万泰铢罚金，或二者并罚：（1）将全部或部分伪造的计算机数据或虚假计算机数据输入计算机系统，足以对第三方或公众造成损害的；（2）将虚假计算机数据输入计算机系统，足以危害国家安全或引起公众恐慌的；（3）将与《刑法》规定的危害王国安全罪相关的计算机数据输入计算机系统的；……（5）传播或转发明知属于第（1）、（2）、（3）或（4）项所列之计算机数据的；",
+          "source": "泰国《电脑犯罪法》（Computer Crimes Act, CCA）第14条",
+          "url": "https://www.thailawforum.com/database1/thailand-computer-crime-law.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายไทย การกระทำใดสามารถนำไปสู่การปรับสูงสุดหนึ่งแสนบาท",
+                "options": {
+                  "A": "การใช้คอมพิวเตอร์เพื่อความบันเทิงส่วนตัว",
+                  "B": "การลบข้อมูลคอมพิวเตอร์โดยไม่ได้ตั้งใจ",
+                  "C": "การนำเข้าข้อมูลคอมพิวเตอร์อันเป็นเท็จซึ่งอาจก่อให้เกิดความเสียหายต่อสาธารณะ",
+                  "D": "การแบ่งปันความคิดเห็นส่วนตัวที่ไม่เป็นอันตรายออนไลน์"
+                },
+                "answer": "C",
+                "explanation": "Importing false computer data in a manner likely to cause damage to the public is one of the specific acts punishable under the law."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "บุคคลในประเทศไทยโพสต์เนื้อหาออนไลน์ที่ตนเชื่ออย่างแท้จริงว่าเป็นความจริง แต่ภายหลังพิสูจน์ได้ว่าเป็นเท็จและก่อให้เกิดความตื่นตระหนกในหมู่ประชาชน ข้อความใดถูกต้องที่สุดเกี่ยวกับความรับผิดของบุคคลนั้นตามมาตรา 14",
+                "options": {
+                  "A": "พวกเขาต้องรับผิดชอบอย่างเต็มที่เนื่องจากเนื้อหานั้นทำให้เกิดความตื่นตระหนกในหมู่ประชาชน",
+                  "B": "พวกเขาไม่ต้องรับผิดเพราะกระทำโดยไม่ทราบว่าข้อความนั้นเป็นเท็จ",
+                  "C": "พวกเขาต้องรับผิดเฉพาะค่าปรับเท่านั้น ไม่ใช่การจำคุก",
+                  "D": "ความรับผิดขึ้นอยู่กับว่าเนื้อหานั้นถูกนำเข้าสู่หรือสร้างขึ้นภายในระบบคอมพิวเตอร์"
+                },
+                "answer": "B",
+                "explanation": "Key offenses under items (2) and (5) specify \"false computer data\" and dissemination of data \"already known to be\" false. Liability hinges on knowledge of the falsity, not just the outcome."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การนำเข้าข้อมูลคอมพิวเตอร์ที่เกี่ยวข้องกับความผิดด้านความมั่นคงแห่งชาติเข้าสู่ระบบคอมพิวเตอร์เป็นการกระทำที่มีโทษ",
+                "answer": true,
+                "explanation": "Section 14 explicitly lists importing computer data related to an offence against the Kingdom's security as a punishable act."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ภายใต้กฎหมายไทย การกระทำที่สร้างข้อมูลคอมพิวเตอร์ปลอมบนคอมพิวเตอร์ส่วนตัวของตนเอง โดยไม่ได้นำเข้าจากแหล่งภายนอกหรือเผยแพร่ออกไป ถือเป็นความผิดตามมาตรา 14",
+                "answer": false,
+                "explanation": "The specified offenses in Section 14 focus on the \"import to a computer system\" of such data or the \"dissemination or forwarding\" of it. Merely creating false data locally without these actions is not addressed by this section."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "政治文化",
+      "items": [
+        {
+          "text": "第七十条 国家应促进并保障各民族在不违反公共秩序、善良风俗以及不影响安全、健康或卫生的前提下，自愿地、和平地、不受干扰地按照其传统文化、习俗和生活方式生活的权利。",
+          "source": "Constitution of the Kingdom of Thailand (2017) Section 70",
+          "url": "https://www.constituteproject.org/constitution/Thailand_2017?lang=en",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "รัฐควรส่งเสริมและคุ้มครองสิทธิใดสำหรับกลุ่มชาติพันธุ์ต่างๆ ในประเทศไทย",
+                "options": {
+                  "A": "สิทธิในการผสานเข้ากับวัฒนธรรมหลักอย่างเต็มที่",
+                  "B": "สิทธิในการใช้ชีวิตตามวัฒนธรรมและวิถีชีวิตดั้งเดิมของพวกเขา",
+                  "C": "สิทธิในการจัดตั้งโครงสร้างการปกครองที่เป็นอิสระ",
+                  "D": "สิทธิ์ในการไม่สนใจกฎหมายและระเบียบสาธารณะของชาติ"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly states the State should promote and protect the right of ethnic groups \"to live in the society according to the traditional culture, custom, and ways of life.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ชุมชนชาติพันธุ์ต้องการสานต่อประเพณีการล่าสัตว์ในพื้นที่ป่าที่ได้รับการคุ้มครอง ตามหลักการที่เกี่ยวข้อง ปัจจัยใดมีแนวโน้มน้อยที่สุดที่จะเป็นเหตุผลที่ถูกต้องสำหรับการแทรกแซงของรัฐ",
+                "options": {
+                  "A": "การปฏิบัตินี้เกี่ยวข้องกับการใช้วิธีการที่ปัจจุบันถือว่าเป็นความเสี่ยงต่อสุขภาพของประชาชน",
+                  "B": "การปฏิบัตินี้ถูกมองว่าล้าหลังทางวัฒนธรรมโดยประชากรส่วนใหญ่",
+                  "C": "การปฏิบัตินี้เพิ่งนำไปสู่ความขัดแย้งรุนแรงกับชุมชนใกล้เคียง",
+                  "D": "การกระทำนี้คุกคามสัตว์ใกล้สูญพันธุ์ที่มีความสำคัญต่อระบบนิเวศในท้องถิ่น"
+                },
+                "answer": "B",
+                "explanation": "The text protects traditional practices unless they contravene public order, good morals, security, health, or sanitation. Options A (health risk), C (public order/security), and D (could relate to security/health of the ecosystem) align with stated limitations. Option B, being based solely on majority cultural perception, is not a listed justification and is therefore the least valid reason for state intervention."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "รัฐไทยควรให้มั่นใจว่ากลุ่มชาติพันธุ์ทั้งหมดจะละทิ้งประเพณีดั้งเดิมของตนเพื่อยึดถือวัฒนธรรมแห่งชาติที่เป็นเอกภาพ",
+                "answer": false,
+                "explanation": "The text clearly states the opposite: the State should promote and protect the right of ethnic groups to live according to their traditional culture, custom, and ways of life."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "หากประเพณีการแต่งงานแบบดั้งเดิมของกลุ่มชาติพันธุ์ใดถูกปฏิบัติอย่างสันติและโดยความสมัครใจของสมาชิกในกลุ่มนั้น รัฐมีหน้าที่ต้องคุ้มครองการปฏิบัตินี้ แม้ว่าจะขัดต่อกฎหมายว่าด้วยอายุที่ยินยอมตามที่ประเทศกำหนดไว้ก็ตาม",
+                "answer": false,
+                "explanation": "The protection of traditional practices is conditional. The text states it is protected \"insofar as it is not contrary to public order or good morals.\" National laws, especially those concerning the age of consent which are typically rooted in public order and the protection of minors (a matter of public morality and health/security of the individual), would constitute a valid limitation. The practice being voluntary and peaceful within the group does not override this fundamental legal and public order constraint."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第四条 本法所促进与保护的非物质文化遗产，应属于下列类别之一：（一）民间文学与语言；（二）表演艺术；（三）社会实践、仪式、习俗与节庆；（四）有关自然界与宇宙的知识与实践；（五）传统手工艺；（六）民间戏剧、民间体育与武术；（七）部长规章另行规定的其他类别。",
+          "source": "PROMOTION AND CONSERVATION OF INTANGIBLE CULTURAL HERITAGE ACT, B.E.2559 (2016)",
+          "url": "https://www.culture.go.th/off_secretary/ewt_dl_link.php?nid=768",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ภายใต้พระราชบัญญัตินี้ ข้อใดต่อไปนี้ไม่ได้ระบุไว้เป็นหมวดหลักของมรดกทางวัฒนธรรมที่จับต้องไม่ได้ซึ่งควรส่งเสริมและอนุรักษ์",
+                "options": {
+                  "A": "วรรณกรรมและภาษาพื้นบ้าน",
+                  "B": "สูตรอาหารแบบดั้งเดิม",
+                  "C": "ประเพณีทางสังคม พิธีกรรม ขนบธรรมเนียม และเทศกาล",
+                  "D": "ความรู้และแนวปฏิบัติเกี่ยวกับธรรมชาติและจักรวาล"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly lists categories (1) to (6), including A, C, and D. Traditional culinary recipes are not mentioned as a core category. While they could potentially fall under \"others as prescribed in the Ministerial Regulation,\" they are not one of the primary listed categories."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เทศกาลชุมชนประกอบด้วยการเต้นรำแบบดั้งเดิม (ศิลปะการแสดง) พิธีบวงสรวงบรรพบุรุษ (ประเพณี/พิธีกรรมทางสังคม) และการสาธิตเทคนิคการทอผ้าท้องถิ่น (งานฝีมือดั้งเดิม) ตามกฎหมายนี้ การแสดงออกทางวัฒนธรรมที่รวมกันนี้ควรจัดหมวดหมู่อย่างไรเพื่อการส่งเสริมและการอนุรักษ์",
+                "options": {
+                  "A": "ควรลงทะเบียนแยกต่างหากภายใต้แต่ละหมวดที่เกี่ยวข้อง: ศิลปะการแสดง ประเพณีทางสังคม และงานฝีมือดั้งเดิม",
+                  "B": "สามารถจัดหมวดหมู่ได้เพียงหมวดเดียวที่แสดงถึงองค์ประกอบที่โดดเด่นที่สุด เช่น \"ประเพณีทางสังคม พิธีกรรม ขนบธรรมเนียม และเทศกาล\"",
+                  "C": "คณะกรรมาธิการมีอำนาจจัดหมวดหมู่ให้อยู่ในหนึ่งหรือหลายหมวดที่เหมาะสมตามที่กำหนดไว้ในประกาศของคณะกรรมาธิการ ซึ่งอาจครอบคลุมหลายด้าน",
+                  "D": "เนื่องจากมันรวมองค์ประกอบต่างๆ จึงอยู่ในหมวด \"อื่นๆ\" และต้องรอประกาศกระทรวงเพื่อกำหนดการจัดประเภทของมัน"
+                },
+                "answer": "C",
+                "explanation": "The text does not state that an item must be forced into a single category (B) or that combined items default to the \"others\" category (D). The final sentence grants the Commission, via its Notification, the authority to prescribe the classification. This allows for a nuanced approach where a multifaceted cultural expression could be recognized under multiple relevant categories (A is a possible outcome, but C accurately reflects the Commission's prescribed authority as the mechanism). The key is that the classification is not rigidly automatic but follows the Commission's prescribed method."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "กีฬาพื้นบ้านถือเป็นหมวดหมู่หนึ่งของมรดกทางวัฒนธรรมที่จับต้องไม่ได้ตามกฎหมาย",
+                "answer": true,
+                "explanation": "The text explicitly lists \"(6) folk plays, folk sports and martial arts\" as one of the categories of intangible cultural heritage to be promoted and conserved."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "การปฏิบัติแบบดั้งเดิมใดๆ ที่ไม่ได้ระบุไว้อย่างชัดเจนในหกหมวดแรกของพระราชบัญญัตินี้ จะไม่สามารถพิจารณาเพื่อส่งเสริมและอนุรักษ์ในฐานะมรดกทางวัฒนธรรมที่จับต้องไม่ได้",
+                "answer": false,
+                "explanation": "The text lists six specific categories but concludes with \"(7) others as prescribed in the Ministerial Regulation.\" This provision allows for the inclusion of traditional practices beyond the initial six categories, provided they are later defined and prescribed by a Ministerial Regulation. Therefore, the statement is false."
+              }
+            ]
+          }
+        },
+        {
+          "text": "音乐剧《国王与我》（讲述1860年代来暹罗为皇室家族授课的英国教师安娜·列奥诺文斯的故事）被许多泰国人视为具有冒犯性。",
+          "source": "Geo-Culture",
+          "url": "https://geo-culture.com/country/thailand",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ทำไมละครเพลง \"เดอะคิงแอนด์ไอ\" จึงถือว่าเป็นเรื่องที่ก่อให้เกิดข้อถกเถียงในประเทศไทย",
+                "options": {
+                  "A": "มันไม่ถูกต้องทางประวัติศาสตร์เกี่ยวกับจักรวรรดิอังกฤษ",
+                  "B": "คนไทยหลายคนรู้สึกว่ามันเป็นการดูหมิ่น",
+                  "C": "มันแสดงภาพครอบครัวราชวงศ์ไทยในแง่ลบ",
+                  "D": "มีคุณภาพทางดนตรีที่ไม่ดี"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly states that the musical \"is considered offensive by many Thais.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "บริษัทต่างชาติวางแผนจัดงานวัฒนธรรมในกรุงเทพฯ และต้องการรวมการแสดงจากละครบรอดเวย์ชื่อดังที่เกี่ยวกับประวัติศาสตร์ของไทย ข้อใดต่อไปนี้จะเหมาะสมทางวัฒนธรรมที่สุดเพื่อหลีกเลี่ยงการสร้างความไม่พอใจ",
+                "options": {
+                  "A": "ฉากจากเรื่อง \"เดอะคิงแอนด์ไอ\" ที่เน้นด้านการศึกษา",
+                  "B": "การแสดงการเต้นรำแบบไทยดั้งเดิมที่ไม่เกี่ยวข้องกับราชวงศ์",
+                  "C": "การดัดแปลงที่ทันสมัยของ \"เดอะคิงแอนด์ไอ\" ที่ตั้งอยู่ในประเทศอื่น",
+                  "D": "การบรรยายเกี่ยวกับชีวิตและการเดินทางของแอนนา เลโอนอเวนส์"
+                },
+                "answer": "B",
+                "explanation": "Given that \"The King and I\" is considered offensive by many Thais due to its portrayal of a historical king and royal family, any performance or adaptation related to it carries a high risk of causing offense (making options A, C, and D problematic). Choosing a traditional Thai performance unrelated to sensitive historical figures aligns with cultural respect and avoids the specific controversy mentioned in the text."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ละครเพลง \"เดอะคิงแอนด์ไอ\" ได้รับความชื่นชมอย่างกว้างขวางในประเทศไทยสำหรับการถ่ายทอดทางประวัติศาสตร์",
+                "answer": false,
+                "explanation": "The text clearly states the opposite: it \"is considered offensive by many Thais.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "หากบุคคลใดเชื่อว่า \"เดอะคิงแอนด์ไอ\" เป็นเรื่องแต่งที่ไม่เป็นอันตราย พวกเขาจะไม่ก่อให้เกิดปัญหาใดๆ โดยการพูดถึงรายละเอียดเนื้อเรื่องของมันต่อสาธารณะในประเทศไทย",
+                "answer": false,
+                "explanation": "The text establishes that the musical is considered offensive by many Thais. Therefore, publicly discussing its plot details, even if one personally views it as harmless fiction, could still cause offense or be seen as culturally insensitive, as it engages with content known to be controversial within that cultural context."
+              }
+            ]
+          }
+        },
+        {
+          "text": "《国王从不微笑》一书对泰国已故国王、其统治时期、君主制的权力及其政治背景进行了批判性和调查性分析。自2006年以来，泰国当局禁止该书出版、发行，以及在泰国境内进行在线销售或展示。",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_King_Never_Smiles",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "หนังสือ *The King Never Smiles* มีเนื้อหาเกี่ยวกับเรื่องอะไร",
+                "options": {
+                  "A": "การพัฒนาเศรษฐกิจของประเทศไทย",
+                  "B": "เทศกาลทางวัฒนธรรมของประเทศไทย",
+                  "C": "การวิเคราะห์อย่างวิกฤตเกี่ยวกับพระมหากษัตริย์องค์ก่อนของประเทศไทยและสถาบันพระมหากษัตริย์",
+                  "D": "ประวัติศาสตร์ของอาหารไทย"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly states that the book presents a critical and investigative analysis of Thailand's former king, his reign, the power of the monarchy, and its political context."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "การกระทำใดบ้างที่เกี่ยวข้องกับหนังสือ *The King Never Smiles* ถูกจำกัดภายในประเทศไทย",
+                "options": {
+                  "A": "เฉพาะการเผยแพร่ทางกายภาพเท่านั้นที่ถูกห้าม",
+                  "B": "ห้ามเฉพาะการอภิปรายออนไลน์เกี่ยวกับหนังสือเล่มนี้เท่านั้น",
+                  "C": "การเผยแพร่ การจัดจำหน่าย และการขายหรือแสดงออนไลน์ทั้งหมดถูกจำกัด",
+                  "D": "การครอบครองสำเนาส่วนตัวเป็นสิ่งผิดกฎหมาย แต่ห้องสมุดสามารถเก็บรักษาไว้ได้"
+                },
+                "answer": "C",
+                "explanation": "The text states there are restrictions on \"publication, circulation, and online sale or display.\" Option A and B are incomplete, only covering part of the restrictions. Option D introduces a specific, unmentioned detail about personal vs. library ownership, which is not specified in the text and serves as an interference."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "หนังสือ *The King Never Smiles* เป็นชีวประวัติที่ยกย่องสถาบันพระมหากษัตริย์ไทย",
+                "answer": false,
+                "explanation": "The text describes the book as presenting a \"critical and investigative analysis,\" which contradicts the notion of it being a praising biography."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามกฎหมายไทย อนุญาตให้ขายสำเนาหนังสือ *The King Never Smiles* ที่ใช้แล้วภายในประเทศไทยได้ตราบใดที่ไม่ได้ทำผ่านทางออนไลน์",
+                "answer": false,
+                "explanation": "The text states restrictions on both \"circulation\" and \"online sale or display.\" The term \"circulation\" generally encompasses the distribution and movement of physical copies, including sales. Therefore, selling a used physical copy would likely fall under the restriction on circulation, making it not permissible. The statement incorrectly assumes only online sales are banned."
+              }
+            ]
+          }
+        },
+        {
+          "text": "电影《莎士比亚必须死》将一部经典的莎士比亚戏剧改编为现代泰国政治寓言，影射了独裁统治、权力斗争、政治腐败以及学生抗议等历史性的国家压制事件。2012年，泰国文化部和电影审查委员会以该片内容可能分裂社会、破坏社会和谐为由禁止其上映。尽管泰国法院在2023至2024年间解除了放映禁令，但长期的争议凸显了在泰国审查环境下政治题材的高度敏感性。",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shakespeare_Must_Die",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ละครเรื่องใดที่ถูกดัดแปลงเป็นภาพยนตร์ไทยเรื่อง *เชกสเปียร์ต้องตาย*",
+                "options": {
+                  "A": "ละครการเมืองไทยสมัยใหม่",
+                  "B": "ละครคลาสสิกของเชกสเปียร์",
+                  "C": "สารคดีทางประวัติศาสตร์",
+                  "D": "เรื่องตลกเกี่ยวกับความสามัคคีทางสังคม"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly states that the film *Shakespeare Must Die* adapts a classic Shakespearean play."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ผู้กำกับภาพยนตร์ในประเทศไทยต้องการสร้างภาพยนตร์ที่มีธีมทางการเมือง โดยพิจารณาจากกรณีของ *เชกสเปียร์ต้องตาย* สถานการณ์ใดต่อไปนี้มีแนวโน้มจะเผชิญกับความท้าทายด้านการเซ็นเซอร์มากที่สุด",
+                "options": {
+                  "A": "ภาพยนตร์ที่เล่าเรื่องราวครอบครัวสมมุติที่ไม่เกี่ยวข้องกับการเมือง ซึ่งตั้งอยู่ในชนบทของประเทศไทย",
+                  "B": "สารคดีเกี่ยวกับเทศกาลแบบดั้งเดิมและมรดกทางวัฒนธรรมของประเทศไทย",
+                  "C": "เรื่องเล่าเชิงอุปมาเกี่ยวกับการต่อสู้แย่งชิงอำนาจและการทุจริตในอาณาจักรสมมุติที่ไม่มีชื่อ",
+                  "D": "ภาพยนตร์ชีวประวัติเกี่ยวกับบุคคลทางประวัติศาสตร์ที่ได้รับการยกย่องอย่างกว้างขวางและไม่มีข้อถกเถียงทางการเมือง"
+                },
+                "answer": "C",
+                "explanation": "*Shakespeare Must Die* was an allegory referencing dictatorship and political corruption, which led to its ban. Option C describes a similar politically sensitive allegory, making it the most likely to face challenges. The other options avoid direct or allegorical political commentary, aligning less with the cited reason for censorship (societal division)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ภาพยนตร์เรื่อง *เชกสเปียร์ต้องตาย* ถูกห้ามฉายในประเทศไทยเพราะเป็นบันทึกทางประวัติศาสตร์โดยตรงของการประท้วงของนักศึกษา",
+                "answer": false,
+                "explanation": "While the film references historical state repression like student protests, it is an allegorical adaptation of a Shakespearean play, not a direct historical record. It was banned for potentially dividing society, not specifically for being a historical record."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "แม้ว่าศาลไทยจะยกเลิกการห้ามฉายภาพยนตร์ *Shakespeare Must Die* ในปี 2023-2024 แต่ประวัติของภาพยนตร์เรื่องนี้แสดงให้เห็นว่าอุปมาทางการเมืองโดยทั่วไปไม่ก่อให้เกิดข้อโต้แย้งและสามารถเผยแพร่ได้อย่างเสรีในภูมิทัศน์ทางวัฒนธรรมของไทย",
+                "answer": false,
+                "explanation": "The text states the \"prolonged controversy illustrates the sensitivity of political themes within Thailand’s censorship environment.\" The court's decision to lift the ban does not negate the demonstrated sensitivity and controversy; it actually underscores the challenging environment for such content."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "历史",
+      "items": [
+        {
+          "text": "最好避免谈论政治话题，尤其是过去十年内的任何内部冲突。不要提及泰国南部分离主义势力的情况，也不要对此发表任何观点或评判。泰国近代史上包含若干极为敏感的政治与社会冲突，这些事件至今仍具争议性，或未被公开充分承认。其中包括1976年10月6日的法政大学大屠杀事件，当时在国家支持下，右翼准军事团体对反对前军事独裁者复出的学生抗议者实施暴力镇压，造成数十人死亡、大规模逮捕，并导致短暂的民主时期终结。在泰国南部，长期动荡于2004年加剧，例如克鲁塞清真寺事件中，武装叛乱分子在军方突击行动中被击毙；以及塔克拜事件，其间78名被拘押的抗议者在军事转运过程中因窒息死亡，进一步激化了当地民众的不满情绪。近年来，2020至2021年泰国全国性抗议活动在前进党被解散后爆发，示威者要求解散议会、修改宪法并停止对异议人士的恐吓，促使政府宣布进入紧急状态。上述事件共同说明了为何在泰国，政治言论与历史评判在社会与政治层面依然高度敏感。",
+          "source": "Geo-Culture; Wikipedia",
+          "url": "https://geo-culture.com/country/thailand; https://zh.wikipedia.org/wiki/%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%B1%A0%E6%AE%BA; https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E5%8B%95%E4%BA%82; https://zh.wikipedia.org/wiki/2020%E5%B9%B4%E2%80%942021%E5%B9%B4%E6%B3%B0%E5%9C%8B%E7%A4%BA%E5%A8%81",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "เหตุการณ์ใดต่อไปนี้ถือเป็นเหตุการณ์ที่มีความละเอียดอ่อนสูงในประวัติศาสตร์สมัยใหม่ของประเทศไทยตามแนวทางที่กำหนด",
+                "options": {
+                  "A": "การเปิดมหาวิทยาลัยแห่งใหม่ในกรุงเทพฯ",
+                  "B": "การเฉลิมฉลองปีใหม่ไทย",
+                  "C": "การสังหารหมู่ที่มหาวิทยาลัยธรรมศาสตร์เมื่อวันที่ 6 ตุลาคม พ.ศ. 2519",
+                  "D": "เทศกาลท่องเที่ยวชื่อดังในเชียงใหม่"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly lists the Thammasat University Massacre of 6 October 1976 as a highly sensitive political and social conflict in Thailand's modern history."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เกี่ยวกับความไม่สงบในภาคใต้ของประเทศไทย เหตุการณ์ใดที่เกี่ยวข้องกับปฏิบัติการทางทหารที่สถานที่ทางศาสนา?",
+                "options": {
+                  "A": "เหตุการณ์ตากใบ",
+                  "B": "การประท้วงในประเทศไทย พ.ศ. 2563-2564",
+                  "C": "การยุบพรรคอนาคตใหม่",
+                  "D": "เหตุการณ์มัสยิดกรือเส"
+                },
+                "answer": "D",
+                "explanation": "The text mentions the \"Krue Se Mosque incident, where armed insurgents were killed during a military assault.\" The Tak Bai incident involved deaths during transport of detained protesters, and the other options are unrelated to southern Thailand unrest or a religious site."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การประท้วงในไทยปี 2020–2021 เกิดขึ้นจากการยุบพรรคอนาคตใหม่",
+                "answer": true,
+                "explanation": "The text directly states: \"the 2020–2021 Thai protests emerged nationwide following the dissolution of the Future Forward Party.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามข้อมูลที่ให้มา การพูดถึงรายละเอียดของเหตุการณ์ตากใบถือว่าเป็นหัวข้อที่ปลอดภัยและไม่อ่อนไหวในประเทศไทย",
+                "answer": false,
+                "explanation": "The text lists the Tak Bai incident as part of the long-running, sensitive unrest in southern Thailand and advises against bringing up or sharing opinions about such situations. Therefore, discussing its details would be sensitive, not safe."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "价值观——煽动颠覆国家政权、推翻君主立宪制",
+      "items": [
+        {
+          "text": "任何人以实施暴力或威胁实施暴力之方式，意图：\n1. 推翻或变更宪法；\n2. 推翻宪法所规定的立法权、行政权或司法权，或使之失效；或\n3. 分裂王国或夺取王国任何部分的行政权力，即构成叛乱罪，应处以死刑或无期徒刑。\n\n凡集结兵力或武器，或以其他方式为实施叛乱进行准备，或共谋实施叛乱，或实施作为叛乱阴谋一部分之犯罪行为，或煽动私人实施叛乱，或明知他人将实施叛乱而实施任何行为以协助隐瞒其秘密意图者，应处三年以上十五年以下有期徒刑。",
+          "source": "Thailand Criminal Code, Sections 113–114",
+          "url": "Criminal Code: Offense Internal Security (Sections 113-118)",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายไทย โทษสูงสุดสำหรับผู้ที่ถูกตัดสินว่ามีความผิดฐานก่อการจลาจลเพื่อล้มล้างรัฐธรรมนูญคืออะไร",
+                "options": {
+                  "A": "ปรับและบริการชุมชน",
+                  "B": "จำคุกไม่เกิน 15 ปี",
+                  "C": "ประหารชีวิตหรือจำคุกตลอดชีวิต",
+                  "D": "จำคุกไม่น้อยกว่า 3 ปี"
+                },
+                "answer": "C",
+                "explanation": "The text states that a person who commits insurrection to overthrow or change the Constitution \"shall be punished with death or imprisonment for life.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "บุคคลในประเทศไทยทราบว่ามีกลุ่มหนึ่งกำลังวางแผนก่อการจลาจลติดอาวุธเพื่อยึดครองจังหวัดหนึ่ง โดยพวกเขาจัดหาสถานที่ปลอดภัยให้กลุ่มนั้นเก็บอาวุธ โดยเชื่อว่าตนเองแค่ช่วยเหลือเพื่อนเท่านั้น ภายใต้กฎหมายไทย คำอธิบายที่ถูกต้องที่สุดเกี่ยวกับสถานะทางกฎหมายของพวกเขาคืออะไร",
+                "options": {
+                  "A": "พวกเขาบริสุทธิ์เพราะไม่ได้วางแผนหรือก่อความรุนแรงด้วยตนเอง",
+                  "B": "พวกเขาผิดฐานกบฏและอาจเผชิญโทษจำคุกตลอดชีวิตหรือประหารชีวิตสำหรับความผิดหลัก",
+                  "C": "พวกเขาผิดฐานความผิดที่เกี่ยวข้องจากการช่วยรักษาเจตนาลับในการกบฏ",
+                  "D": "พวกเขาจะมีความผิดก็ต่อเมื่อกระตุ้นให้บุคคลทั่วไปเข้าร่วมการลุกฮือโดยตรงเท่านั้น"
+                },
+                "answer": "C",
+                "explanation": "The text specifies that a person who, \"[k]nowing that there are the persons to commit the insurrection and making any act to assist in keeping such secret intention to commit such insurrection,\" commits a separate, preparatory offense punishable by imprisonment (3-15 years), not the main insurrection crime itself (which carries death/life). Options A and B are incorrect regarding the charge and penalty. Option D describes \"instigating,\" which is a different preparatory act."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ภายใต้กฎหมายไทย การยุยงให้บุคคลธรรมดากระทำการกบฏเป็นความผิดทางอาญา",
+                "answer": true,
+                "explanation": "The text explicitly lists \"instigating the private persons to commit the insurrection\" as a punishable act."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย การสมรู้ร่วมคิดกับผู้อื่นเพื่อเตรียมการกระทำการกบฏ แม้ว่าจะไม่มีการใช้ความรุนแรงเกิดขึ้นเลย ก็ไม่ถือเป็นความผิด",
+                "answer": false,
+                "explanation": "The text states that \"conspires to commit the insurrection\" is one of the punishable preparatory acts, meaning the conspiracy itself is a crime independent of whether the planned violent insurrection is executed."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人煽动武装部队或警察部队成员逃离、不履行职责或实施哗变的，处五年以下有期徒刑。如该犯罪行为旨在破坏上述武装部队或警察部队的纪律和效率，则对犯罪人处十年以下有期徒刑。",
+          "source": "Thailand Criminal Code, Section 115",
+          "url": "Criminal Code: Offense Internal Security (Sections 113-118)",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การยุยงให้สมาชิกของกองทัพละทิ้งหน้าที่หรือไม่ปฏิบัติหน้าที่จะมีบทลงโทษอย่างไร",
+                "options": {
+                  "A": "เฉพาะค่าปรับเท่านั้น",
+                  "B": "จำคุกไม่เกินห้าปี",
+                  "C": "จำคุกอย่างน้อยสิบปี",
+                  "D": "บริการชุมชน"
+                },
+                "answer": "B",
+                "explanation": "The text states that anyone who instigates a member of the armed forces to desert or not perform duties shall be punished with imprisonment not exceeding five years."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "บุคคลในประเทศไทยจัดแคมเปญเรียกร้องให้ทหารประท้วงอย่างสันติเพื่อเรียกร้องค่าจ้างที่ดีขึ้นโดยการปฏิเสธไม่รายงานตัวเข้าประจำการ พวกเขาอ้างว่าเป้าหมายของตนเกี่ยวข้องกับค่าจ้างเท่านั้น ไม่กระทบต่อความมั่นคงของชาติ ภายใต้กฎหมายที่ระบุไว้ ข้อความใดถูกต้องที่สุดเกี่ยวกับความรับผิดทางกฎหมายที่อาจเกิดขึ้นกับพวกเขา",
+                "options": {
+                  "A": "พวกเขาไม่ต้องเผชิญกับการลงโทษใดๆ เนื่องจากการประท้วงเป็นไปอย่างสันติและเกี่ยวกับปัญหาแรงงาน",
+                  "B": "พวกเขาเผชิญโทษจำคุกสูงสุดห้าปีสำหรับการยุยงให้ไม่ปฏิบัติหน้าที่ ไม่ว่าจะอ้างวัตถุประสงค์ใดก็ตาม",
+                  "C": "พวกเขาจะถูกลงโทษก็ต่อเมื่อสามารถพิสูจน์ได้ว่าจุดประสงค์ที่แท้จริงของพวกเขาคือการทำลายวินัยทางทหาร ซึ่งจะมีโทษหนักกว่า",
+                  "D": "พวกเขาต้องเผชิญกับโทษจำคุกอัตโนมัติสิบปี เนื่องจากทุกการกระทำที่ส่งผลกระทบต่อทหารถือเป็นภัยคุกคามต่อความมั่นคงของชาติ"
+                },
+                "answer": "B",
+                "explanation": "The base offence is instigating members of the armed forces \"not to perform his duties\". This carries a punishment of up to five years, irrespective of the instigator's claimed purpose. The enhanced penalty (up to ten years) applies only if the *additional purpose* of undermining discipline/efficiency is proven (Option C describes the condition for the enhanced penalty, not the base offence). Therefore, the person is liable for the base offence."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การยุยงให้เจ้าหน้าที่ตำรวจละทิ้งหน้าที่ถือเป็นความผิดทางอาญา",
+                "answer": true,
+                "explanation": "The text explicitly states that instigating any member of the police forces to desert is punishable by law."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ภายใต้กฎหมายไทย การกระทำที่วิพากษ์วิจารณ์การจัดสรรงบประมาณของทหารต่อสาธารณะจะได้รับโทษทางกฎหมายเช่นเดียวกับการยุยงให้ทหารก่อกบฏ",
+                "answer": false,
+                "explanation": "The text defines the specific offence as instigating actions like desertion, mutiny, or not performing duties. General criticism of policy or budget, without instigating the prohibited acts listed, does not fall under the described legal provision. The penalties apply to instigating specific disruptive acts within the forces, not to all forms of criticism."
+              }
+            ]
+          }
+        },
+        {
+          "text": "凡以言语、文字或其他方式公开表示，其行为不属于宪法宗旨范围，亦非出于诚实表达意见或批评之目的，而具有下列情形之一者，处七年以下有期徒刑：\n\n1. 以武力或暴力手段图谋改变国家法律或政府；  \n2. 在可能引起国内动乱的方式下煽动人民产生不满与敌对情绪；或  \n3. 致使人民违反国家法律。\n\n凡为图谋改变国家法律、胁迫政府或恐吓公众，煽动或导致他人举行罢工、停工或联合停止贸易或营业者，处七年以下有期徒刑，或处不超过一万四千泰铢之罚金，或二者并罚。\n\n凡明知上述目的，仍参与或协助他人举行罢工、停工或联合停止贸易或营业者，处三年以下有期徒刑，或处不超过六千泰铢之罚金，或二者并罚。\n\n凡明知上述目的，实施暴力行为、威胁实施暴力行为，或以任何方式恐吓，以强迫他人参与或协助罢工、停工或联合停止贸易或营业者，处五年以下有期徒刑，或处不超过一万泰铢之罚金，或二者并罚。",
+          "source": "Thailand Criminal Code, Sections 116–117",
+          "url": "Criminal Code: Offense Internal Security (Sections 113-118)",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายไทย โทษจำคุกสูงสุดสำหรับการใช้ถ้อยคำหรือข้อความต่อสาธารณชนโดยมีเจตนาเปลี่ยนแปลงกฎหมายของประเทศผ่านทางกำลังหรือความรุนแรงคือเท่าใด",
+                "options": {
+                  "A": "3 ปี",
+                  "B": "5 ปี",
+                  "C": "7 ปี",
+                  "D": "10 ปี"
+                },
+                "answer": "C",
+                "explanation": "The first paragraph of the text explicitly states that such acts \"shall be punished with imprisonment not exceeding seven years.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "เจ้าของธุรกิจคนหนึ่งซึ่งทราบว่าการนัดหยุดงานที่วางแผนไว้มีเป้าหมายเพื่อบีบให้รัฐบาลเปลี่ยนกฎหมาย ขู่พนักงานว่าจะปลดออกจากงานหากไม่เข้าร่วม การกระทำดังกล่าวอาจมีโทษสูงสุดตามกฎหมายไทยคืออะไร?",
+                "options": {
+                  "A": "ค่าปรับไม่เกิน 6,000 บาท",
+                  "B": "จำคุกไม่เกิน 3 ปี หรือปรับ",
+                  "C": "จำคุกไม่เกิน 5 ปี หรือปรับ",
+                  "D": "จำคุกไม่เกิน 7 ปี หรือปรับ"
+                },
+                "answer": "C",
+                "explanation": "The scenario describes a person who, with knowledge of the strike's coercive purpose, uses intimidation (threatening job loss) to compel participation. This matches the fourth paragraph of the text, which prescribes punishment of \"imprisonment not exceeding five years or fine not exceeding ten thousand Baht, or both.\" Option B applies to mere participation/assistance, and Option D applies to instigating the strike itself."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การเรียกร้องอย่างเปิดเผยให้ล้มล้างระบอบพระมหากษัตริย์ด้วยวิธีการรุนแรงถือว่าผิดกฎหมาย",
+                "answer": true,
+                "explanation": "The text criminalizes acts intended \"To bring about a change in the Laws of the Country or the Government by the use of force or violence.\" As Thailand is a constitutional monarchy, advocating for the overthrow of the monarchy (a fundamental part of the government) through violence falls under this prohibition."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ในประเทศไทย การเข้าร่วมหยุดงานซึ่งเดิมถูกเรียกร้องเพื่อกดดันรัฐบาลนั้นผิดกฎหมายเสมอ ไม่ว่าเจตนาส่วนตัวของผู้เข้าร่วมจะเป็นอย่างไร",
+                "answer": false,
+                "explanation": "The text states that punishment for participation or assistance in a strike applies to one who acts \"with the knowledge of the above purpose\" (i.e., the purpose of coercing the government or intimidating the public). If a participant is unaware of this illicit purpose or joins for unrelated reasons like workplace grievances, their action may not meet the legal criteria for punishment under this specific law."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "价值观——危害国家安全和利益、损害国家形象",
+      "items": [
+        {
+          "text": "凡以使国家或其任何部分隶属于外国主权，或损害国家独立之故意而实施任何行为者，处死刑或无期徒刑。\n\n凡与意图使国家陷入战争或其他危害国家行为之人共谋，并为外国利益行事者，处无期徒刑或十年以上二十年以下有期徒刑。\n\n凡泰国国民在战斗中持武器对抗国家，或以国家敌对者身份参与战事者，处死刑或无期徒刑。",
+          "source": "Thailand Criminal Code, Sections 119–121",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-offense-internal-security-sections-119-124/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายไทย โทษสำหรับพลเมืองไทยที่จับอาวุธต่อสู้กับประเทศของตนเองคืออะไร",
+                "options": {
+                  "A": "ปรับและบริการชุมชน",
+                  "B": "จำคุกตั้งแต่ 5 ถึง 10 ปี",
+                  "C": "ประหารชีวิตหรือจำคุกตลอดชีวิต",
+                  "D": "การเนรเทศและการสูญเสียสัญชาติ"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly states: \"Whoever, being a Thai, bears the arms in battle against the Country... shall be punished with death or imprisonment for life.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "กลุ่มบุคคลวางแผนอย่างลับๆ เพื่อดำเนินการที่มีเป้าหมายลดความสามารถของประเทศไทยในการตัดสินใจด้านนโยบายต่างประเทศอย่างอิสระลงอย่างมาก ทำให้ต้องพึ่งพาประเทศเพื่อนบ้านที่มีอำนาจมากขึ้น ภายใต้กฎหมายไทย คำอธิบายใดเหมาะสมที่สุดกับความผิดและบทลงโทษที่อาจเกิดขึ้นกับพวกเขา",
+                "options": {
+                  "A": "พวกเขาไม่ได้ก่ออาชญากรรมใดๆ เนื่องจากเพียงแค่วางแผนและไม่ได้จับอาวุธ",
+                  "B": "พวกเขาอาจถูกตั้งข้อหาพกพาอาวุธต่อต้านประเทศ ซึ่งมีโทษประหารชีวิต",
+                  "C": "พวกเขาอาจถูกตั้งข้อหาสมรู้ร่วมคิดเพื่อทำให้อิสรภาพของรัฐเสื่อมถอย ซึ่งมีโทษประหารชีวิตหรือจำคุกตลอดชีวิต",
+                  "D": "พวกเขาอาจถูกตั้งข้อหาเข้าร่วมเป็นศัตรู แต่เฉพาะในกรณีที่เป็นพลเมืองไทยเท่านั้น"
+                },
+                "answer": "C",
+                "explanation": "While the group did not \"bear arms\" (ruling out B and the specific condition of D), their planned actions aim to \"deteriorate the independence of the State,\" which falls under the first provision of the text. This act, done with intent, is punishable by \"death or imprisonment for life.\" Option A is incorrect as planning such acts with intent is itself a serious crime."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การกระทำโดยเจตนาเพื่อให้ส่วนใดส่วนหนึ่งของประเทศตกอยู่ภายใต้อธิปไตยของรัฐต่างประเทศถือเป็นความผิดทางอาญาที่ร้ายแรง",
+                "answer": true,
+                "explanation": "The text begins by stating that whoever acts with intent to cause the country or any part thereof to descend under the sovereignty of any foreign state shall be punished with death or life imprisonment."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ภายใต้กฎหมายไทย ชาวต่างชาติที่อาศัยอยู่ในประเทศไทยซึ่งให้การสนับสนุนและช่วยเหลือด้านโลจิสติกส์แก่กองกำลังศัตรูในช่วงสงครามกับประเทศไทย จะต้องรับผิดทางกฎหมายก็ต่อเมื่อมีการสมรู้ร่วมคิดกับพลเมืองไทยโดยตรง",
+                "answer": false,
+                "explanation": "The text's second provision criminalizes conspiring \"with the person to make the act for the benefit of the foreign State with the intention of causing the battle against the State.\" It does not specify that the co-conspirator must be a Thai citizen. A foreign national conspiring with anyone (including other foreigners or the foreign state's agents) to commit such acts would likely fall under this provision. The third provision specifically addresses Thai citizens bearing arms or participating as an enemy, but the conspiracy charge in the second provision has broader applicability."
+              }
+            ]
+          }
+        },
+        {
+          "text": "凡以任何行为支持敌方作战或战备者，处五年以上十五年以下有期徒刑。如有下列情形之一者，处死刑或无期徒刑：\n1. 使要塞、营地、机场、军用运输工具、运输工具、交通线路、通信设备、武器装备、粮食、船坞、建筑物或其他用于战争之物失效或落入敌人之手；\n2. 唆使武装部队成员怠忽职守、发动兵变、脱离服役或违反纪律；\n3. 实施间谍行为，或为敌人进行引导、指挥；\n4. 以其他方式在作战中有利于敌人。",
+          "source": "Thailand Criminal Code, Section 122",
+          "url": "https://library.siam-legal.com/thai-law-criminal-code-offense-internal-security-sections-119-124/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "การลงโทษสำหรับผู้ที่กระทำการสนับสนุนการรบหรือการเตรียมการรบของศัตรูในประเทศไทยคืออะไร",
+                "options": {
+                  "A": "เฉพาะค่าปรับเท่านั้น",
+                  "B": "จำคุกตั้งแต่ห้าถึงสิบห้าปี",
+                  "C": "บริการชุมชน",
+                  "D": "จำคุกตลอดชีวิตหรือประหารชีวิต"
+                },
+                "answer": "B",
+                "explanation": "The text states the base punishment for such an act is imprisonment of five to fifteen years. The more severe punishments of death or life imprisonment apply only if the assistance falls under one of the four specific aggravating circumstances listed."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "พลเรือนในประเทศไทย ในช่วงที่มีความขัดแย้งทางอาวุธ แฮ็กเข้าไปในเครือข่ายการสื่อสารทางทหารและทำให้ระบบล่ม การกระทำนี้ไม่ได้ประสานงานโดยตรงกับฝ่ายศัตรู แต่มีผลทำให้การลำเลียงทางทหารหยุดชะงัก ภายใต้กฎหมายที่ระบุไว้ ข้อความใดที่ถูกต้องที่สุดเกี่ยวกับโทษที่อาจได้รับ",
+                "options": {
+                  "A": "การลงโทษมีเพียงการจำคุกตั้งแต่ห้าถึงสิบห้าปี เนื่องจากไม่มีการชี้นำศัตรูโดยตรงเกี่ยวข้อง",
+                  "B": "การลงโทษอาจเป็นประหารชีวิตหรือจำคุกตลอดชีวิต เนื่องจากการทำให้อุปกรณ์สื่อสารที่ใช้ในสงครามเสียหายถือเป็นการกระทำที่มีลักษณะรุนแรงตามที่กฎหมายกำหนด",
+                  "C": "การลงโทษจะไม่รุนแรงเท่ากับห้าปี เนื่องจากบุคคลนั้นเป็นพลเรือน ไม่ใช่ทหาร",
+                  "D": "การลงโทษไม่แน่นอนเพราะการกระทำนั้นเป็นดิจิทัลและไม่ได้ก่อให้เกิดความเสียหายทางกายภาพ"
+                },
+                "answer": "B",
+                "explanation": "The action falls under aggravating circumstance 1: \"rendering useless... any... article used in communication\" used for the purpose of war. The text clearly states that if the assistance is made by such means, the offender shall be punished with death or imprisonment for life. The lack of direct coordination or the digital nature of the act does not change this classification based on the provided text."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การชักชวนให้ทหารละทิ้งหน้าที่เพื่อช่วยเหลือกองกำลังศัตรูถือเป็นความผิดร้ายแรง",
+                "answer": true,
+                "explanation": "The text lists \"instigating any member of the armed forces... to desert the service\" as one of the specific aggravating acts that warrants the severe punishment of death or life imprisonment."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามกฎหมายไทย การให้ข้อมูลที่ไม่เกี่ยวกับการทหาร เช่น ข้อมูลประชากรพลเรือน แก่ศัตรูในระหว่างการรบ จะมีโทษจำคุกมาตรฐานห้าถึงสิบห้าปีเท่านั้น ไม่ใช่โทษที่รุนแรงกว่านี้",
+                "answer": false,
+                "explanation": "The text includes a catch-all provision in aggravating circumstance 4: \"acting any other means of the advantage for the enemy in the battle.\" Providing strategic information like population demographics could reasonably be interpreted as an \"advantage for the enemy,\" thereby subjecting the offender to the enhanced punishment of death or life imprisonment, not just the base sentence."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人以任何行为获取为国家安危而保密之信息、文件或物品者，应处十年以上有期徒刑。\n\n任何人实施任何行为，使他人得以知悉或取得为国家安危而保密之信息、文件或物品者，应处十年以下有期徒刑。若该犯罪行为发生于国家处于作战或战争状态时，应处五年以上十五年以下有期徒刑。若前述两项所列之犯罪行为系为外国利益而实施者，应处死刑或无期徒刑。",
+          "source": "Thailand Criminal Code, Sections 123–124",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-offense-internal-security-sections-119-124/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "โทษจำคุกขั้นต่ำสำหรับการได้มาซึ่งข้อมูลลับที่กระทบต่อความมั่นคงแห่งชาติของไทยคือเท่าใด",
+                "options": {
+                  "A": "5 ปี",
+                  "B": "10 ปี",
+                  "C": "15 ปี",
+                  "D": "จำคุกตลอดชีวิต"
+                },
+                "answer": "B",
+                "explanation": "The text clearly states that whoever procures information kept secret for the safety of the Country shall be imprisoned not less than ten years."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "ในช่วงความขัดแย้งทางอาวุธระหว่างประเทศ พบว่านักข่าวในประเทศไทยได้ส่งข้อมูลเศรษฐกิจที่เป็นความลับให้กับสำนักข่าวในประเทศที่เป็นกลาง การสอบสวนสรุปว่าการรั่วไหลดังกล่าวส่วนใหญ่เป็นประโยชน์ต่ออาชีพของนักข่าว ไม่ใช่ประเทศที่เป็นกลาง โทษสูงสุดที่พวกเขาอาจเผชิญคืออะไร",
+                "options": {
+                  "A": "จำคุก 10 ปี",
+                  "B": "จำคุก 15 ปี",
+                  "C": "จำคุกตลอดชีวิต",
+                  "D": "โทษประหารชีวิต"
+                },
+                "answer": "B",
+                "explanation": "The act was committed \"whilst the Country is engaged in the battle or war,\" which triggers the 5 to 15 years imprisonment penalty. The escalated penalties of death or life imprisonment only apply if the offence is \"committed for the benefit of a foreign State.\" Since the primary benefit was personal career advancement, not state benefit, the wartime penalty of up to 15 years applies, not the foreign state benefit penalty."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "การแบ่งปันความลับของรัฐกับเพื่อนร่วมงานในประเทศไทยอาจนำไปสู่การติดคุก",
+                "answer": true,
+                "explanation": "The text specifies that doing any act so that another person may know or obtain secret information is punishable by imprisonment."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "หากมีผู้ใดขโมยเอกสารลับเพื่อผลประโยชน์ทางการเงินส่วนตัวในช่วงเวลาสงบ พวกเขาอาจถูกตัดสินประหารชีวิตตามกฎหมายไทย",
+                "answer": false,
+                "explanation": "The death penalty (or life imprisonment) is specified only for offences committed \"for the benefit of a foreign State.\" Personal financial gain does not meet this specific condition, so the lower-tier penalties (not less than 10 years, or not exceeding 10 years, depending on the exact act) would apply."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "价值观——宣扬暴力/恐怖主义、极端主义",
+      "items": [
+        {
+          "text": "第135/1条 恐怖主义\n\n凡实施下列犯罪行为者：\n\n1. 实施暴力行为或采取任何危及生命、造成身体严重伤害或严重侵犯他人人身自由的行为；\n\n2. 实施任何对交通运输系统、通信系统或公共利益相关的基础设施造成严重损害的行为；\n\n3. 实施任何对国家财产或个人财产造成损害，或实施可能造成重大经济损失的破坏行为；\n\n若上述行为旨在胁迫或迫使泰国政府、外国政府或国际组织实施或不实施某项行为以造成严重伤害，或通过使民众产生恐惧而制造社会动乱，则实施该行为者构成恐怖主义罪，应处以死刑、无期徒刑，或三年以上二十年以下有期徒刑，并处六万至一百万泰铢罚金；\n\n以示威、集会、抗议、辩论或请愿方式要求政府援助或寻求司法救济的行为，不构成恐怖主义罪。",
+          "source": "Thailand Criminal Code, Section 135/1",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-offense-against-foreign-states-sections-135-1-135-4/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายไทย ข้อใดต่อไปนี้จะไม่ถือว่าเป็นการก่อการร้าย",
+                "options": {
+                  "A": "ก่อให้เกิดอันตรายร้ายแรงต่อชีวิตของบุคคลใดบุคคลหนึ่งเพื่อบังคับให้องค์กรระหว่างประเทศดำเนินการ",
+                  "B": "การทำลายระบบขนส่งสาธารณะหลักเพื่อสร้างความหวาดกลัวให้กับประชาชน",
+                  "C": "จัดการประท้วงสาธารณะเพื่อเรียกร้องความช่วยเหลือจากรัฐบาล",
+                  "D": "ก่อให้เกิดความเสียหายร้ายแรงต่อทรัพย์สินของรัฐเพื่อบีบบังคับรัฐบาลไทย"
+                },
+                "answer": "C",
+                "explanation": "The text explicitly states that actions like demonstrations or protests for demanding government aid or justice are not considered offences of terrorism."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "กลุ่มหนึ่งในประเทศไทยวางแผนการกระทำที่จะรบกวนเครือข่ายการสื่อสารของชาติอย่างรุนแรง โดยคาดว่าจะทำให้เกิดความหวาดกลัวของประชาชนอย่างมากและก่อให้เกิดความเสียหายทางเศรษฐกิจขนาดใหญ่ เป้าหมายที่พวกเขาประกาศคือการกดดันรัฐบาลให้ผ่านกฎหมายสิ่งแวดล้อมฉบับเฉพาะเจาะจง ตามกฎหมายไทย การกระทำนี้ถือเป็นการก่อการร้ายหรือไม่",
+                "options": {
+                  "A": "ไม่ เพราะเป้าหมายของพวกเขาเกี่ยวข้องกับการปกป้องสิ่งแวดล้อม ซึ่งเป็นประโยชน์สาธารณะ",
+                  "B": "ใช่ แต่เฉพาะในกรณีที่ความเสียหายทางเศรษฐกิจเกิดกับทรัพย์สินส่วนตัว ไม่ใช่ทรัพย์สินของรัฐ",
+                  "C": "ไม่ เพราะการบังคับให้รัฐบาลผ่านกฎหมายไม่เหมือนกับการบังคับให้มัน \"ไม่กระทำการใดๆ\"",
+                  "D": "ใช่ เพราะการก่อให้เกิดบาดแผลร้ายแรงต่อระบบสื่อสารสาธารณะเพื่อบีบบังคับรัฐบาลโดยการขู่เข็ญประชาชนนั้นเป็นไปตามเกณฑ์ทางกฎหมาย"
+                },
+                "answer": "D",
+                "explanation": "The action involves causing serious injury to a communication-system (a listed act) with the aim to coerce the Thai government (to pass a law, which qualifies as forcing it \"to make any act\") by making a disorder and causing people to be terrified. The nature of the law being environmental does not exempt it from the terrorism definition. Option C is incorrect because coercing the government \"to make\" an act is explicitly covered in the text."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การกระทำรุนแรงใดๆ ที่ก่อให้เกิดอันตรายร้ายแรงต่อชีวิตบุคคลจะถูกจัดประเภทเป็นการก่อการร้ายโดยอัตโนมัติ",
+                "answer": false,
+                "explanation": "Not all violent acts are terrorism. The text specifies that for an act to be terrorism, it must be committed with the specific aim to coerce a government or international organization and to cause terror among the people."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "หากบุคคลใดก่อให้เกิดความเสียหายทางเศรษฐกิจอย่างร้ายแรงต่อบริษัทเอกชนในประเทศไทย แต่กระทำไปเพื่อผลประโยชน์ทางการเงินส่วนตัวเท่านั้น โดยไม่มีเจตนาที่จะสร้างความหวาดกลัวแก่ประชาชนหรือมีอิทธิพลต่อรัฐบาล การกระทำดังกล่าวอาจยังคงเข้าข่ายนิยามทางกฎหมายของลัทธิก่อการร้ายในประเทศนี้",
+                "answer": true,
+                "explanation": "While the core definition of terrorism requires a coercive aim against a government/organization achieved through terror, one of the listed criminal acts is causing injury to any person's property if it is an envelopment (scheme/plan) likely to cause important economic injury. If this act were part of a larger plan that ultimately meets the coercive and terror-inducing aims, it could be considered. However, acting purely for personal gain without the specified terror/coercion aim would not typically qualify. The statement is \"potentially\" true because the property damage itself is a listed component, but the critical missing elements (coercive aim, terror) in the described scenario make it a borderline/hard case requiring careful legal interpretation of the \"envelopment\" clause and overall intent."
+              }
+            ]
+          }
+        },
+        {
+          "text": "第135/2条 恐怖主义行为\n\n凡有下列行为之一者：\n1. 以实施恐怖行为相威胁，并存在可能使人相信其将实施所威胁行为之情形；或\n2. 组织力量或武装，获取或聚集财产，提供或接受恐怖活动训练，准备其他恐怖行为或共谋实施恐怖行为或犯罪，作为恐怖活动计划的一部分，或煽动他人参与恐怖活动，或明知为恐怖分子而实施任何包庇行为；\n应处二年以上十年以下有期徒刑，并处四万至二十万泰铢罚金。",
+          "source": "Thailand Criminal Code, Section 135/2",
+          "url": "https://library.siam-legal.com/thai-law/criminal-code-offense-against-foreign-states-sections-135-1-135-4/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "ตามกฎหมายไทย การกระทำใดหนึ่งที่กำหนดให้บุคคลเป็น \"ผู้ก่อการร้าย\" อย่างถูกกฎหมายคืออะไร",
+                "options": {
+                  "A": "วิพากษ์วิจารณ์รัฐบาลต่อสาธารณะ",
+                  "B": "ขู่ว่าจะกระทำการก่อการร้ายในลักษณะที่น่าเชื่อถือ",
+                  "C": "การจัดการประท้วงอย่างสันติโดยไม่ได้รับอนุญาต",
+                  "D": "การแบ่งปันข่าวเกี่ยวกับการโจมตีของผู้ก่อการร้ายในอดีต"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly states that a person is defined as a terrorist if they \"Threaten to commit acts of terrorism by having any circumstance which is likely to cause the belief that such person will act as he or she threatened.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "บุคคลในประเทศไทยถูกพบว่าให้ที่พักพิงแก่กลุ่มผู้ก่อการร้ายที่เป็นที่รู้จัก โดยรับรู้ดีถึงกิจกรรมของพวกเขา แต่อ้างว่าไม่เคยมีส่วนร่วมในการวางแผนความรุนแรงใดๆ ภายใต้กฎหมายที่ระบุไว้ การประเมินสถานะทางกฎหมายของบุคคลนี้ที่แม่นยำที่สุดคืออะไร",
+                "options": {
+                  "A": "พวกเขาไม่ต้องรับผิดเพราะไม่ได้วางแผนหรือก่อความรุนแรงโดยตรง",
+                  "B": "พวกเขาจะมีความรับผิดก็ต่อเมื่อได้บริจาคเงินให้กับกลุ่มนั้นด้วย",
+                  "C": "พวกเขาต้องรับผิดชอบในข้อหาการก่อการร้ายจากการกระทำเพื่อปกปิดหรือสนับสนุนผู้ก่อการร้าย",
+                  "D": "พวกเขาจะถูกตั้งข้อหาเฉพาะในกรณีที่พวกเขาเองเป็นผู้ขู่กรรโชกต่อสาธารณะ"
+                },
+                "answer": "C",
+                "explanation": "The law includes as a terrorist act: \"ones know the terrorists and commit any act to be covered.\" Providing shelter to known terrorists with awareness of their status is an act of concealment/support, making the person liable under this provision, regardless of direct participation in violent planning."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "ในประเทศไทย การขู่ว่าจะก่อการร้ายเพียงอย่างเดียวก็ถือว่าเป็นผู้ก่อการร้ายตามกฎหมายแล้ว แม้จะไม่มีการลงมือกระทำใดๆ ก็ตาม",
+                "answer": true,
+                "explanation": "The text states that a person is a terrorist if they \"[threaten] to commit acts of terrorism by having any circumstance which is likely to cause the belief that such person will act as he or she threatened.\" The credible threat itself is the offense."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "ตามข้อความทางกฎหมายที่ให้มา การรวบรวมเงินสำหรับการรณรงค์ทางการเมืองที่วางแผนไว้อย่างสันติอาจถูกดำเนินคดีในฐานะการกระทำก่อการร้ายในประเทศไทย หากเจ้าหน้าที่ตีความว่าเป็น \"การจัดหาทรัพย์สิน\" สำหรับการก่อการร้าย",
+                "answer": true,
+                "explanation": "While the intent is peaceful, the law defines terrorism to include \"procure or gather property\" as part of a plan to terrorize. The statement is technically true based on the letter of the law, as the broad wording \"procure... property\" could be misapplied to non-violent activities if they are falsely linked to a terror plan, highlighting a potential for broad interpretation. The correctness is based on the literal text, not the justness of the application."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

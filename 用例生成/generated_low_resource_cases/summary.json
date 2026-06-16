@@ -1,0 +1,444 @@
+{
+  "thai": {
+    "source_rules_file": "/Users/cucool/Downloads/code-vllm/argument/方言.py",
+    "source_rules_var": "THAILAND_RULES",
+    "privacy_template_count": 10,
+    "privacy_record_policy": "record every dialect rule that matches each privacy template",
+    "privacy_total": 26,
+    "privacy_success": 26,
+    "privacy_failure": 0,
+    "top_rule_ids": [
+      "T1",
+      "T3-2",
+      "T3-1",
+      "T3-4",
+      "T3-3"
+    ],
+    "top_rule_policy": "top 5 rules by total matches among rules that match copyright/privacy/QA at least once each",
+    "eligible_rule_count": 7,
+    "rule_match_stats": [
+      {
+        "rule_id": "T1",
+        "rule_description": "ร → ฮ（北部/东北方言）",
+        "total_matches": 693,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 300,
+          "QA": 390
+        }
+      },
+      {
+        "rule_id": "T3-2",
+        "rule_description": "ท → ต",
+        "total_matches": 631,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 248,
+          "QA": 380
+        }
+      },
+      {
+        "rule_id": "T3-1",
+        "rule_description": "พ → ป",
+        "total_matches": 578,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 202,
+          "QA": 373
+        }
+      },
+      {
+        "rule_id": "T3-4",
+        "rule_description": "ค → ก",
+        "total_matches": 569,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 204,
+          "QA": 362
+        }
+      },
+      {
+        "rule_id": "T3-3",
+        "rule_description": "ช → จ",
+        "total_matches": 483,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 164,
+          "QA": 316
+        }
+      },
+      {
+        "rule_id": "T8",
+        "rule_description": "ขวา → ขัว",
+        "total_matches": 111,
+        "matches_by_type": {
+          "copyright": 0,
+          "privacy": 0,
+          "QA": 111
+        }
+      },
+      {
+        "rule_id": "T9",
+        "rule_description": "เมือง → เมืองง（口语化延长）",
+        "total_matches": 80,
+        "matches_by_type": {
+          "copyright": 2,
+          "privacy": 4,
+          "QA": 74
+        }
+      },
+      {
+        "rule_id": "T4",
+        "rule_description": "จริง → จิง",
+        "total_matches": 52,
+        "matches_by_type": {
+          "copyright": 2,
+          "privacy": 0,
+          "QA": 50
+        }
+      },
+      {
+        "rule_id": "T6",
+        "rule_description": "ตัว → โต",
+        "total_matches": 51,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 16,
+          "QA": 32
+        }
+      },
+      {
+        "rule_id": "T2-2",
+        "rule_description": "复辅音 tr- → k-",
+        "total_matches": 45,
+        "matches_by_type": {
+          "copyright": 1,
+          "privacy": 0,
+          "QA": 44
+        }
+      },
+      {
+        "rule_id": "T5",
+        "rule_description": "เนื้อ → เนี้ย",
+        "total_matches": 27,
+        "matches_by_type": {
+          "copyright": 1,
+          "privacy": 0,
+          "QA": 26
+        }
+      },
+      {
+        "rule_id": "T10-1",
+        "rule_description": "เที่ยว → เถียว",
+        "total_matches": 14,
+        "matches_by_type": {
+          "copyright": 2,
+          "privacy": 0,
+          "QA": 12
+        }
+      },
+      {
+        "rule_id": "T10-2",
+        "rule_description": "พ่อ → ผอ",
+        "total_matches": 7,
+        "matches_by_type": {
+          "copyright": 0,
+          "privacy": 0,
+          "QA": 7
+        }
+      },
+      {
+        "rule_id": "T2-1",
+        "rule_description": "复辅音 pl- → p-",
+        "total_matches": 2,
+        "matches_by_type": {
+          "copyright": 2,
+          "privacy": 0,
+          "QA": 0
+        }
+      },
+      {
+        "rule_id": "T7",
+        "rule_description": "ครึ่ง → เคิ่ง",
+        "total_matches": 1,
+        "matches_by_type": {
+          "copyright": 1,
+          "privacy": 0,
+          "QA": 0
+        }
+      }
+    ],
+    "safety_total": 15,
+    "safety_success": 15,
+    "safety_failure": 0,
+    "expected_safety": 15
+  },
+  "turkish": {
+    "source_rules_file": "/Users/cucool/Downloads/code-vllm/argument/方言.py",
+    "source_rules_var": "TURKISH_RULES",
+    "privacy_template_count": 10,
+    "privacy_record_policy": "record every dialect rule that matches each privacy template",
+    "privacy_total": 16,
+    "privacy_success": 16,
+    "privacy_failure": 0,
+    "top_rule_ids": [
+      "TR10",
+      "TR1",
+      "TR3",
+      "TR2-1",
+      "TR2-2"
+    ],
+    "top_rule_policy": "top 5 rules by total matches among rules that match copyright/privacy/QA at least once each",
+    "eligible_rule_count": 6,
+    "rule_match_stats": [
+      {
+        "rule_id": "TR10",
+        "rule_description": "句尾增加语气词 la",
+        "total_matches": 730,
+        "matches_by_type": {
+          "copyright": 30,
+          "privacy": 300,
+          "QA": 400
+        }
+      },
+      {
+        "rule_id": "TR1",
+        "rule_description": "黑海方言 k → g",
+        "total_matches": 381,
+        "matches_by_type": {
+          "copyright": 8,
+          "privacy": 29,
+          "QA": 344
+        }
+      },
+      {
+        "rule_id": "TR3",
+        "rule_description": "东部方言 k → q",
+        "total_matches": 381,
+        "matches_by_type": {
+          "copyright": 8,
+          "privacy": 29,
+          "QA": 344
+        }
+      },
+      {
+        "rule_id": "TR2-1",
+        "rule_description": "t → d",
+        "total_matches": 347,
+        "matches_by_type": {
+          "copyright": 19,
+          "privacy": 42,
+          "QA": 286
+        }
+      },
+      {
+        "rule_id": "TR5-2",
+        "rule_description": "i → ı（有限元音后移）",
+        "total_matches": 334,
+        "matches_by_type": {
+          "copyright": 4,
+          "privacy": 0,
+          "QA": 330
+        }
+      },
+      {
+        "rule_id": "TR2-2",
+        "rule_description": "p → b",
+        "total_matches": 216,
+        "matches_by_type": {
+          "copyright": 17,
+          "privacy": 33,
+          "QA": 166
+        }
+      },
+      {
+        "rule_id": "TR4",
+        "rule_description": "yor → yo",
+        "total_matches": 147,
+        "matches_by_type": {
+          "copyright": 1,
+          "privacy": 38,
+          "QA": 108
+        }
+      },
+      {
+        "rule_id": "TR8",
+        "rule_description": "mı/mu 疑问小品词口语延长",
+        "total_matches": 53,
+        "matches_by_type": {
+          "copyright": 0,
+          "privacy": 33,
+          "QA": 20
+        }
+      },
+      {
+        "rule_id": "TR9",
+        "rule_description": "过去时 ti → di",
+        "total_matches": 32,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 0,
+          "QA": 29
+        }
+      },
+      {
+        "rule_id": "TR5-1",
+        "rule_description": "e → a（有限元音后移）",
+        "total_matches": 15,
+        "matches_by_type": {
+          "copyright": 5,
+          "privacy": 0,
+          "QA": 10
+        }
+      },
+      {
+        "rule_id": "TR7",
+        "rule_description": "长元音化",
+        "total_matches": 4,
+        "matches_by_type": {
+          "copyright": 0,
+          "privacy": 0,
+          "QA": 4
+        }
+      },
+      {
+        "rule_id": "TR6",
+        "rule_description": "元音省略",
+        "total_matches": 1,
+        "matches_by_type": {
+          "copyright": 1,
+          "privacy": 0,
+          "QA": 0
+        }
+      }
+    ],
+    "safety_total": 15,
+    "safety_success": 15,
+    "safety_failure": 0,
+    "expected_safety": 15
+  },
+  "arabic": {
+    "source_rules_file": "/Users/cucool/Downloads/code-vllm/argument/方言-沙特.py",
+    "source_rules_var": "ARABIC_RULES",
+    "privacy_template_count": 10,
+    "privacy_record_policy": "record every dialect rule that matches each privacy template",
+    "privacy_total": 21,
+    "privacy_success": 21,
+    "privacy_failure": 0,
+    "top_rule_ids": [
+      "AR8",
+      "AR1",
+      "AR2",
+      "AR4",
+      "AR3"
+    ],
+    "top_rule_policy": "top 5 rules by total matches among rules that match copyright/privacy/QA at least once each",
+    "eligible_rule_count": 6,
+    "rule_match_stats": [
+      {
+        "rule_id": "AR8",
+        "rule_description": "定冠词 al → il",
+        "total_matches": 761,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 304,
+          "QA": 454
+        }
+      },
+      {
+        "rule_id": "AR1",
+        "rule_description": "海湾方言 ق → گ",
+        "total_matches": 641,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 219,
+          "QA": 419
+        }
+      },
+      {
+        "rule_id": "AR2",
+        "rule_description": "埃及方言 ق → أ",
+        "total_matches": 641,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 219,
+          "QA": 419
+        }
+      },
+      {
+        "rule_id": "AR4",
+        "rule_description": "ذ → د",
+        "total_matches": 376,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 30,
+          "QA": 343
+        }
+      },
+      {
+        "rule_id": "AR3",
+        "rule_description": "ث → ت",
+        "total_matches": 295,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 12,
+          "QA": 280
+        }
+      },
+      {
+        "rule_id": "AR10",
+        "rule_description": "黎凡特方言 كيف → كيف/إزي",
+        "total_matches": 258,
+        "matches_by_type": {
+          "copyright": 0,
+          "privacy": 0,
+          "QA": 258
+        }
+      },
+      {
+        "rule_id": "AR5",
+        "rule_description": "ظ → ض",
+        "total_matches": 254,
+        "matches_by_type": {
+          "copyright": 3,
+          "privacy": 2,
+          "QA": 249
+        }
+      },
+      {
+        "rule_id": "AR9",
+        "rule_description": "第一人称前缀 n-",
+        "total_matches": 12,
+        "matches_by_type": {
+          "copyright": 0,
+          "privacy": 0,
+          "QA": 12
+        }
+      },
+      {
+        "rule_id": "AR7",
+        "rule_description": "anta → inta",
+        "total_matches": 4,
+        "matches_by_type": {
+          "copyright": 0,
+          "privacy": 0,
+          "QA": 4
+        }
+      },
+      {
+        "rule_id": "AR6",
+        "rule_description": "双元音单化 بيت → بت",
+        "total_matches": 1,
+        "matches_by_type": {
+          "copyright": 1,
+          "privacy": 0,
+          "QA": 0
+        }
+      }
+    ],
+    "safety_total": 15,
+    "safety_success": 15,
+    "safety_failure": 0,
+    "expected_safety": 15
+  }
+}

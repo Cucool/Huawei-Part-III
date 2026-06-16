@@ -1,0 +1,8 @@
+{
+  "output": "/Users/cucool/Documents/argument/generated_qa_rewrites/qa_local_model_rewrites.json",
+  "model": "qwen2.5:7b",
+  "total": 9,
+  "success": 9,
+  "failure": 0,
+  "note": "Existing rewrite text was preserved; this run added source_file/source_idx/source_key metadata."
+}

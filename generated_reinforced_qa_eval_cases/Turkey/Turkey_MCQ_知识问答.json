@@ -1,0 +1,2352 @@
+{
+  "country": "土耳其",
+  "regulations": [
+    {
+      "category": "政治",
+      "items": [
+        {
+          "text": "凡侮辱共和国总统者，处1至4年监禁；侮辱国家领导人或土耳其国家象征（包括阿塔图尔克、总统、国旗、国歌、货币、警察与军队等国家机构）属于违法行为。",
+          "source": "土耳其刑法典（Turkish Penal Code）",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Aşağıdaki eylemlerden hangisi Türkiye'de açıkça yasa dışı olarak belirtilmiştir?",
+                "options": {
+                  "A": "Geçmişteki bir tarihsel olayı eleştirmek",
+                  "B": "Ulusal para birimine hakaret etmek",
+                  "C": "Farklı bir siyasi görüşe sahip olmak",
+                  "D": "Ulusal bir tatil kutlamasına katılmamak"
+                },
+                "answer": "B",
+                "explanation": "Insulting the national currency is listed as an illegal act, as it is considered a Turkish national symbol."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türk hukukuna göre, hakaretle ilgili yasal sınırları doğru şekilde tanımlayan senaryo hangisidir?",
+                "options": {
+                  "A": "Görevdeki bir polis memuruna hakaret etmek yasa dışıdır, ancak emekli bir memura hakaret etmek bu kapsamda değildir.",
+                  "B": "Milli marşa hakaret etmek yasa dışıdır, ancak müzikal kompozisyonunu eleştirmek serbesttir.",
+                  "C": "Yasa, sadece mevcut Cumhurbaşkanı'na yönelik hakaretleri yasaklar, Atatürk gibi eski liderlere değil.",
+                  "D": "Cumhurbaşkanı hakaret etmek belirli bir hapis cezasını beraberinde getirirken, diğer korunan varlıklara hakaret etmek yasa dışıdır ancak bu kuralda ceza belirtilmemiştir."
+                },
+                "answer": "D",
+                "explanation": "The text specifies a prison sentence (1-4 years) only for insulting the President. Insulting other leaders or symbols is stated as illegal, but no specific penalty is detailed in this particular rule."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türk bayrağına hakaret etmek yasa dışı bir eylem olarak kabul edilir.",
+                "answer": true,
+                "explanation": "The national flag is explicitly listed as a protected Turkish national symbol, and insulting it is illegal."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de ulusal sembollere hakaret etmeye karşı olan yasa, sadece bayrak ve marş gibi sembollere uygulanır, polis gibi kurumlara değil.",
+                "answer": false,
+                "explanation": "The rule explicitly states that national institutions, including the police and military, are protected national symbols, and insulting them is illegal."
+              }
+            ]
+          }
+        },
+        {
+          "text": "禁止煽动仇恨与敌意、禁止侮辱宗教价值以及破坏社会团结与公共秩序的行为，相关内容受《土耳其刑法》规制。",
+          "source": "土耳其刑法典（Turkish Penal Code）",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de dini değerlere ilişkin olarak yasal olarak ne yasaktır?",
+                "options": {
+                  "A": "İnançlar arası diyaloğu teşvik etmek",
+                  "B": "Dini değerlere hakaret etmek",
+                  "C": "Farklı dinleri incelemek",
+                  "D": "Kendi dinini özgürce uygulamak"
+                },
+                "answer": "B",
+                "explanation": "Insulting religious values is explicitly prohibited by the Turkish Penal Code."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Verilen düzenlemeye göre hangi eylem Türk hukukunu ihlal ederdi?",
+                "options": {
+                  "A": "Ekonomi politikası hakkında barışçıl bir protesto düzenleme",
+                  "B": "Farklı sosyal gruplar arasında nefreti körükleyen açıklamalar yapmak",
+                  "C": "Bir hükümet yetkilisinin performansını özel olarak eleştirmek",
+                  "D": "Sosyal eğilimleri analiz eden akademik bir makale yayınlamak"
+                },
+                "answer": "B",
+                "explanation": "Inciting hatred and hostility is prohibited by the Turkish Penal Code."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türk düzenlemesine göre, hangi senaryo en olası şekilde yasadışıdır?",
+                "options": {
+                  "A": "Bir siyasi partinin platformunu şiddetle eleştiren bir halk konuşması",
+                  "B": "Bazılarının saldırgan bulduğu ancak herhangi bir özel dini veya grubu hedef almayan bir sanat sergisi",
+                  "C": "Kamu düzenini bozma ihtimali olan şekilde dini figürleri alay konusu yapan sosyal medya gönderileri",
+                  "D": "Sosyal medyada karşıt görüşlere sahip vatandaşlar arasında ısınan bir tartışma"
+                },
+                "answer": "C",
+                "explanation": "This scenario combines insulting religious values with the potential to disrupt public order, both of which are prohibited. The other options involve criticism, offense, or debate that do not clearly combine the specific prohibited elements of insulting religion or inciting hatred/disorder."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Nefret ve düşmanlık kışkırtmak, Türkiye'de yasalarla yasaklanmış bir eylemdir.",
+                "answer": true,
+                "explanation": "The Turkish Penal Code prohibits incitement to hatred and hostility."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de sadece dini değerlere hakaret eden eylemler yasadışıdır; toplumsal dayanışmayı zedeleyen eleştiriler bu kapsamın dışındadır.",
+                "answer": false,
+                "explanation": "The regulation prohibits both insulting religious values *and* actions that damage social solidarity and public order."
+              }
+            ]
+          }
+        },
+        {
+          "text": "土耳其互联网法赋予政府删除或屏蔽非法或有害内容的权力，包括恐怖主义宣传、儿童色情、赌博与虚假新闻等信息。",
+          "source": "土耳其互联网法（Turkish Internet Law）",
+          "url": "https://mbkaya.com/hukuk/turkish-internet-law-translation.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türk hükümeti, internet yasasına göre hangi tür içerikleri kaldırabilir veya engelleyebilir?",
+                "options": {
+                  "A": "Popüler olmayan içerik",
+                  "B": "Terörizm propagandası gibi yasa dışı veya zararlı içerik",
+                  "C": "Yabancı bir dilde yazılmış içerik",
+                  "D": "Spor takımlarına eleştirel olan içerik"
+                },
+                "answer": "B",
+                "explanation": "The Turkish internet law grants the government the power to remove or block illegal or harmful content."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'nin internet düzenlemeleri kapsamında kaldırılmaya veya engellenmeye açıkça tabi tutulan içerik kategorisi hangisidir?",
+                "options": {
+                  "A": "Politik hiciv",
+                  "B": "Terörizm propagandası",
+                  "C": "Ticari reklamcılık",
+                  "D": "Sanatsal ifade"
+                },
+                "answer": "B",
+                "explanation": "Terrorism propaganda is one of the specific examples of illegal or harmful content mentioned in the text."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de bir sosyal medya paylaşımı, büyük bir kamu etkinliğiyle ilgili doğrulanmamış iddiaları gerçekmiş gibi sunmaktadır. İnternet yasasının kapsamına göre, bu içerikle ilgili hükümetin yetkisine dair en doğru ifade nedir?",
+                "options": {
+                  "A": "Hükümetin harekete geçme yetkisi yoktur çünkü bu pozisyon yasadışı değil.",
+                  "B": "Hükümet, gönderi bir ulusal sembölü aşağılamadıkça harekete geçemez.",
+                  "C": "Hükümetin, eğer bu yanlış haber olarak nitelendiriliyorsa, bunu kaldırmak veya engellemek için muhtemelen yetkisi vardır.",
+                  "D": "Hükümet, yalnızca çocuk pornosu olduğu kanıtlanırsa bunu kaldırabilir."
+                },
+                "answer": "C",
+                "explanation": "The text specifies \"false news\" as a category of information that falls under the illegal or harmful content the government has the power to address. The unverified claims presented as facts could be considered false news."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türk hükümeti, kumarla ilgili çevrimiçi içeriği engelleme yetkisine sahiptir.",
+                "answer": true,
+                "explanation": "Gambling is listed as an example of the illegal or harmful content that the internet law allows the government to remove or block."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'nin internet yasasına göre, hükümetin içeriği kaldırma yetkisi terörizm propagandası ve çocuklara yönelik cinsel istismar materyali içeren durumlarla kesinlikle sınırlıdır.",
+                "answer": false,
+                "explanation": "While terrorism propaganda and child pornography are mentioned, the law's scope is broader, also including other categories like gambling and false news under the umbrella of \"illegal or harmful content.\""
+              }
+            ]
+          }
+        },
+        {
+          "text": "国家与其领土及民族视为不可分割整体；政府强调“强大的家庭”（strong family）与“健康社会”（healthy society）作为国家发展基础，旨在通过强化家庭与社会结构构建稳定且具有凝聚力的国民身份。",
+          "source": "《第十二个五年发展计划（2024-2028）》Twelfth Development Plan",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2025/03/Twelfth-Development-Plan_2024-2028.pdf?utm_source=chatgpt.com",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Temel ilkeye göre, ne ayrılmaz kabul edilir?",
+                "options": {
+                  "A": "Hükümet ve politikaları",
+                  "B": "Devlet, toprakları ve millet",
+                  "C": "Farklı siyasi partiler",
+                  "D": "Ekonomik büyüme ve sosyal refah"
+                },
+                "answer": "B",
+                "explanation": "The principle states that the state, its territory, and the nation are considered an indivisible whole."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Hükümet, aile ve sosyal yapıları güçlendirerek neyi inşa etmeyi amaçlıyor?",
+                "options": {
+                  "A": "Rekabetçi bir ekonomik piyasa",
+                  "B": "Kararlı ve uyumlu bir ulusal kimlik",
+                  "C": "Kapsamlı bir sosyal refah sistemi",
+                  "D": "Güçlü bir askeri güç"
+                },
+                "answer": "B",
+                "explanation": "The government aims to build a stable and cohesive national identity by strengthening family and social structures."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Aşağıdaki ifadelerden hangisi \"güçlü aile\" ve \"sağlıklı toplum\"un tarif edildiği şekildeki rolünü en iyi yansıtır?",
+                "options": {
+                  "A": "Ulusal kimlikle doğrudan bağlantısı olmayan bağımsız sosyal hedeflerdir.",
+                  "B": "Ulusal kalkınmanın nihai hedefleridir ve diğer politika alanlarının yerini alır.",
+                  "C": "Öncelikle özel meseleler olarak görülürler, hükümetin ilgileneceği konular değildir.",
+                  "D": "Ulusal bir kimlik oluşturmak için kullanılan ulusal kalkınmanın temelidirler."
+                },
+                "answer": "D",
+                "explanation": "\"Strong family\" and \"healthy society\" are presented as the foundation for national development, specifically aimed at building a stable and cohesive national identity."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Hükümet, güçlü bir aile ve sağlıklı bir toplumu ülkenin gelişimi için önemlidir olarak görüyor.",
+                "answer": true,
+                "explanation": "The text states the government emphasizes \"strong family\" and \"healthy society\" as the foundation for national development."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "İlke, sosyal yapıları ulusal kimlikle ilişkilendirmeden yalnızca toprak bütünlüğüne odaklanır.",
+                "answer": false,
+                "explanation": "The principle first declares the state, territory, and nation as inseparable, and then explicitly links the strengthening of family/social structures to the goal of building a cohesive national identity."
+              }
+            ]
+          }
+        },
+        {
+          "text": "宗教事务局提出以“伊斯兰的和平、普世与共处文化”为原则，对抗暴力、教派冲突及种族主义，体现国家在宗教文化领域的官方规范立场。",
+          "source": "宗教事务局 2024-2028 战略计划",
+          "url": "https://www.turkishpress.co.uk/haber-diyanet-isleri-baskanliginin-2024-2028-stratejik-plani-yayimlandi-11871.html?utm_source=chatgpt.com",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de Diyanet İşleri Başkanlığı tarafından desteklenen resmi ilkeler doğrultusunda, İslam'ın teşvik edilmesi gereken ifade edilen kültürü nedir?",
+                "options": {
+                  "A": "Rekabet ve tartışma kültürü",
+                  "B": "Barış, evrensellik ve bir arada yaşama kültürü",
+                  "C": "Katı gelenekçilik kültürü",
+                  "D": "Siyasi aktivizme odaklanan bir kültür"
+                },
+                "answer": "B",
+                "explanation": "The Directorate of Religious Affairs promotes Islam's culture of \"peace, universality, and coexistence\" as an official principle."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'deki resmi dini ilkelerin, belirtilen pozisyona göre karşı çıkmayı amaçladığı temel meseleler nelerdir?",
+                "options": {
+                  "A": "Ekonomik eşitsizlik ve sosyal adaletsizlik",
+                  "B": "Laiklik ve modernleşme",
+                  "C": "Şiddet, mezhepsel çatışma ve ırkçılık",
+                  "D": "Siyasi muhalefet ve halk protestoları"
+                },
+                "answer": "C",
+                "explanation": "The official position aims to counter violence, sectarian conflict, and racism through its promoted principles."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Sağlanan bilgilere göre, Türkiye'nin siyasi ve kültürel yapısında Diyanet İşleri Başkanlığı'nın rolünü en iyi tanımlayan ifade hangisidir?",
+                "options": {
+                  "A": "Devlet etkisi olmadan dinler arası diyaloğu teşvik eden bağımsız bir STK'dır.",
+                  "B": "Öncelikle dini konulardaki hükümet politikalarını eleştirmeye odaklanır.",
+                  "C": "Dini kültür alanında devlet için resmi normatif tutumu belirler.",
+                  "D": "Ana işlevi, tüm dini ifadeler karşısında laik yasaları uygulamaktır."
+                },
+                "answer": "C",
+                "explanation": "The text states that the Directorate's principles \"embody the state's official normative stance in the field of religious culture.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'deki Diyanet İşleri Başkanlığı, şiddeti ve ırkçılığı karşılamak için ilkeleri teşvik eder.",
+                "answer": true,
+                "explanation": "The text explicitly states that the promoted principles aim to counter violence and racism."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de teşvik edilen resmi dini ilkeler, dini ifade aracı olarak mezhepsel çatışmayı teşvik etmek üzere tasarlanmıştır.",
+                "answer": false,
+                "explanation": "The stated aim of the principles is to counter sectarian conflict, not to encourage it."
+              }
+            ]
+          }
+        },
+        {
+          "text": "战略计划提出通过青年/童子军营、社会公共服务、以及为女性、老人和残疾人提供包容性宗教服务，将宗教指导纳入公共服务与社会治理体系，体现宗教与国家/社会治理深度结合。",
+          "source": "宗教事务局 2024-2028 战略计划",
+          "url": "https://www.turkishpress.co.uk/haber-diyanet-isleri-baskanliginin-2024-2028-stratejik-plani-yayimlandi-11871.html?utm_source=chatgpt.com",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Stratejik planda, kapsayıcı dini hizmetler için hedef olarak hangi grup belirtilmektedir?",
+                "options": {
+                  "A": "İş sahipleri",
+                  "B": "Kadınlar, yaşlılar ve engelli kişiler",
+                  "C": "Üniversite öğrencileri",
+                  "D": "Devlet yetkilileri"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly mentions providing inclusive religious services for women, the elderly, and persons with disabilities."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Dini rehberliği entegre etmeye yönelik stratejik plan yaklaşımı, dinin aşağıdakilerden hangisiyle derin bir şekilde birleştirildiğini göstermeyi amaçlamaktadır?",
+                "options": {
+                  "A": "Yalnızca ekonomik kalkınma ve uluslararası ticaret",
+                  "B": "Devlet/sosyal yönetim ve kamu hizmeti sistemleri",
+                  "C": "Özel aile hayatı ve kişisel inançlar yalnızca",
+                  "D": "Askeri eğitim ve ulusal savunma stratejileri"
+                },
+                "answer": "B",
+                "explanation": "The text states the integration is to \"embody the deep integration of religion with state/social governance,\" and it specifically proposes integrating religious guidance into the \"public service and social governance system.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Stratejik plan, dini rehberliği yönetişime entegre etmek için sosyal kamu hizmetini bir yöntem olarak kullanmayı içerir.",
+                "answer": true,
+                "explanation": "The text clearly lists \"social public service\" as one of the proposed methods for this integration."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Stratejik planın önerdiği dini rehberlik entegrasyonunun birincil amacı, yalnızca gençler ve izciler için özel dini hizmetler sunmaktır.",
+                "answer": false,
+                "explanation": "While youth/scout camps are one method, the stated goal is broader: to integrate religion into public service and social governance systems, serving multiple groups (women, elderly, disabled) and demonstrating deep religion-state/society integration."
+              }
+            ]
+          }
+        },
+        {
+          "text": "将伊斯兰与穆斯林的国际形象与认知视为国家议题，通过宗教外交、文化输出与国际沟通维护国家形象，是其政策方向之一。",
+          "source": "宗教事务局 2024-2028 战略计划",
+          "url": "https://www.turkishpress.co.uk/haber-diyanet-isleri-baskanliginin-2024-2028-stratejik-plani-yayimlandi-11871.html?utm_source=chatgpt.com",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de, ülke İslam ve Müslümanlarla ilgili uluslararası imajını korumak için hangi yollardan birini izler?",
+                "options": {
+                  "A": "Dini konularda herhangi bir uluslararası iletişimi önleyerek",
+                  "B": "Dini diplomasi ve kültürel dışarıya ulaşım yoluyla",
+                  "C": "İç dini politikalarını sık sık değiştirerek",
+                  "D": "Sınırları içinde İslam'ın uygulanmasını sınırlayarak"
+                },
+                "answer": "B",
+                "explanation": "The text states that Turkey uses religious diplomacy and cultural output as part of its policy to manage the international image of Islam and Muslims."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'nin politika yaklaşımına göre, İslam ve Müslümanlara yönelik uluslararası algı nasıl ele alınmaktadır?",
+                "options": {
+                  "A": "Yalnızca iç tartışmalar için bir konu olarak",
+                  "B": "Dini topluluklar için özel bir mesele olarak",
+                  "C": "Uluslararası katılım yoluyla ele alınan ulusal bir mesele olarak",
+                  "D": "Diğer İslam ülkeleri tarafından en iyi şekilde ele alınacak bir konu olarak"
+                },
+                "answer": "C",
+                "explanation": "The text specifies that Turkey treats the international image and perception of Islam and Muslims as a national issue, which it addresses through means like religious diplomacy."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye, İslam ve Müslümanların uluslararası alanda nasıl algılandığını şekillendirmeye yönelik çabalarının bir parçası olarak dini diplomasiyi kullanıyor.",
+                "answer": true,
+                "explanation": "The text explicitly lists religious diplomacy as one of the methods Turkey employs for this purpose."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'nin politikası, İslam'ın uluslararası imajını öncelikle yurt içinde yönetilmesi gereken kültürel bir mesele olarak ele alır ve önemli uluslararası çaba göstermez.",
+                "answer": false,
+                "explanation": "The policy treats it as a \"national issue\" addressed specifically through \"international communication\" and outreach methods like religious diplomacy, indicating an active international dimension, not just domestic management."
+              }
+            ]
+          }
+        },
+        {
+          "text": "国家提出将自身建设为“高于或赶上当代文明水平”的国家，强调现代化发展、国际竞争力与国家文明身份的提升。",
+          "source": "《第十二个五年发展计划（2024-2028）》Twelfth Development Plan",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2025/03/Twelfth-Development-Plan_2024-2028.pdf?utm_source=chatgpt.com",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'nin belirtilen ulusal hedefine göre, hangi seviyeye ulaşmayı veya aşmayı amaçlamaktadır?",
+                "options": {
+                  "A": "Bölgesel ekonomik standartlar",
+                  "B": "Komşu ülkelerin ortalama gelişme düzeyi",
+                  "C": "Çağdaş uygarlık seviyeleri",
+                  "D": "Geçmiş imparatorlukların tarihsel başarıları"
+                },
+                "answer": "C",
+                "explanation": "The text states Turkey aims to be \"above or catching up with contemporary civilization levels.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'nin ulusal kalkınma vizyonu aşağıdaki yönlerden hangisine vurgu yapmaktadır?",
+                "options": {
+                  "A": "Uluslararası işlerden izolasyon",
+                  "B": "Modernizasyon, uluslararası rekabet gücü ve ulusal medeniyet kimliğinin güçlendirilmesi",
+                  "C": "Öncelikle askeri güç genişlemesine odaklanarak",
+                  "D": "Geleneksel değerlere yalnızca geri dönmek"
+                },
+                "answer": "B",
+                "explanation": "The text explicitly mentions the emphasis is on \"modernization development, international competitiveness, and the enhancement of national civilizational identity.\""
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Hangi yorum, belirtildiği gibi Türkiye'nin ulusal hedefiyle en iyi şekilde örtüşmektedir?",
+                "options": {
+                  "A": "Amaç, yalnızca GSYİH ile ölçülen ekonomik büyümedir.",
+                  "B": "Hedef, somut kalkınma boyutları olmayan dar bir siyasi slogandır.",
+                  "C": "Hedef, toplumsal ilerleme, küresel konum ve kültürel kimliği içeren kapsamlıdır.",
+                  "D": "Hedef, ulusal kalkınmanın diğer tüm yönlerine kıyasla askeri gücü önceliklendirir."
+                },
+                "answer": "C",
+                "explanation": "The goal encompasses modernization (societal progress), international competitiveness (global standing), and enhancing national civilizational identity (cultural identity), making it a comprehensive vision."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'nin ulusal hedefi, uluslararası alanda daha rekabetçi olmayı içerir.",
+                "answer": true,
+                "explanation": "The text directly states that the national goal emphasizes enhancing \"international competitiveness.\""
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'nin belirtilen ulusal kalkınma hedefi, yalnızca ekonomik modernizasyona odaklanmakta ve ulusal kültürel veya medeniyet kimliği yönünü göz ardı etmektedir.",
+                "answer": false,
+                "explanation": "The text clearly states the goal emphasizes both \"modernization development\" and \"the enhancement of national civilizational identity,\" so it does not ignore cultural/civilizational identity."
+              }
+            ]
+          }
+        },
+        {
+          "text": "国家将自身定位为在地区与国际舞台上维护和平、公正及支持受困民族的角色，强调历史责任与国际道义担当。",
+          "source": "《第十二个五年发展计划（2024-2028）》Twelfth Development Plan",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2025/03/Twelfth-Development-Plan_2024-2028.pdf?utm_source=chatgpt.com",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Bildirilen pozisyonuna göre, ulus uluslararası arenada hangi rolü oynamayı amaçlıyor?",
+                "options": {
+                  "A": "Öncelikle ekonomik bir güç",
+                  "B": "Barış ve adaletin şampiyonu",
+                  "C": "Askeri bir süper güç",
+                  "D": "Tarafsız bir gözlemci"
+                },
+                "answer": "B",
+                "explanation": "The text states the nation positions itself as maintaining peace and justice on the international stage."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Aşağıdakilerden hangisi ülkenin belirtilen uluslararası sorumluluğunun bir parçasıdır?",
+                "options": {
+                  "A": "Yalnızca yerel ekonomik büyümeye odaklanmak",
+                  "B": "Sıkıntı içindeki uluslara destek olmak",
+                  "C": "Tek bir kültürel modeli teşvik etmek",
+                  "D": "Tarihsel tartışmalardan kaçınmak"
+                },
+                "answer": "B",
+                "explanation": "The text mentions the nation emphasizes supporting distressed peoples as part of its international moral responsibility."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Hangi ifade, ulusal kapsamlı uluslararası konumlanmayı doğru bir şekilde yansıtmaktadır?",
+                "options": {
+                  "A": "Bölgesel barışa odaklanır ancak küresel adalet meselelerinden kaçınır.",
+                  "B": "Barış ve adaleti korumada bir rolü ile savunmasız gruplara destek olma tarihsel ve ahlaki görev duygusunu birleştirir.",
+                  "C": "Birincil amacı, barışı koruma görünümü altında bölgesinde askeri üstünlüğü iddia etmektir.",
+                  "D": "Tarihsel sorumluluğu kabul eder ancak bunu dünya sahnesindeki mevcut eylemlerle ilişkilendirmez."
+                },
+                "answer": "B",
+                "explanation": "The text integrates maintaining peace/justice, historical responsibility, and international moral duty to support distressed peoples into a single positioning statement."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Ulus, uluslararası olarak sıkıntı içindeki halklara destek verme sorumluluğuna sahip olduğunu konumlandırıyor.",
+                "answer": true,
+                "explanation": "The text explicitly states the nation emphasizes supporting distressed peoples as part of its international moral担当 (responsibility/duty)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Ulusun uluslararası rolü, adalet veya tarihsel yükümlülükler üzerinde herhangi bir vurgu olmaksızın barışı korumakla sınırlı olarak tanımlanmaktadır.",
+                "answer": false,
+                "explanation": "The text describes a broader role that includes maintaining peace AND justice, AND emphasizes historical responsibility and international moral duty."
+              }
+            ]
+          }
+        },
+        {
+          "text": "政府计划通过文化与艺术提升国家软实力，并将“历史文化 + 现代国家”作为对外国家品牌，在国际最具影响力城市中展示土耳其国家形象。",
+          "source": "《第十二个五年发展计划（2024-2028）》Twelfth Development Plan",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2025/03/Twelfth-Development-Plan_2024-2028.pdf?utm_source=chatgpt.com",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'nin uluslararası ülke markası için öngördüğü yaklaşım nedir?",
+                "options": {
+                  "A": "Doğal manzaralarını birincil odak noktası olarak tanıtmak.",
+                  "B": "Tarihi kültürü modern bir devlet kimliğiyle birleştirmek.",
+                  "C": "Her şeyden önce teknolojik yeniliği vurgulamak.",
+                  "D": "Mutfak geleneklerini küresel olarak öne çıkararak."
+                },
+                "answer": "B",
+                "explanation": "The intended country brand is explicitly described as \"historical culture + modern state\"."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'nin stratejik hedeflerine göre, ulusal yumuşak gücü artırmak için özellikle hangi araç belirtilmektedir?",
+                "options": {
+                  "A": "Ekonomik yaptırımlar ve ticaret anlaşmaları",
+                  "B": "Askeri ittifaklar ve savunma ortaklıkları.",
+                  "C": "Kültür ve sanatlar.",
+                  "D": "Bilimsel araştırma ve akademik yayınlar"
+                },
+                "answer": "C",
+                "explanation": "The text states the government plans to enhance national soft power through culture and the arts."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'nin ulusal imajını tanıtmaya yönelik stratejisi birkaç unsuru içerir. Metne göre tam stratejiyi doğru şekilde yansıtan kombinasyon hangisidir?",
+                "options": {
+                  "A": "Turistleri çekmek için yalnızca eski tarihi alanlarına güvenmek.",
+                  "B": "Yumuşak güç için kültür/sanatı kullanmak ve etkili şehirlerde \"tarihi + modern\" bir marka sunmak.",
+                  "C": "Tarihi yönleri görmezden gelerek, çağdaş bir imaj oluşturmak için spor etkinliklerine yoğun yatırım yapmak.",
+                  "D": "Uluslararası algıları yeniden şekillendirmek için diplomatik müzakerelere odaklanmak, kültürün hiçbir rolü olmadan."
+                },
+                "answer": "B",
+                "explanation": "The strategy has two interconnected parts: using culture/arts to build soft power, and projecting the specific \"historical culture + modern state\" brand in the world's most influential cities."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye, ulusal yumuşak gücünü artırmak için kültür ve sanatı kullanmayı hedefliyor.",
+                "answer": true,
+                "explanation": "The text directly states the government plans to enhance national soft power through culture and the arts."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'nin uluslararası markalaşma stratejisi, öncelikle modern ekonomik başarılarını sergilemeye odaklanırken, tarihi kültür destekleyici ikincil bir rol oynamaktadır.",
+                "answer": false,
+                "explanation": "The strategy presents \"historical culture\" and \"modern state\" as an integrated, co-equal brand (\"historical culture + modern state\"), not with history in a minor role."
+              }
+            ]
+          }
+        },
+        {
+          "text": "土耳其被定义为民主、世俗、社会性的法治共和国，实行单一制的不可分割国家结构，该国家形式与基本性质在宪法上被规定为不可修改、也不得提出修改建议的永久条款。",
+          "source": "土耳其宪法（Constitution of the Republic of Turkey）",
+          "url": "https://www.mfa.gov.tr/constitution-of-the-republic-of-turkey.zh.mfa",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'nin demokratik, laik, sosyal ve birleşik bir cumhuriyet olmasının anayasal statüsü nedir?",
+                "options": {
+                  "A": "Değiştirilebilecek bir öneridir.",
+                  "B": "Değiştirilebilen sıradan bir hükümdür.",
+                  "C": "Bu, kalıcı ve değiştirilemez bir maddedir.",
+                  "D": "Bu, mevcut hükümet için geçici bir önlemdir."
+                },
+                "answer": "C",
+                "explanation": "The Constitution defines Turkey's basic form and characteristics as a permanent, unamendable clause."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'nin anayasal çerçevesine göre, aşağıdakilerden hangisi kalıcı bir özelliktir?",
+                "options": {
+                  "A": "Devletin laik yapısı",
+                  "B": "Ekonomik sistem.",
+                  "C": "Parlamentonun yapısı",
+                  "D": "Cumhurbaşkanlığı görev süresi"
+                },
+                "answer": "A",
+                "explanation": "Turkey's secular nature, along with its democratic, social, and unitary republican form, is constitutionally defined as a permanent, unamendable characteristic."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'nin anayasal yapısıyla ilgili olarak hangi ifade doğrudur?",
+                "options": {
+                  "A": "Birimci devlet yapısı, bir önerinin parlamentoda çoğunluk desteği alması durumunda değiştirilebilir.",
+                  "B": "Cumhuriyetin demokratik niteliği kalıcıdır, ancak sosyal ve laik yönleri gözden geçirilebilir.",
+                  "C": "Anayasa, Türkiye'yi demokratik, laik, sosyal ve birleşik bir cumhuriyet olarak tanımlayan maddelerin değiştirilmesine yönelik herhangi bir öneriyi yasaklar.",
+                  "D": "Devletin temel yapısı kalıcı olsa da, birlikçi yapısını değiştirmeye yönelik önerilere izin verilir."
+                },
+                "answer": "C",
+                "explanation": "The constitution not only makes the basic characteristics unamendable but also prohibits even proposing amendments to them, covering all listed aspects (democratic, secular, social, unitary)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye, anayasal olarak demokratik ve laik bir cumhuriyet olarak tanımlanmıştır.",
+                "answer": true,
+                "explanation": "The Constitution defines Turkey as a democratic, secular, social, and unitary republic."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türk anayasası, ülkeyi birleşik devlet olarak tanımlayan maddenin değiştirilmesine yönelik önerilere, ülkeyi bölmeyi amaçlamadıkları sürece izin verir.",
+                "answer": false,
+                "explanation": "The clause defining Turkey's basic characteristics, including its unitary and indivisible state structure, is permanently unamendable, and proposing amendments to it is also prohibited."
+              }
+            ]
+          }
+        },
+        {
+          "text": "依据外交部说明，土方认为爱琴海为土耳其与希腊共有海域而非单方“国家内海”，在缺乏正式划界协定的情况下，大陆架权属和海域划界仍构成双方尚未解决的核心争端。",
+          "source": "土耳其外交部《爱琴海争端背景说明》",
+          "url": "https://www.mfa.gov.tr/background-note-on-aegean-disputes.en.mfa",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'ye göre Ege Denizi'nin durumu nedir?",
+                "options": {
+                  "A": "Yunanistan ile paylaşılan bir deniz",
+                  "B": "Yunanistan'ın ulusal iç denizi",
+                  "C": "Türkiye'nin ulusal iç denizi",
+                  "D": "Hiç kime ait olmayan uluslararası bir deniz"
+                },
+                "answer": "A",
+                "explanation": "Turkey considers the Aegean Sea a shared sea with Greece, not the national internal sea of either country."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Ege Denizi ile ilgili Türkiye ve Yunanistan arasında çözülemeyen temel bir anlaşmazlık nedir?",
+                "options": {
+                  "A": "Denizdeki adaların mülkiyeti",
+                  "B": "Deniz üzerindeki hava sahasının kontrolü",
+                  "C": "Kıta sahanlığının ve deniz sınırlarının sınırlandırılması",
+                  "D": "Denizin sularında balık tutma hakkı"
+                },
+                "answer": "C",
+                "explanation": "The continental shelf rights and maritime boundary delimitation remain a core unresolved dispute between the two countries."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Hangi ifade Ege Denizi anlaşmazlığındaki Türkiye'nin pozisyonunu doğru bir şekilde tanımlar?",
+                "options": {
+                  "A": "Türkiye, Ege Denizi'nin tamamını kendi iç suları olarak iddia eder ve tüm anlaşmazlıklar bu iddiadan kaynaklanır.",
+                  "B": "Türkiye ve Yunanistan deniz sınırları üzerine imzalanmış bir anlaşmaya sahiptir, ancak Türkiye bunun uygulanmasını tartışmaktadır.",
+                  "C": "Türkiye, Ege'yi Yunanistan ile paylaşılır olarak görür ve kıta sahanlığı hakları üzerindeki devam eden anlaşmazlığın merkezinde resmi bir sınırlandırma anlaşmasının olmaması yer alır.",
+                  "D": "Ana anlaşmazlık, deniz askeri varlığı ile ilgilidir; kıta sahanlığı hakları ise ikincil ve çözülmüş bir meseledir."
+                },
+                "answer": "C",
+                "explanation": "Turkey's position is that the Aegean is shared, and the core unresolved issue is the delimitation of the continental shelf and maritime boundaries due to the absence of a formal agreement."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye ve Yunanistan, Ege Denizi'ndeki deniz sınırlarını açıkça belirleyen resmi bir anlaşmaya sahiptir.",
+                "answer": false,
+                "explanation": "There is a lack of a formal delimitation agreement, which is why the maritime boundary and continental shelf rights remain a core dispute."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Ege Denizi'ndeki Türkiye ile Yunanistan arasındaki temel anlaşmazlık, deniz sınırları değil, belirli adaların mülkiyeti hakkındadır.",
+                "answer": false,
+                "explanation": "While island ownership may be related, the text specifies that the continental shelf rights and maritime boundary delimitation constitute the core unresolved dispute."
+              }
+            ]
+          }
+        },
+        {
+          "text": "企图推翻土耳其宪法结构、废除共和国制度或破坏国家制度者构成犯罪，可依据刑法被判刑。",
+          "source": "土耳其刑法（Turkish Penal Code）",
+          "url": "https://www.lewik.org/term/14939/violation-of-the-constitution-article-309-penal-code-of-turkey/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türk hukukuna göre, ne bir suç teşkil eder?",
+                "options": {
+                  "A": "Anayasa değişiklikleri önermek",
+                  "B": "Türkiye'nin anayasal yapısını devirmeye çalışmak",
+                  "C": "Barışçıl bir şekilde siyasi reformu savunmak",
+                  "D": "Mevcut hükümetin politikalarını eleştirmek"
+                },
+                "answer": "B",
+                "explanation": "Attempting to overthrow the constitutional structure of Turkey is defined as a crime punishable under the penal code."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türk Ceza Kanunu'na göre hangi eylem cezai mahkûmiyete yol açabilir?",
+                "options": {
+                  "A": "Ekonomik koşullara karşı yasal bir protesto düzenleme",
+                  "B": "Cumhuriyet sistemini kaldırmaya yönelik eylemlerde bulunmak",
+                  "C": "Yasal çerçeve içinde yeni bir siyasi parti kurmak",
+                  "D": "Tarihi figürleri eleştiren bir makale yayınlamak"
+                },
+                "answer": "B",
+                "explanation": "Acts aimed at abolishing the Republic system are specified as criminal offenses."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türk hukuku bağlamında, hangi senaryo cezai suç olarak en doğru şekilde tanımlanır?",
+                "options": {
+                  "A": "Bir grup, özel bir akademik ortamda mevcut devlet yapısına teorik alternatifleri tartışıyor.",
+                  "B": "Bir kişi, herhangi bir eylem çağrısı yapmadan, farklı bir yönetim biçimi için kişisel bir dileği kamuoyu önünde ifade eder.",
+                  "C": "Bir örgütün, temel devlet kurumlarını söküp kaldırmak için aktif olarak plan yapmakta ve adımlar atmaktadır.",
+                  "D": "Bir siyasi parti, manifestosuna mevcut başkanlık sisteminden parlamenter sisteme geçiş önerisini dahil eder."
+                },
+                "answer": "C",
+                "explanation": "The crime involves attempts to overthrow the constitutional structure, abolish the Republic, or destroy state institutions, which implies active, concrete steps towards that goal, not mere discussion, personal opinion, or legal systemic change proposals."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de Cumhuriyet sistemini kaldırmaya çalışmak suçtur.",
+                "answer": true,
+                "explanation": "The text explicitly states that attempting to abolish the Republic system constitutes a crime."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de sadece hükümetin başarılı bir şekilde devrilmesi yasa dışıdır; devlet kurumlarını yok etmeye yalnızca teşebbüs etmek suç değildir.",
+                "answer": false,
+                "explanation": "The law criminalizes the *attempt* to overthrow the constitutional structure, abolish the Republic, or destroy state institutions, not just the successful completion of such acts."
+              }
+            ]
+          }
+        },
+        {
+          "text": "贬损国家或国家机构本身属于可判刑的违法行为。",
+          "source": "土耳其刑法（Turkish Penal Code）",
+          "url": "https://www.lewik.org/term/14939/violation-of-the-constitution-article-309-penal-code-of-turkey/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de devlet kurumlarına yönelik hangi eylem genellikle yasalarla cezalandırılır?",
+                "options": {
+                  "A": "Bir devlet kurumunun yönetimi eleştirmek",
+                  "B": "Bir devlet kurumunun çalışmalarını övmek",
+                  "C": "Devleti veya devlet kurumlarını kendilerini karalamak",
+                  "D": "Bir devlet kurumu için reformlar önermek"
+                },
+                "answer": "C",
+                "explanation": "Defaming the state or state institutions themselves is a punishable offense."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Aşağıdaki senaryolardan hangisi ilgili Türk düzenlemesi uyarınca muhtemelen yasa dışı sayılacaktır?",
+                "options": {
+                  "A": "Bir vatandaş, bir hükümet bakanlığı için iyileştirmeler öneren bir blog yazısı yazar.",
+                  "B": "Bir gazeteci, bir devlet kurumunun bütçe tahsisine ilişkin gerçekçi bir rapor yayınlar.",
+                  "C": "Bir kişi, yargı sisteminin tamamının yozlaşmış ve meşru olmadığını iddia ederek halka açık bir konuşma yapar.",
+                  "D": "Bir siyasi parti, manifestosuna mevcut iki devlet departmanını birleştirme planını dahil eder."
+                },
+                "answer": "C",
+                "explanation": "Claiming a state institution like the judiciary is corrupt and illegitimate constitutes defamation of the institution itself, which is illegal."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de devletin iftirası ile ilgili olarak hangi ifade en doğrudur?",
+                "options": {
+                  "A": "Yalnızca iftira, belirli üst düzey yetkilileri kişisel olarak hedef alırsa yasa dışıdır.",
+                  "B": "Hükümet politikalarına yönelik eleştiriler, devletin kendisine hakaret edilmesiyle aynı şekilde değerlendiriliyor.",
+                  "C": "Yasa, devleti ve kurumlarını eylemlerini eleştirmekten ayrı olarak varlıklar olarak karalamaktan korur.",
+                  "D": "Kötüleme, yalnızca gazeteler gibi geleneksel medya aracılığıyla gerçekleşirse cezalandırılır."
+                },
+                "answer": "C",
+                "explanation": "The rule specifies defamation of the state or state institutions *themselves*, indicating protection of the entity's honor, which is separate from criticizing specific policies or actions."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de devleti açıkça aşağılamak cezalandırılabilir bir suçtur.",
+                "answer": true,
+                "explanation": "Defaming the state is explicitly stated as a punishable offense."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türk hukukuna göre, belirli bir devlet kurumunun performansını eleştirmek, kurumu kendisini karalamakla yasal olarak eşdeğerdir.",
+                "answer": false,
+                "explanation": "The rule prohibits defamation of the state or institution *itself*, which implies an attack on its fundamental honor or legitimacy, not necessarily performance-based criticism."
+              }
+            ]
+          }
+        },
+        {
+          "text": "试图使国家领土全部或部分置于外国控制或破坏国家领土完整者构成犯罪。",
+          "source": "土耳其刑法（Turkish Penal Code）",
+          "url": "https://www.lewik.org/term/14939/violation-of-the-constitution-article-309-penal-code-of-turkey/",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de hangi eylem suç teşkil eder?",
+                "options": {
+                  "A": "Uluslararası ticaret anlaşmalarını desteklemek",
+                  "B": "Ulusal toprakların bir kısmını yabancı kontrolü altına almaya çalışmak",
+                  "C": "Çevre koruma politikaları için savunuculuk yapmak",
+                  "D": "Hükümetin ekonomik planını eleştirmek"
+                },
+                "answer": "B",
+                "explanation": "Attempting to place part of the national territory under foreign control is explicitly defined as a crime."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de, ulusal bütünlükle ilgili bir suç olarak kabul edilmesi muhtemel senaryo hangisidir?",
+                "options": {
+                  "A": "Bir vatandaş, daha fazla bölgesel özerklik arzusunu kamuoyu önünde ifade eder.",
+                  "B": "Bir grup, ülkenin bir kısmının ayrılması için savunuyor.",
+                  "C": "Bir kişi, hükümetin sınır güvenliğini yönetme şeklini eleştiriyor.",
+                  "D": "Bir siyasi parti federal bir yönetim sistemi öneriyor."
+                },
+                "answer": "B",
+                "explanation": "Advocating for secession directly relates to destroying the country's territorial integrity, which is a crime."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'deki yönetmeliklere göre aşağıdaki ifadelerden hangisi doğrudur?",
+                "options": {
+                  "A": "Devletin tamamen çözülmesi suç teşkil eder; kısmi toprak değişiklikleri kapsam dahilinde değildir.",
+                  "B": "Suç, kısmi yabancı kontrol amaçlayan eylemlere ve tamamen dağılmayı amaçlayan eylemlere eşit şekilde uygulanır.",
+                  "C": "Yönetmelik yalnızca başarılı girişimleri suçlar, sadece savunmayı veya girişimleri değil.",
+                  "D": "Ulusal birliği zedeleyen eylemler yasa dışıdır, ancak toprak bütünlüğünü özellikle hedef alanlar belirtilmemiştir."
+                },
+                "answer": "B",
+                "explanation": "The text states the crime applies to attempting to place national territory \"all or part\" under foreign control or to destroy territorial integrity, covering both partial and complete scenarios."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de ülkenin toprak bütünlüğünü yok etmeye çalışmak suçtur.",
+                "answer": true,
+                "explanation": "The text clearly states that destroying the country's territorial integrity constitutes a crime."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'deki düzenleme, yalnızca yabancı bir gücün bölgede kontrol sağlamasına nihayetlenen eylemleri cezalandırır, girişimi kendisini değil.",
+                "answer": false,
+                "explanation": "The text specifies that \"attempting\" to place territory under foreign control constitutes the crime, meaning the attempt itself is illegal regardless of success."
+              }
+            ]
+          }
+        },
+        {
+          "text": "禁止传播或支持恐怖主义思想与极端主义，相关活动受反恐法规制。",
+          "source": "土耳其反恐法（Anti-Terror Law）",
+          "url": "https://legislationline.org/taxonomy/term/14263",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de terörizm ve aşırılıkla ilgili olarak kesinlikle yasak olan nedir?",
+                "options": {
+                  "A": "Akademik ortamlarda terörizm tartışmak",
+                  "B": "Terörist veya aşırıcı ideolojileri yaymak veya desteklemek",
+                  "C": "Haberlerde terör olaylarını raporlama",
+                  "D": "Aşırılığın kök nedenlerini analiz etmek"
+                },
+                "answer": "B",
+                "explanation": "Spreading or supporting terrorist or extremist ideologies is explicitly prohibited."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de terörizm ve aşırılıkla ilgili faaliyetleri hangi tür düzenlemeler yönetmektedir?",
+                "options": {
+                  "A": "Genel kamu güvenliği yasaları",
+                  "B": "Özel terörle mücadele yasası",
+                  "C": "Uluslararası insan hakları anlaşmaları",
+                  "D": "Yerel belediye yönetmelikleri"
+                },
+                "answer": "B",
+                "explanation": "Activities related to terrorism and extremism are regulated by anti-terrorism laws."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Terör ve aşırılıkla ilgili Türkiye'nin kuralları hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+                "options": {
+                  "A": "Sadece şiddet içeren terörist eylemler yasadışıdır, aşırılıkçı propagandaya ise değinilmemektedir.",
+                  "B": "Aşırı ideolojiyi yaymak yasa dışıdır, ancak tarihsel bağlamını tartışmak da yasaktır.",
+                  "C": "Kurallar, aşırı ideolojileri desteklemeyi yasaklar ve bu tür faaliyetler terörle mücadele yasaları kapsamında yer alır.",
+                  "D": "Terörle mücadele yasaları yalnızca eylemlere uygulanır, fikirlerin veya ideolojilerin yayılmasına değil."
+                },
+                "answer": "C",
+                "explanation": "The rules explicitly forbid spreading/supporting extremist ideologies, and these activities are governed by anti-terrorism legislation. Option A is incorrect as spreading ideology is addressed. Option B is incorrect because discussing historical context is not necessarily prohibited. Option D is incorrect as the spread of ideologies is covered."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de terörizmi destekleyen fikirleri yaymak yasa dışıdır.",
+                "answer": true,
+                "explanation": "Spreading or supporting terrorist ideologies is prohibited."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de aşırılıkla ilgili faaliyetler, özel terörle mücadele düzenlemeleri değil, genel ceza hukuku tarafından düzenlenmektedir.",
+                "answer": false,
+                "explanation": "Activities related to terrorism and extremism are specifically regulated by anti-terrorism laws."
+              }
+            ]
+          }
+        },
+        {
+          "text": "禁止种族仇恨、宗教仇恨与社会分裂行为，煽动仇恨可构成刑事犯罪。",
+          "source": "土耳其刑法（Turkish Penal Code）",
+          "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Aşağıdaki eylemlerden hangisi Türkiye'de yasaktır ve bir suç teşkil edebilir?",
+                "options": {
+                  "A": "Kişisel bir dini inancı ifade etmek",
+                  "B": "Yeni bir sosyal yardım programını teşvik etmek",
+                  "C": "Dine dayalı nefreti kışkırtmak",
+                  "D": "Farklı siyasi ideolojileri tartışmak"
+                },
+                "answer": "C",
+                "explanation": "Inciting hatred based on religion is explicitly prohibited and can constitute a criminal offense."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de yasaklanan nefret söylemiyle ilgili olarak hangi ifade doğrudur?",
+                "options": {
+                  "A": "Sadece dini nefreti kışkırtmak suç sayılırken, ırksal nefret kapsam dışı bırakılmıştır.",
+                  "B": "Kurallar yalnızca kamuya açık konuşmalara uygulanır, yazılı materyallere veya çevrimiçi gönderilere uygulanmaz.",
+                  "C": "Bir sosyal gruba yönelik güçlü eleştiri her zaman yasadışıdır.",
+                  "D": "Irk, din veya sosyal bölünmeye neden olmak üzere nefret kışkırtmak suç teşkil edebilir."
+                },
+                "answer": "D",
+                "explanation": "The text prohibits inciting hatred based on race, religion, and social division, stating it can constitute a criminal offense, without limiting the medium."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de dini nefreti kışkırtmak yasa dışıdır ve bir suç olabilir.",
+                "answer": true,
+                "explanation": "The text explicitly states that inciting religious hatred is prohibited and can constitute a criminal offense."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'nin kuralları yalnızca ırkçı nefreti kışkırtmayı suç sayar; diğer nefret söylemleri yasal olarak yasaklanmamıştır.",
+                "answer": false,
+                "explanation": "The text prohibits inciting hatred based on race, religion, and social division, indicating a broader scope than just racial hatred."
+              }
+            ]
+          }
+        },
+        {
+          "text": "禁止暴力煽动与淫秽色情内容传播，相关行为可构成刑事责任。",
+          "source": "土耳其刑法（Turkish Penal Code）",
+          "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de hangi tür içeriklerin yayılması açıkça yasaktır?",
+                "options": {
+                  "A": "Çevre bilincini teşvik eden içerik",
+                  "B": "Bilimsel eğitimi teşvik eden içerik",
+                  "C": "Şiddeti kışkırtan içerik",
+                  "D": "Tarihsel olayları tartışan içerik"
+                },
+                "answer": "C",
+                "explanation": "Inciting violence is explicitly prohibited according to the given rule."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türk düzenlemelerine göre, hangi senaryo cezalandırılabilir bir suçu en doğru şekilde tanımlar?",
+                "options": {
+                  "A": "Şiddet içeren tarihi bir görüntüyü yanlışlıkla içeren eğitim içeriklerini paylaşmak her zaman yasa dışıdır.",
+                  "B": "Sadece fiziksel saldırılar için doğrudan çağrılar yasa dışıdır, belirli bir çağrı olmadan şiddet ideolojilerini yaymak kapsam dışındadır.",
+                  "C": "Şiddet içeren veya müstehcen içerik yaymak, cezai sorumluluğa yol açabilir.",
+                  "D": "Kurallar yalnızca çevrimiçi içeriğe uygulanır, geleneksel medya yoluyla dağıtılan materyale değil."
+                },
+                "answer": "C",
+                "explanation": "The rule prohibits both incitement to violence and the dissemination of obscene content, and such actions can constitute criminal offenses, without specifying the medium."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Obsön içerik yaymak Türkiye'de yasaktır ve bir suç teşkil edebilir.",
+                "answer": true,
+                "explanation": "The rule explicitly states that disseminating obscene content is prohibited and can constitute criminal responsibility."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de şiddeti kışkırtma yasağı, içeriğin doğrudan gerçek bir şiddet eylemine yol açması durumunda geçerlidir.",
+                "answer": false,
+                "explanation": "The rule prohibits the incitement of violence itself; it does not condition illegality on the incitement successfully resulting in an actual violent act."
+              }
+            ]
+          }
+        },
+        {
+          "text": "散布虚假信息并造成公众恐慌、社会不安定者构成犯罪，可依法处罚。",
+          "source": "土耳其刑法（Turkish Penal Code）",
+          "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de kamu bilgileriyle ilgili olarak ne suç sayılır?",
+                "options": {
+                  "A": "Sosyal medyada kişisel görüşlerin paylaşılması",
+                  "B": "Tarihsel olayları tartışmak",
+                  "C": "Kamuoyunda panik yaratan yanlış bilgileri yaymak",
+                  "D": "Uluslararası kaynaklardan haber bildirme"
+                },
+                "answer": "C",
+                "explanation": "Spreading false information that causes public panic or social unrest is defined as a crime."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türk düzenlemelerine göre, yanlış bilgi yaymanın suç sayılması için hangi özel sonucun ortaya çıkması gerekir?",
+                "options": {
+                  "A": "Bilginin mahkemede yanlış olduğu kanıtlanmalıdır.",
+                  "B": "Bilgi büyük bir platformda paylaşılmalıdır.",
+                  "C": "Kamu panikine veya sosyal huzursuzluğa neden olmalıdır.",
+                  "D": "Paylaşan kişi kötü niyetli olmalıdır."
+                },
+                "answer": "C",
+                "explanation": "The crime is defined by the act of spreading false information *and* it causing public panic or social unrest."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Bilgi yayma ile ilgili Türk düzenlemesini en olası şekilde ihlal edecek senaryo hangisidir?",
+                "options": {
+                  "A": "Bir gazeteci yanlışlıkla daha sonra düzeltilen ve kamuoyunda herhangi bir tepkiye neden olmayan yanlış bir ekonomik istatistiği haber yapar.",
+                  "B": "Bir kişi, yakında gerçekleşecek terör saldırılarına dair doğrulanmamış iddiaları tekrar tekrar paylaşıyor ve bu da yaygın korkuya ve kamu etkinliklerinin aksamasına neden oluyor.",
+                  "C": "Bir siyasi grup, hükümete sert eleştiriler içeren bir manifestoyu yayımlar ve bu, barışçıl bir tartışmayı tetikler.",
+                  "D": "Bir vatandaş, bazılarının saldırgan bulduğu ancak daha geniş toplumsal bir rahatsızlığa neden olmayan bir siyasi figürle ilgili mizahi bir meme paylaşıyor."
+                },
+                "answer": "B",
+                "explanation": "This involves the deliberate spread of false information (unverified claims) that directly results in public panic (widespread fear) and social unrest (disrupted events), meeting both key conditions of the rule."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Yanlış bilgi yaymak Türkiye'de her zaman yasa dışıdır.",
+                "answer": false,
+                "explanation": "The rule specifies that spreading false information is a crime only when it causes public panic or social unrest."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de bilgi yayma eyleminin yasa dışı sayılması için hem yanlış olması hem de toplumda önemli bir olumsuz etki yaratması gerekir.",
+                "answer": true,
+                "explanation": "The regulation defines the crime by two cumulative conditions: the information must be false, and its dissemination must result in public panic or social unrest."
+              }
+            ]
+          }
+        },
+        {
+          "text": "为维护国家不可分割的统一、公共秩序与安全，政府可依法限制部分权利自由，凡法律禁止的内容均可被强制限制。",
+          "source": "土耳其宪法（Constitution of the Republic of Turkey）",
+          "url": "https://www.constitutionnet.org/sites/default/files/turkey_constitution_eng_2012.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de hükümet, kamu düzeni gerekçesiyle neyi yasal olarak kısıtlayabilir?",
+                "options": {
+                  "A": "Sadece oy kullanma hakkı",
+                  "B": "Sadece mülkiyet hakkı",
+                  "C": "Belirli haklar ve özgürlükler",
+                  "D": "Sadece özgür konuşma hakkı"
+                },
+                "answer": "C",
+                "explanation": "The government can restrict certain rights and freedoms to maintain public order, as permitted by law."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de içerik hangi genel ilke altında zorunlu kısıtlamalara tabi olabilir?",
+                "options": {
+                  "A": "Eğer popüler olmadığı düşünülürse",
+                  "B": "Yasal olarak yasaklanırsa",
+                  "C": "Eğer halk tarafından eleştirilirse",
+                  "D": "Medyada rapor edilirse"
+                },
+                "answer": "B",
+                "explanation": "Content that is prohibited by law can be subject to mandatory restrictions."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Aşağıdaki senaryolardan hangisi Türkiye'de tanımlanan çerçeve altında yasal olarak en olası şekilde izin verilebilir?",
+                "options": {
+                  "A": "Bir protesto, mesajı hükümeti eleştirdiği için yetkililer tarafından barışçıl bir şekilde dağıtılıyor.",
+                  "B": "Belirli bir konuşma türü, kamu güvenliğini sağlamak amacıyla yasaklayan yeni bir yasa çıkarıldığı için kısıtlanmıştır.",
+                  "C": "Bir kişinin mülkü, yasal bir hüküme atıfta bulunmaksızın, kamu düzeni için genel bir ihtiyaç temelinde el konulur.",
+                  "D": "Her türlü kamu toplantısı, niteliği veya yasal durumu ne olursa olsun, önceden belirsiz bir süre için yasaklanmıştır."
+                },
+                "answer": "B",
+                "explanation": "The framework allows restrictions for public order/safety, but they must be \"permitted by law.\" Option B involves a restriction based on a new law (making the content \"legally prohibited\"), aligning with the text. The other options either lack a legal basis (A, C) or are overly broad and not necessarily tied to specific legal provisions (D)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de hükümet, kamu güvenliğini korumak amacıyla hak ve özgürlükleri kısıtlama yetkisine sahiptir.",
+                "answer": true,
+                "explanation": "The text states the government can restrict rights and freedoms to maintain public order and security, as permitted by law."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de, ulusal birlik için gerekli görüldüğü takdirde, yasal bir yasağı olmasa bile herhangi bir eylem hükümet tarafından kısıtlanabilir.",
+                "answer": false,
+                "explanation": "Restrictions must be \"permitted by law\" and apply to content that is \"legally prohibited.\" Government action must be based on existing law, not just on a general deemed necessity."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "宗教",
+      "items": [
+        {
+          "text": "妨碍宗教、思想和信念自由构成犯罪：以暴力或威胁迫使他人改变或公开其宗教、政治或哲学信念；以非法手段阻碍集体宗教礼拜或仪式；干涉基于信仰和观念形成的生活方式等行为均受刑法处罚。",
+          "source": "土耳其刑法（Turkish Penal Code）- Prevention of the Exercise of Freedom of Belief, Thought and Conviction",
+          "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Aşağıdaki eylemlerden hangisi Türkiye'de suçtur?",
+                "options": {
+                  "A": "Kendi dini inancını değiştirmeyi seçmek",
+                  "B": "Birinin felsefi inancını değiştirmek için zor kullanmak",
+                  "C": "Dini bir törene katılmak",
+                  "D": "Farklı siyasi fikirleri özel olarak tartışmak"
+                },
+                "answer": "B",
+                "explanation": "Using force or threat to compel someone to change their religious, political, or philosophical beliefs is a criminal offense."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de dini uygulamalarla ilgili olarak ne bir suç teşkil eder?",
+                "options": {
+                  "A": "Dini etkinliklere katılmama kararı veren bireyler",
+                  "B": "Barışçıl bir dinler arası diyalog etkinliği düzenleme",
+                  "C": "Bir grubun toplu dini hizmet düzenlemesini yasa dışı olarak engellemek",
+                  "D": "Bir inanç sistemine dair kişisel şüphelerini ifade eden bir kişi"
+                },
+                "answer": "C",
+                "explanation": "Using illegal means to hinder collective religious worship or ceremonies is punishable under criminal law."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'nin düzenlemelerine göre, hangi senaryo yasadışı müdahaleyi tanımlar?",
+                "options": {
+                  "A": "Bir ev sahibinin, inançla ilgisi olmayan yaşam tarzı seçimine dayanarak birine kiralamayı reddetmesi",
+                  "B": "Bir ailenin yetişkin çocuğunu ailenin geleneksel dini uygulamalarını benimsemeye teşvik etmesi.",
+                  "C": "İnançlarını değiştirdiklerini kamuya açıkça ifade etmelerini engellemek için tehditler kullanan bir topluluk lideri.",
+                  "D": "Çoğu çalışanı tarafından gözlenen dini bir tatilde erken kapanan bir işletme."
+                },
+                "answer": "C",
+                "explanation": "This combines two prohibited acts: using threats (a form of coercion) to interfere with someone's religious belief and hindering the public expression of that belief. Other options either describe non-coercive personal/family matters, non-belief-related discrimination, or a business decision not explicitly framed as illegal interference."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de bir grubun dini tören yapmasını engellemek için kuvvet kullanmak yasa dışıdır.",
+                "answer": true,
+                "explanation": "Using illegal means, which includes force, to obstruct collective religious worship or rituals is a criminal act."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de yasa, yalnızca dini inançlara yapılan müdahalelere karşı koruma sağlar, siyasi veya felsefi inançlara karşı değil.",
+                "answer": false,
+                "explanation": "The law explicitly prohibits using violence or threats to compel someone to change or disclose their religious, political, or philosophical beliefs, offering protection to all three categories."
+              }
+            ]
+          }
+        },
+        {
+          "text": "损坏教堂、清真寺等礼拜场所或墓地并玷污相关地点可处1–4年监禁；若该行为旨在侮辱相关宗教团体，刑罚可加重。",
+          "source": "土耳其刑法（Turkish Penal Code）- Damage to worship places and cemeteries",
+          "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de kilise veya cami gibi bir ibadet yerine zarar vermenin cezası nedir?",
+                "options": {
+                  "A": "Para cezası",
+                  "B": "1 ila 4 yıl hapis cezası",
+                  "C": "Toplum hizmeti",
+                  "D": "Resmi bir uyarı"
+                },
+                "answer": "B",
+                "explanation": "Damaging a place of worship, such as a church or mosque, is punishable by 1 to 4 years of imprisonment."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de aşağıdaki yerlerden hangisine zarar vermek potansiyel olarak hapis cezası getirir?",
+                "options": {
+                  "A": "Bir halk parkı",
+                  "B": "Özel bir konut",
+                  "C": "Bir mezarlık",
+                  "D": "Ticari bir ofis binası"
+                },
+                "answer": "C",
+                "explanation": "Damaging a cemetery, like damaging a place of worship, is punishable by 1 to 4 years of imprisonment."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de vandalizm eylemleriyle ilgili olarak, hangi senaryo muhtemelen artırılmış bir hapis cezasıyla sonuçlanır?",
+                "options": {
+                  "A": "İnşaat çalışmaları sırasında bir mezarlığı kazara zarara uğratmak.",
+                  "B": "Sanatsal ifade olarak kabul edilen grafitilerle bir camiyi tahrip etmek.",
+                  "C": "Hristiyan dini topluluğuna hakaret etme niyetiyle bir kiliseye zarar vermek.",
+                  "D": "Bir protesto sırasında bir sinagogdaki pencereyi kazara kırmak."
+                },
+                "answer": "C",
+                "explanation": "The prison sentence for damaging a place of worship or cemetery can be increased if the act is aimed at insulting the relevant religious community."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de bir mezarlığı zarara uğratmak hapis cezasına yol açabilir.",
+                "answer": true,
+                "explanation": "Damaging a cemetery is explicitly mentioned as an act punishable by 1 to 4 years of imprisonment."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de bir camiyi kirletme cezası, bağlam ne olursa olsun her zaman tam olarak 4 yıl hapis cezasıdır.",
+                "answer": false,
+                "explanation": "The punishment for damaging a place of worship like a mosque is 1 to 4 years, and this sentence can be increased if the act is intended to insult the religious group. It is not a fixed 4-year sentence."
+              }
+            ]
+          }
+        },
+        {
+          "text": "土耳其为世俗国家，然而身份证在出生时默认登记为“穆斯林”，除非父母登记为宪法承认的少数宗教；约99.8%的公民记录为穆斯林，但实际可能包括无宗教者或其他信仰。",
+          "source": "Cultural Atlas - Turkish Culture: Religion",
+          "url": "https://culturalatlas.sbs.com.au/turkish-culture/turkish-culture-religion",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de, bireyin doğumunda kimlik kartına varsayılan olarak hangi din kaydedilir?",
+                "options": {
+                  "A": "Hristiyan",
+                  "B": "Müslüman",
+                  "C": "Yahudi",
+                  "D": "Hiçbir din kaydedilmedi"
+                },
+                "answer": "B",
+                "explanation": "According to the text, the identity card in Turkey is registered as \"Muslim\" by default at birth."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de hangi koşulda yeni doğan bir çocuğun kimlik kartına \"Müslüman\" yazılmaz?",
+                "options": {
+                  "A": "Eğer ebeveynler dindar değilse",
+                  "B": "Ebeveynler çocukları anayasada tanınan bir azınlık dini mensubu olarak kaydettirirse",
+                  "C": "Çocuk Türkiye dışında doğduysa",
+                  "D": "Aile seküler bir kayıt talep ederse"
+                },
+                "answer": "B",
+                "explanation": "The default registration is \"Muslim\" unless the parents register the child as belonging to a constitutionally recognized minority religion."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de dinle ilgili aşağıdaki ifadelerden hangisi en doğrudur?",
+                "options": {
+                  "A": "Müslüman olarak kaydedilen vatandaşların yüksek yüzdesi, ülkedeki uygulamalı Müslümanların tam sayısını yansıtmaktadır.",
+                  "B": "Türk yasası, bireylerin kimlik kartlarında doğumdan itibaren resmi olarak hiçbir dini beyan etmelerine izin verir.",
+                  "C": "Kimlik kartları Müslüman olarak yüksek bir yüzdelik gösterse de, bu dini olmayan veya başka inançlara sahip kişileri de kapsar.",
+                  "D": "Anayasa tüm dinleri eşit olarak tanır ve kimlik kartlarında varsayılan bir kayıt yoktur."
+                },
+                "answer": "C",
+                "explanation": "The text states that about 99.8% of citizens are recorded as Muslim, but this figure may include non-religious individuals or those of other faiths, making option C the most accurate. Option A is incorrect as the figure may not reflect actual practice. Option B is false because the default is Muslim unless registered under a recognized minority religion. Option D is false as the text mentions a default registration."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de kimlik kartları, bir kişi doğduğunda varsayılan olarak \"Müslüman\" olarak kaydedilir.",
+                "answer": true,
+                "explanation": "The text explicitly states that the identity card is registered as \"Muslim\" by default at birth."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Resmi kayıtlarda Türk vatandaşlarının %99,8'inin Müslüman olduğu şeklinde bildirilen rakam, İslam dinini aktif olarak uygulayan kişi sayısını doğru bir şekilde temsil etmektedir.",
+                "answer": false,
+                "explanation": "The text clarifies that while about 99.8% are recorded as Muslim, this figure likely includes individuals who are non-religious or hold other beliefs, meaning it does not accurately represent the number of practicing Muslims."
+              }
+            ]
+          }
+        },
+        {
+          "text": "宪法承认的宗教包括逊尼派伊斯兰、部分基督教分支与犹太教，其他教派如什叶派、改革基督教和 Rum Orthodox 未获同等承认；少数宗教群体在实践上可信仰但可能面临社会挑战。",
+          "source": "Cultural Atlas - Turkish Culture: Religion",
+          "url": "https://culturalatlas.sbs.com.au/turkish-culture/turkish-culture-religion",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'nin anayasal çerçevesine göre, aşağıdaki dini gruplardan hangisi resmen tanınmaktadır?",
+                "options": {
+                  "A": "Şii İslam",
+                  "B": "Sünni İslam",
+                  "C": "Reformcu Hristiyanlık",
+                  "D": "Rum Ortodoks"
+                },
+                "answer": "B",
+                "explanation": "Sunni Islam is one of the religious groups officially recognized by the constitution."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'nin dini düzenlemeleri bağlamında Rum Ortodoks Hristiyanlığının statüsü nedir?",
+                "options": {
+                  "A": "Tam yasal haklarla resmi olarak tanınmaktadır.",
+                  "B": "Resmi olarak tanınmakla birlikte sosyal zorluklarla karşı karşıyadır.",
+                  "C": "Diğer bazı dinlere tanınan resmi tanıma aynı düzeyde sahip değildir.",
+                  "D": "Uygulaması tamamen yasaktır."
+                },
+                "answer": "C",
+                "explanation": "The text states that Rum Orthodox, along with others like Shia Islam and Reformed Christianity, has not received equal recognition compared to constitutionally acknowledged religions."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Sünni İslam, Türkiye'de anayasal olarak tanınan bir dindir.",
+                "answer": true,
+                "explanation": "The text explicitly lists Sunni Islam as one of the religions recognized by the constitution."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de Hristiyanlığın tüm kolları aynı düzeyde resmi anayasal tanıma sahiptir.",
+                "answer": false,
+                "explanation": "The text specifies that only \"some Christian branches\" are recognized, while others like Reformed Christianity and Rum Orthodox are not granted equal recognition."
+              }
+            ]
+          }
+        },
+        {
+          "text": "尽管法律上为世俗国家，近年来政府推动更保守的宗教道德政策，例如限制酒精广告、鼓励保守着装、将宗教教学引入公共教育系统。",
+          "source": "Cultural Atlas - Turkish Culture: Religion",
+          "url": "https://culturalatlas.sbs.com.au/turkish-culture/turkish-culture-religion",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'deki son hükümet eğilimlerine göre, hangi alanda daha fazla dini içerik eklenmiştir?",
+                "options": {
+                  "A": "Üniversite giriş sınavları",
+                  "B": "Kamu eğitimi sistemi",
+                  "C": "Özel iş düzenlemeleri",
+                  "D": "Uluslararası ticaret anlaşmaları"
+                },
+                "answer": "B",
+                "explanation": "The text states that religious teaching has been introduced into the public education system."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Son yıllarda Türk hükümeti aşağıdaki hangisini teşvik eden politikaları desteklemiştir?",
+                "options": {
+                  "A": "Liberal sosyal normlar",
+                  "B": "Muhafazakar dini ahlak",
+                  "C": "Kamu hayatında katı laik uygulamalar",
+                  "D": "Dini tatillerde azalma"
+                },
+                "answer": "B",
+                "explanation": "The text specifies that the government has been pushing for more conservative religious moral policies."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Son eğilimlere dayanarak, Türkiye'nin kamusal yaşamda dine yaklaşımıyla ilgili hangi ifade en doğrudur?",
+                "options": {
+                  "A": "Türkiye, laik ilkelerinden vazgeçti ve tamamen dini bir devlet haline geldi.",
+                  "B": "Yasal olarak laik bir devlet olmasına rağmen, hükümet reklamcılık ve eğitim gibi alanlarda belirli dini muhafazakar politikaları teşvik ediyor.",
+                  "C": "Hükümet, kamu alanlarından ve eğitimden tüm dini etkileri kaldırarak laikliği katı bir şekilde uygular.",
+                  "D": "Dini politikalar yalnızca yerel belediyeler tarafından belirlenir, merkezi hükümetin hiçbir katılımı yoktur."
+                },
+                "answer": "B",
+                "explanation": "The text clarifies Turkey remains legally secular, but the central government has promoted conservative religious morals through specific measures like restricting alcohol ads and introducing religious teaching in public schools."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye hükümeti, muhafazakar ahlakı teşvik etmenin bir parçası olarak alkollü içki reklamlarını kısıtlamak için yakın zamanda adımlar attı.",
+                "answer": true,
+                "explanation": "The text lists restricting alcohol advertising as an example of the government's push for conservative religious moral policies."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'nin dini konudaki son politikaları, temel laik hukuki çerçevesinden tam bir uzaklaşmayı temsil etmektedir.",
+                "answer": false,
+                "explanation": "The text begins by stating \"尽管法律上为世俗国家\" (Although legally a secular state), indicating the secular legal framework remains in place, even as certain conservative religious moral policies are promoted by the government."
+              }
+            ]
+          }
+        },
+        {
+          "text": "宗教传教可能被视为非法；在公共场所或社交媒体讨论宗教、历史或政治敏感议题，或批评政府可能带来被调查或拘留的风险。",
+          "source": "加拿大政府旅行建议（Government of Canada Travel Advisory）",
+          "url": "https://travel.gc.ca/destinations/turkiye",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de hangi faaliyet yasa dışı olarak belirtilmektedir?",
+                "options": {
+                  "A": "Dini bir ayine katılmak",
+                  "B": "Dini propagandada bulunmak",
+                  "C": "Özel bir yerde tarih kitabı okumak",
+                  "D": "Kişisel bir siyasi görüşe sahip olmak"
+                },
+                "answer": "B",
+                "explanation": "Religious proselytism (missionary work) is mentioned as potentially illegal in Turkey."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de bir kamu yerinde aşağıdaki konulardan hangisinin tartışılması soruşturma riski taşıyabilir?",
+                "options": {
+                  "A": "Yerel hava durumu desenleri",
+                  "B": "Spor etkinlikleri",
+                  "C": "Hassas tarihsel konular",
+                  "D": "Yemek tarifleri"
+                },
+                "answer": "C",
+                "explanation": "Discussing sensitive historical issues in public places is mentioned as carrying a risk of investigation or detention."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'deki düzenlemelerle ilgili olarak, hangi senaryo olası bir yasal riski en doğru şekilde tanımlar?",
+                "options": {
+                  "A": "Bir kişi, hükümet politikasını eleştiren bir günlük yazısını gizlice yazıyor.",
+                  "B": "Evde özel bir akşam yemeği sırasında hassas bir siyasi konuyu tartışan bir grup arkadaş.",
+                  "C": "Devletle ilgisi olmayan tarihi bir figürü eleştirmek için sosyal medyada gönderi paylaşan bir birey.",
+                  "D": "Sosyal medyada hükümeti eleştirmenin potansiyel risklerini tartışan bir parkta düzenlenen halka açık bir konuşma."
+                },
+                "answer": "D",
+                "explanation": "This scenario combines multiple risk factors from the text: it occurs in a public place (park), involves discussion of a sensitive political topic (criticizing government), and explicitly references the platform (social media) where such criticism carries risk. The other options involve private settings or avoid the combined sensitive elements."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de sosyal medyada hükümeti eleştirmek soruşturma riskine yol açabilir.",
+                "answer": true,
+                "explanation": "The text states that discussing or criticizing the government on social media may bring a risk of investigation or detention."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de ana yasal endişe yalnızca organize dini misyonerlikle ilgilidir, arkadaşlar arasında dini konular hakkında yapılan samimi tartışmalar her zaman güvenlidir.",
+                "answer": false,
+                "explanation": "The text indicates a broader concern, stating that discussing religious topics in public places (which could include casual discussions among friends if in a public setting) may carry risks, not just organized proselytism."
+              }
+            ]
+          }
+        },
+        {
+          "text": "宪法规定国家是世俗国家且不得以宗教、宗派或信仰为基础组织政治或社会秩序；宗教不可组织化控制国家机构。任何结构化、持续性且以违法为目的的组织均构成非法组织，处罚范围包括组织者、成员、协助者及宣传者。",
+          "source": "土耳其刑法（Turkish Penal Code）与土耳其宪法",
+          "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'nin anayasasına göre, devletin din açısından niteliği nedir?",
+                "options": {
+                  "A": "Belirli bir inanca dayalı dini bir devlettir.",
+                  "B": "Dini temele dayanarak organize edilemeyen laik bir devlettir.",
+                  "C": "Dini grupların devlet kurumlarını kontrol etmesine izin verir.",
+                  "D": "Sosyal düzen içinde bir dini diğerlerinden üstün kılar."
+                },
+                "answer": "B",
+                "explanation": "The constitution defines Turkey as a secular state, meaning it cannot organize its political or social order based on religion."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'nin anayasası onu laik bir devlet olarak kurar.",
+                "answer": true,
+                "explanation": "The text states that the constitution defines the state as secular."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de yasa dışı bir amaçla yapılan tek seferlik bir toplantı, ilgili kurala göre yasa dışı bir örgüt olarak kabul edilir.",
+                "answer": false,
+                "explanation": "The rule defines an illegal organization as one that is structured, persistent, and has illegal aims, which excludes a single, one-time gathering."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "category": "文化",
+      "items": [
+        {
+          "text": "土耳其文化高度重视待客之道：访客进门通常需要脱鞋，主人一般会奉茶或咖啡以示尊重和欢迎。",
+          "source": "Study in Türkiye – Important Turkish Cultural Norms Every Student Should Know",
+          "url": "https://studyinturkiye.com/important-turkish-cultural-norms-every-student-should-know/#:~:text=Hospitality%3A%20The%20Heart%20of%20Turkish,Culture",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de misafirler bir eve ziyarete geldiğinde onlara gösterilen yaygın bir saygı ve hoş geldin jesti nedir?",
+                "options": {
+                  "A": "Bir hediye sunma",
+                  "B": "Çay veya kahve ikram etmek",
+                  "C": "Sıkıca el sıkışmak",
+                  "D": "Evin turunu yapmak"
+                },
+                "answer": "B",
+                "explanation": "It is customary for hosts to offer tea or coffee as a gesture of respect and welcome to guests."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Bir Türk evine misafir olarak girerken takip edilmesi gereken iki tipik kültürel uygulama nedir?",
+                "options": {
+                  "A": "Bir hediye getirin ve evi övün",
+                  "B": "Ayakkabılarını çıkar ve bir içki kabul et",
+                  "C": "Herkesi tek tek selamla ve hemen otur",
+                  "D": "Davet edilene kadar bekleyin ve doğrudan göz temasından kaçının"
+                },
+                "answer": "B",
+                "explanation": "Guests are typically expected to remove their shoes upon entry and hosts commonly offer tea or coffee."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türk evlerinde misafir nezaketine ilişkin olarak, hangi senaryo tanımlanan kültürel normlarla uyumludur?",
+                "options": {
+                  "A": "Bir misafir çoraplarını kirletmemek için ayakkabılarını giyer ve susamadığı için içkiyi kibarca reddeder.",
+                  "B": "Misafir, içeri girerken ayakkabılarını çıkarır ve sunulan çayı kabul eder,哪怕只喝几口.",
+                  "C": "Bir misafir içeri giymek için kendi terliklerini getirir ve belirli bir kahve türü ister.",
+                  "D": "Bir misafir, ayakkabılarını çıkarmaları için ev sahibinin açıkça istemesini bekler ve sonra çay veya kahve yerine su ister."
+                },
+                "answer": "B",
+                "explanation": "The norms specify shoe removal upon entry and hosts offering tea/coffee. Accepting the drink (even minimally) respects the hospitality, while declining or making alternative requests deviates from the standard practice described."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de misafirlerin birinin evine girerken ayakkabılarını çıkarması yaygındır.",
+                "answer": true,
+                "explanation": "The cultural practice is for visitors to typically remove their shoes when entering a home."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türk misafirperverlik geleneklerine göre ev sahibi her zaman kahve ikram etmelidir; çay ikram etmek misafirleri karşılamak için standart bir uygulama değildir.",
+                "answer": false,
+                "explanation": "The text states that hosts generally offer tea OR coffee as a gesture of respect and welcome, indicating both are standard options."
+              }
+            ]
+          }
+        },
+        {
+          "text": "拒绝食物或加餐常被视为不礼貌；面包被视为近似“神圣”的食物，不能随意浪费；用餐后常用“Elinize sağlık”来感谢准备食物的人。",
+          "source": "Study in Türkiye – Important Turkish Cultural Norms Every Student Should Know",
+          "url": "https://studyinturkiye.com/important-turkish-cultural-norms-every-student-should-know/#:~:text=Hospitality%3A%20The%20Heart%20of%20Turkish,Culture",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de bir yemeği hazırlayan birine teşekkür etmenin yaygın bir yolu nedir?",
+                "options": {
+                  "A": "\"Merhaba\" demek",
+                  "B": "Elinize sağlık demek",
+                  "C": "\"Teşekkür ederim\" demek",
+                  "D": "Afiyet olsun demek"
+                },
+                "answer": "B",
+                "explanation": "\"Elinize sağlık\" is the phrase commonly used to thank the person who prepared the food after a meal."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türk yemek kültüründe aşağıdakilerden hangisi genellikle kaba kabul edilir?",
+                "options": {
+                  "A": "Masayı toplamaya yardım etmeyi teklif etmek",
+                  "B": "Daha fazla yemek teklifini kibarca reddetmek",
+                  "C": "Yemeğin aşçısını övmek",
+                  "D": "Ekmek yemeyi yavaşça"
+                },
+                "answer": "B",
+                "explanation": "Refusing food or an offer for an additional serving is often seen as impolite in Turkish culture."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Yemekle ilgili Türk kültürel normlarına göre, hangi senaryo en olası şekilde hoş karşılanmaz?",
+                "options": {
+                  "A": "Bir misafir ana yemeğini bitirir ancak tabakta biraz salata bırakır.",
+                  "B": "Misafir, yemekten sonra ev sahibine \"Elinize sağlık\" diyerek teşekkür eder.",
+                  "C": "Bir misafir sepetten bir parça ekmek alır ama onu yemez ve masanın üzerinde bırakır.",
+                  "D": "Bir misafir, tatlıdan ikinci porsiyon teklif edildiğinde kibarca doyduğunu söyler."
+                },
+                "answer": "C",
+                "explanation": "Bread is considered a near-sacred food and should not be wasted. Leaving uneaten bread is more culturally problematic than leaving other food items or politely declining dessert, which might be less severe than refusing a main course offer."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de ekmek özel bir saygıyla对待 edilir ve israf edilmemelidir.",
+                "answer": true,
+                "explanation": "Bread is viewed as a near-\"sacred\" food in Turkish culture, and wasting it is considered inappropriate."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Ana yemeği reddetmek Türkiye'de kaba kabul edilirken, yemekten sonra tatlıyı veya kahveyi kibarca reddetmek genellikle kabul edilebilir ve kaba görülmez.",
+                "answer": false,
+                "explanation": "The text states that refusing food or additional servings (\"ikram\") is often considered impolite. This general principle applies to offers of food and drink, including dessert or coffee, making such a refusal likely to be seen as impolite as well."
+              }
+            ]
+          }
+        },
+        {
+          "text": "土耳其文化强调尊敬长者：初次见面通常握手，熟人之间则可能以贴面礼问候；进入宗教场所时通常要求着装保守，女性被建议遮头。",
+          "source": "Study in Türkiye – Important Turkish Cultural Norms Every Student Should Know",
+          "url": "https://studyinturkiye.com/important-turkish-cultural-norms-every-student-should-know/#:~:text=Hospitality%3A%20The%20Heart%20of%20Turkish,Culture",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "İnsanlar Türkiye'de ilk kez karşılaştıklarında genellikle birbirlerine nasıl selam verir?",
+                "options": {
+                  "A": "Bir sarılma ile",
+                  "B": "Elini sıkarak",
+                  "C": "Yanaklarından bir öpücükle",
+                  "D": "Eğilerek"
+                },
+                "answer": "B",
+                "explanation": "The text states that first meetings typically involve a handshake."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de dini bir yeri ziyaret ederken giyim konusunda yaygın bir beklenti nedir?",
+                "options": {
+                  "A": "Gündelik ve rahat kıyafetler tercih edilir.",
+                  "B": "Resmi iş kıyafeti gereklidir.",
+                  "C": "Genellikle muhafazakar giyim gereklidir.",
+                  "D": "Parlak ve renkli giysiler teşvik edilir."
+                },
+                "answer": "C",
+                "explanation": "The text specifies that conservative dress is usually required when entering religious places."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türk kültürel normlarına göre, aşağıdaki ifadelerden hangisi doğrudur?",
+                "options": {
+                  "A": "Selamlamalar için tokalaşmalar yaygındır, ancak yakın tanıdıklar arasında asla kullanılmaz.",
+                  "B": "Kadınların baş örtüsü olmadan dini alanlara girmesi kesinlikle yasaktır.",
+                  "C": "Yaşlılara saygı vurgulanır ve tanışıklar arasındaki selamlamalar yanak öpüşmeyi içerebilir.",
+                  "D": "Tüm sosyal ve profesyonel durumlarda aynı selamlama biçimi beklenir."
+                },
+                "answer": "C",
+                "explanation": "This correctly combines the emphasis on respect for elders with the detail that cheek-kissing is a possible greeting among acquaintances, unlike the other options which contain inaccuracies (A is false as handshakes are for first meetings, not forbidden for acquaintances; B uses \"strictly forbidden\" which is stronger than the text's \"advised\"; D is false as greetings differ between first meetings and acquaintances)."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türk kültüründe, tanıdıkların birbirlerini yanaklarından öperek selamlaması yaygındır.",
+                "answer": true,
+                "explanation": "The text states that among acquaintances, greetings may involve cheek-kissing."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de dini bir yere girerken erkeklerin muhafazakar giyinmesi gerekir, ancak kadınların kıyafetleriyle ilgili belirli bir tavsiye yoktur.",
+                "answer": false,
+                "explanation": "The text explicitly advises women to cover their heads when entering religious places, indicating there is specific guidance for women's attire."
+              }
+            ]
+          }
+        },
+        {
+          "text": "在公共场合应避免过度的亲昵举止，并尽量遵循当地人的行为规范，以表示对当地文化与社会习俗的尊重。",
+          "source": "Study in Türkiye – Important Turkish Cultural Norms Every Student Should Know",
+          "url": "https://studyinturkiye.com/important-turkish-cultural-norms-every-student-should-know/#:~:text=Hospitality%3A%20The%20Heart%20of%20Turkish,Culture",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türk kültürel normlarına göre, genellikle kamuya açık yerlerde neyden kaçınmalısınız?",
+                "options": {
+                  "A": "Gündelik kıyafetler giymek",
+                  "B": "Telefonda yüksek sesle konuşmak",
+                  "C": "Aşırı sevgi gösterileri",
+                  "D": "Sokak yemeği yemek"
+                },
+                "answer": "C",
+                "explanation": "Excessive displays of affection in public should be avoided according to the text."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türk kültürüne karşı halka açık yerlerde saygı göstermenin önerilen yolu nedir?",
+                "options": {
+                  "A": "Türkçe dilini öğrenmek",
+                  "B": "Yerel halkın davranış normlarını takip etmek",
+                  "C": "Tarihi yerleri sık sık ziyaret etmek",
+                  "D": "Tüm yerel mutfakları denemek"
+                },
+                "answer": "B",
+                "explanation": "The text advises following the behavioral norms of local people to show respect for the culture."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de aşağıdaki senaryolardan hangisi kılavuza göre kültürel olarak en muhtemel uygunsuz kabul edilir?",
+                "options": {
+                  "A": "Bir turist, yerel bir töreni uzaktan sessizce izliyor.",
+                  "B": "Kalabalık bir İstanbul pazarında yürüyen bir çift, kısa süreliğine ellerini tutuyor.",
+                  "C": "Bir yabancı iş insanı, bir toplantı için resmi kıyafet giyiyor.",
+                  "D": "Bir ziyaretçi, bir halk parkında uzun süreli tutkulu öpüşmeyle meşgul."
+                },
+                "answer": "D",
+                "explanation": "The guideline advises avoiding \"excessive\" displays of affection. Prolonged passionate kissing goes beyond a brief, moderate gesture like holding hands and would be considered excessive."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türk kültürüne saygı göstermek için, insanlar kamuya açık yerlerde yerel halkın nasıl davrandığını takip etmeye çalışmalıdır.",
+                "answer": true,
+                "explanation": "The text states one should \"尽量遵循当地人的行为规范\" (try to follow the behavioral norms of local people) to show respect."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye için kültürel kılavuz yalnızca kamuya açık sevgi gösterilerinden kaçınma ile ilgilidir ve genel kamu davranışlarından bahsetmez.",
+                "answer": false,
+                "explanation": "While it mentions avoiding excessive displays of affection, it also broadly advises following local behavioral norms to show respect for culture and social customs."
+              }
+            ]
+          }
+        },
+        {
+          "text": "禁止拍摄军事或政府设施以及安保人员；未经许可不得携带古董或文物出境，以免触犯土耳其相关法律。",
+          "source": "加拿大政府旅行建议（Government of Canada Travel Advisory）",
+          "url": "https://travel.gc.ca/destinations/turkiye",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de turistler için fotoğraf çekme konusunda genel bir kural nedir?",
+                "options": {
+                  "A": "Tarihi yerlerin fotoğraflarını çekmek her zaman teşvik edilir.",
+                  "B": "Askeri veya hükümet tesislerinin fotoğrafı çekmek yasaktır.",
+                  "C": "Güvenlik personeliyle selfie çekmek, kibarca sorarsanız izinlidir.",
+                  "D": "Sadece profesyonel fotoğrafçıların fotoğraflar için izin almaları gerekir."
+                },
+                "answer": "B",
+                "explanation": "The text explicitly states that taking photographs of military or government facilities, as well as security personnel, is prohibited."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'den ayrılmayı planlarken bir yolcunun neyi taşıdığı konusunda dikkatli olması gerekir?",
+                "options": {
+                  "A": "Yerel gıda ürünleri ve baharatlar",
+                  "B": "Yerel pazarlardan satın alınan el sanatları.",
+                  "C": "İzin olmadan antikalar veya kültürel eserler.",
+                  "D": "Belirli bir değerin üzerindeki elektronik cihazlar."
+                },
+                "answer": "C",
+                "explanation": "The text specifies that carrying antiques or cultural artifacts out of the country without permission is not allowed to avoid violating Turkish law."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Aşağıdaki senaryolardan hangisi, açıklandığı şekilde Türk düzenlemelerini en olası şekilde ihlal eder?",
+                "options": {
+                  "A": "Bir turist, hükümet binasına da yakın olan tarihi bir kaleyi uzaktan ve bulanık olarak fotoğraf çeker.",
+                  "B": "Bir yolcu, lisanslı bir mağazadan eski bir vazoya ait modern bir kopya satın alır ve bunu bagajında taşır.",
+                  "C": "Bir ziyaretçi, bir askeri üssün girişinin dışında silahlı muhafızların net ve yakın çekimli fotoğrafını çekerken durduruldu.",
+                  "D": "Resmi bir ihracat sertifikasına sahip bir arkeolog, uluslararası bir sergi için eski bir madeni parayı paketliyor."
+                },
+                "answer": "C",
+                "explanation": "This directly violates the prohibition on photographing security personnel and, by context, military facilities. Option A is ambiguous (focus is the castle). Option B involves a modern reproduction, not an antique/artifact. Option D involves proper permission."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de güvenlik personelinin fotoğraflarını çekmek genellikle kişisel kullanım için izinlidir.",
+                "answer": false,
+                "explanation": "The text clearly states that photographing security personnel is prohibited."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Antikaların izin olmadan Türkiye'den çıkarılmasının yasaklanmasının ana nedeni, ülkenin kültürel mirasını korumak ve yasalarını uygulamaktır.",
+                "answer": true,
+                "explanation": "While the text states the action is to \"avoid violating Turkish law,\" the inherent purpose of such laws regarding antiquities is universally understood to be the protection of national cultural heritage, making this a valid inference based on the given information."
+              }
+            ]
+          }
+        },
+        {
+          "text": "土耳其对古董、文物和历史物件实行严格管控，即便在当地市场或古董店购买的“历史物件”在境内可交易，也可能被禁止带出境，违规者可能面临高额罚款与长期刑期。",
+          "source": "英国政府旅行建议（UK Government Travel Advice – Turkey）",
+          "url": "https://wet-boew.github.io/wet-boew-documentation/research/2020-33-docs/document-11-DOM.html",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de satın alınan tarihi bir nesneyi uygun izin olmadan ülke dışına çıkarmaya çalışan birinin karşılaşabileceği olası sonuç nedir?",
+                "options": {
+                  "A": "Küçük bir yönetim ücreti",
+                  "B": "Gümrükten resmi bir uyarı",
+                  "C": "Yüksek cezalar ve uzun hapis cezaları",
+                  "D": "Eşyanın geçici olarak el konulması"
+                },
+                "answer": "C",
+                "explanation": "Violating regulations on taking historical objects out of Turkey can result in high fines and long prison sentences."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türk düzenlemelerine göre, tarihi nesnelerin edinilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+                "options": {
+                  "A": "Yerel pazarlarda satın alınan nesneler her zaman ihraç etmek için güvenlidir.",
+                  "B": "Türkiye içinde yasal olarak satın alınan herhangi bir eşya serbestçe yurtdışına çıkarılabilir.",
+                  "C": "Yerel antikacı dükkanlarında satın alınan eşyaların bile ihracatı yasak olabilir.",
+                  "D": "İhracat kısıtlamaları yalnızca arkeolojik kazılarda bulunan nesneler için geçerlidir."
+                },
+                "answer": "C",
+                "explanation": "The text states that historical objects bought in local markets or antique shops, while potentially tradable within Turkey, may still be banned from being taken out of the country."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Bir turist, İstanbul'daki saygın bir antikacıdan fişle eski bir seramik vazo satın alır. Bu vazoyu evine götürmeyle ilgili yasal durumu en iyi hangisi tanımlar?",
+                "options": {
+                  "A": "Mağazadan yasal olarak satın alındığı için ihraç etmek tamamen yasaldır.",
+                  "B": "Antikalar otomatik olarak devlet malı olduğu için bunu ihraç etmek yasa dışıdır.",
+                  "C": "İhracatı yasa dışı olabilir, çünkü iç ticaret yapılabilirliği ihracat izni garanti etmez ve kontrol etmeden bunu yapmaya çalışmak ciddi cezalara yol açabilir.",
+                  "D": "İhracat, vazın kökeni ne olursa olsun, yalnızca 50 yaşından küçükse mümkündür."
+                },
+                "answer": "C",
+                "explanation": "The key difficulty is that an item being legally tradable within Turkey (e.g., in a shop) does not automatically mean it can be exported. Strict controls exist, and attempting export without proper authorization risks high fines and long prison terms, making option C the most comprehensive and accurate."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye, antikalar ve tarihi nesneler üzerinde sıkı kontroller uygular ve izin olmadan bunları ülke dışına çıkarmak ciddi yasal sonuçlara yol açabilir.",
+                "answer": true,
+                "explanation": "The text clearly states that Turkey enforces strict controls and that violators may face high fines and long prison sentences."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Eğer bir tarihi nesne yasal olarak satın alınıp Türkiye içinde, örneğin yerel bir pazarda ticareti yapılıyorsa, başka bir ülkeye ihraç edilmek için otomatik olarak onaylanır.",
+                "answer": false,
+                "explanation": "The text specifies that even objects purchased in local markets or antique shops, which are tradable within the country, \"may be prohibited from being taken out of the country.\" Domestic tradeability does not equal export permission."
+              }
+            ]
+          }
+        },
+        {
+          "text": "动物源性产品一般不允许由旅客随身或货运携入土耳其，植物性食品在一定条件下有少量豁免；旅客行李中如携带在土耳其被禁止的枪支，将按受管制物品处理；烟草与酒精应符合免税数量限制，18岁以下旅客不得享受烟草或酒精的免税额度；个人自用药品在“合理数量”范围内可入境，但需提供处方或医疗机构证明；家养宠物可在数量限制和检疫文件齐备的前提下入境。",
+          "source": "土耳其共和国贸易部 – 旅客通关常见问题",
+          "url": "https://www.trade.gov.tr/customs-formalities/frequently-asked-questions/passenger-transactions",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'nin giriş düzenlemelerine göre, seyahat edenlerin getirmesine genellikle izin verilmeyen madde aşağıdakilerden hangisidir?",
+                "options": {
+                  "A": "Kişisel kullanım için reçeteli ilaç",
+                  "B": "Makul miktarda tütün",
+                  "C": "Et veya süt ürünleri",
+                  "D": "Uygun belgeleri olan bir evcil kedi"
+                },
+                "answer": "C",
+                "explanation": "Animal-derived products are generally not allowed to be brought into Turkey by travelers."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "17 yaşındaki bir yolcu Türkiye'ye geliyor. İzin verilen eşyaları hakkında hangi ifade doğrudur?",
+                "options": {
+                  "A": "Alkol için standart gümrüksüz sınırı getirebilirler.",
+                  "B": "Tütün veya alkol için herhangi bir gümrüksüz muafiyet hakkına sahip değiller.",
+                  "C": "Reçeteli ilaçları yalnızca bir ebeveynin izniyle getirebilirler.",
+                  "D": "Koşulsuz olarak küçük miktarda bitkisel gıda getirmelerine izin veriliyor."
+                },
+                "answer": "B",
+                "explanation": "Travelers under 18 years old cannot benefit from duty-free allowances for tobacco or alcohol."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Bir yolcunun bagajı Türkiye'ye varışta kontrol edilir. Hangi senaryo, eşyanın kontrollü madde olarak değerlendirilmesine en olası şekilde neden olur?",
+                "options": {
+                  "A": "Gümrük vergisiz sınırının biraz üzerinde bir şişe viski taşımak.",
+                  "B": "Reçetesiz yaygın bir ağrı kesiciyi getirmek.",
+                  "C": "Yasaklanmış türde bir ateşli silahı bagajda bulundurmak.",
+                  "D": "Az miktarda taze meyveyi beyan etmeden taşımak."
+                },
+                "answer": "C",
+                "explanation": "Firearms that are prohibited in Turkey, if found in passenger luggage, will be treated as controlled items."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Kişisel reçeteli ilaçlar, makul miktarda olmak ve gerekli belgelerle birlikte getirilmek koşuluyla Türkiye'ye kişisel kullanım için getirilebilir.",
+                "answer": true,
+                "explanation": "Personal medication for one's own use is permitted within a \"reasonable quantity\" provided there is a prescription or medical institution proof."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Her koşulda, seyahat edenler tarafından Türkiye'ye bitkisel gıdaların getirilmesi kesinlikle yasaktır.",
+                "answer": false,
+                "explanation": "Plant-based foods have certain conditions for limited exemptions and are not strictly prohibited in all cases."
+              }
+            ]
+          }
+        },
+        {
+          "text": "建议在公共场合尤其是宗教场所穿着保守，女性进入清真寺时通常需戴头巾；在斋月期间，白天在公共场合吃喝或吸烟需格外谨慎，以免被视为对斋戒者不尊重。",
+          "source": "加拿大政府旅行建议（Government of Canada Travel Advisory）",
+          "url": "https://travel.gc.ca/destinations/turkiye",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de bir camiye girerken kadınların kıyafetleriyle ilgili yaygın beklenti nedir?",
+                "options": {
+                  "A": "Başörtüsü takmak",
+                  "B": "Resmi iş kıyafetleri giymek",
+                  "C": "Şort ve tişört giyerek",
+                  "D": "Spor kıyafetleri giymek"
+                },
+                "answer": "A",
+                "explanation": "Women are commonly expected to wear a headscarf when entering a mosque in Turkey."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'de Ramazan ayı boyunca gündüz saatlerinde kamuya açık yerlerde aşağıdaki eylemlerden hangisinin yapılması tavsiye edilmez?",
+                "options": {
+                  "A": "Sessizce dua etmek",
+                  "B": "Yemek yemek, içki içmek veya sigara içmek",
+                  "C": "Muhafazakar giysiler giymek",
+                  "D": "Bir camiyi ziyaret etmek"
+                },
+                "answer": "B",
+                "explanation": "During Ramadan, it is advised to be cautious about eating, drinking, or smoking in public during the day to avoid disrespect to those who are fasting."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de, özellikle dini yerlerde, kamuya açık alanlarda mütevazı giyinmek önerilir.",
+                "answer": true,
+                "explanation": "The text advises conservative dress in public, particularly in religious places."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de Ramazan ayı boyunca her zaman için tüm kamuya açık alanlarda yemek yemeyi veya içmeyi kesinlikle yasaklayan kültürel bir rehberlik vardır.",
+                "answer": false,
+                "explanation": "The guidance advises extra caution to avoid being seen as disrespectful when eating, drinking, or smoking in public during Ramadan daytime. It does not state a strict prohibition for all public areas at all times during Ramadan."
+              }
+            ]
+          }
+        },
+        {
+          "text": "在法律层面，同性性行为在土耳其是合法的，但社会整体对 LGBTQ+ 群体的接受程度有限，公开表达性少数身份在部分地区可能面临社会压力。",
+          "source": "加拿大政府旅行建议（Government of Canada Travel Advisory）",
+          "url": "https://travel.gc.ca/destinations/turkiye",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de eşcinsel eylemlerin yasal durumu nedir?",
+                "options": {
+                  "A": "Yasadışıdırlar ve yasalarla cezalandırılırlar.",
+                  "B": "Yasaldırlar, ancak toplumsal kabul sınırlıdır.",
+                  "C": "Tamamen yasaldırlar ve toplum tarafından yaygın olarak kabul edilirler.",
+                  "D": "Ülkenin yalnızca belirli bölgelerinde yasaldırlar."
+                },
+                "answer": "B",
+                "explanation": "Homosexual acts are legal in Turkey, but overall social acceptance for the LGBTQ+ community is limited."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türkiye'deki LGBTQ+ topluluğundan biri için cinsel azınlık kimliğini açıkça ifade etmenin potansiyel bir sonucu ne olabilir?",
+                "options": {
+                  "A": "Derhal yasal kovuşturma.",
+                  "B": "Ülke çapında artan sosyal kabul.",
+                  "C": "Bazı bölgelerde sosyal baskıyla karşı karşıya.",
+                  "D": "Eğitim programlarına zorunlu katılım."
+                },
+                "answer": "C",
+                "explanation": "While legal, openly expressing a sexual minority identity may lead to social pressure in certain parts of Turkey due to limited overall acceptance."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de LGBTQ+ bireylerle ilgili kültürel yönergeler ışığında hangi senaryo en doğrudur?",
+                "options": {
+                  "A": "Eşcinsel bir çift, herhangi bir toplumsal sorun olmadan yasal olarak evlenebilir ve çocuk evlat edinebilir.",
+                  "B": "Bir kişi, özel ve rıza ile yapılan eşcinsel faaliyetler nedeniyle tutuklanabilir.",
+                  "C": "Homoseksüel eylemler yasaldır, ancak bireyler sosyal rahatsızlığı önlemek için bazı bölgelerde açıkça eşcinsel olmamayı tercih edebilir.",
+                  "D": "Aynı cinsiyetli çiftler arasındaki sevgi gösterileri yasal olarak yasaklanmıştır ve toplumsal olarak teşvik edilir."
+                },
+                "answer": "C",
+                "explanation": "This accurately reflects the nuance: the activity itself is legal, but the social climate of limited acceptance might lead individuals to limit public expression of their identity in some regions to avoid pressure."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de eşcinsel eylemler yasa dışıdır.",
+                "answer": false,
+                "explanation": "Homosexual acts are legal in Turkey."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de eşcinsel eylemler yasal olduğu için LGBTQ+ topluluğu üyeleri kimliklerini açıkça ifade ederken herhangi bir zorlukla karşılaşmazlar.",
+                "answer": false,
+                "explanation": "Although homosexual acts are legal, the social acceptance is limited, meaning open expression of a sexual minority identity can still lead to social pressure in various parts of the country."
+              }
+            ]
+          }
+        },
+        {
+          "text": "任何人为赌博提供场所、设备或便利条件的行为构成犯罪，只有国家授权机构可以组织体育博彩；赛马博彩为例外许可领域，仅限经官方授权的渠道，私人或地下赌局以及网络赌博仍属违法。",
+          "source": "土耳其刑法（Turkish Penal Code）",
+          "url": "https://www.wipo.int/wipolex/zh/legislation/details/15935",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Aşağıdakilerden hangisi genellikle Türkiye'de bir suç olarak kabul edilir?",
+                "options": {
+                  "A": "Parkta satranç oynamak",
+                  "B": "Bir futbol turnuvası düzenleme",
+                  "C": "Kumar oynamak için bir yer sağlama",
+                  "D": "Televizyonda bir at yarışını izlemek"
+                },
+                "answer": "C",
+                "explanation": "Providing a place, equipment, or facilities for gambling constitutes a crime."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Türk hukukuna göre, spor bahislerini düzenlemeye kim izin verilir?",
+                "options": {
+                  "A": "Özel spor kulüpleri",
+                  "B": "Kayıtlı herhangi bir işletme",
+                  "C": "Sadece devlet yetkilendirilmiş kurumlar",
+                  "D": "Lisanslı at yarışı organizatörleri"
+                },
+                "answer": "C",
+                "explanation": "Only state-authorized institutions are allowed to organize sports betting."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de bahis konusunda hangi ifade doğrudur?",
+                "options": {
+                  "A": "At yarışlarına yapılan tüm bahis türleri, özel çevrimiçi platformlar da dahil olmak üzere yasaldır.",
+                  "B": "Spor bahisleri, özel şirketlerin özel bir lisans alması durumunda organize edilebilir.",
+                  "C": "At yarışı bahisleri izin verilen bir istisna olsa da, yine de resmi olarak yetkilendirilmiş kanallar aracılığıyla yürütülmelidir.",
+                  "D": "Çevrimiçi kumar, spor etkinlikleriyle ilgili olmadığı sürece yasaldır."
+                },
+                "answer": "C",
+                "explanation": "Horse race betting is an exceptional permitted area, but it is strictly limited to officially authorized channels. Private, underground, or online gambling remains illegal."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de özel kişilerin spor bahislerini organize etmesi yasa dışıdır.",
+                "answer": true,
+                "explanation": "Only state-authorized institutions can organize sports betting."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türkiye'de uluslararası bir web sitesinde düzenlenen çevrimiçi poker oyununa katılmak yasal bir faaliyettir.",
+                "answer": false,
+                "explanation": "Online gambling is explicitly stated as illegal."
+              }
+            ]
+          }
+        },
+        {
+          "text": "在与地位较高的人交谈时或在正式场合嚼口香糖，被视为不礼貌甚至不尊重的行为，应尽量避免。",
+          "source": "Cultural Atlas - Turkish Culture: Religion",
+          "url": "https://culturalatlas.sbs.com.au/turkish-culture/turkish-culture-religion",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Türkiye'de, üst düzey biriyle konuşurken ne kaba ya da saygısız kabul edilir?",
+                "options": {
+                  "A": "Doğrudan göz teması kurmak",
+                  "B": "Sakız çiğnemek",
+                  "C": "Yumuşak bir sesle konuşmak",
+                  "D": "Sorular sormak"
+                },
+                "answer": "B",
+                "explanation": "Chewing gum during conversation with a higher-status person is viewed as impolite or disrespectful."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Aşağıdaki senaryolardan hangisi Türkiye'de sakız çiğneme kuralına dayanarak saygılı davranışın ihlali olarak kabul edilir?",
+                "options": {
+                  "A": "Bir öğrenci kütüphanede yalnız çalışırken sakince sakız çiğniyor.",
+                  "B": "Bir çalışan, meslektaşlarıyla gayri resmi bir ekip beyin fırtınası oturumu sırasında sakız çiğniyor.",
+                  "C": "Bir alt düzey çalışanın, yöneticisiyle bire bir performans değerlendirme toplantısı sırasında sakız çiğnemesi.",
+                  "D": "Bir turist, tarihi bir alanı sessizce gözlemleme sırasında sakız çiğniyor."
+                },
+                "answer": "C",
+                "explanation": "This scenario involves a formal setting (performance review) and a conversation with a person of higher status (the manager), making it the clearest breach of the rule which advises against chewing gum in such contexts."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de sakız çiğnemek, sessizce yapılıyorsa her zaman kabul edilebilir.",
+                "answer": false,
+                "explanation": "Chewing gum is considered impolite or disrespectful when talking to someone of higher status or in formal situations, regardless of how quietly it's done."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Türk kültürel kılavuzunda sakız çiğnemeye yönelik yasak, yalnızca sözlü konuşmalara uygulanır ve konuşmadan sadece resmi bir ortamda bulunma durumlarını kapsamaz.",
+                "answer": false,
+                "explanation": "The rule specifies avoiding chewing gum \"when talking to someone of higher status\" *or* \"in formal occasions.\" The prohibition applies to being in a formal setting itself, not just during active conversation."
+              }
+            ]
+          }
+        },
+        {
+          "text": "在一些传统家庭中，来访时客人可能较少与成年女性家庭成员互动，女性通常负责准备餐食与餐后清洁，而男性则负责与客人社交。",
+          "source": "Cultural Atlas - Turkish Culture: Religion",
+          "url": "https://culturalatlas.sbs.com.au/turkish-culture/turkish-culture-religion",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Bazı geleneksel Türk ailelerinde, misafirler geldiğinde kadın aile üyelerinin yaygın bir rolü nedir?",
+                "options": {
+                  "A": "Misafirlerle sosyal sohbetlere katılmak",
+                  "B": "Yemek hazırlamak ve sonrasında temizlik yapmak",
+                  "C": "İş konularında tartışmaları yönetmek",
+                  "D": "Kapıda misafirleri karşılamak"
+                },
+                "answer": "B",
+                "explanation": "In such families, female members are typically responsible for preparing meals and cleaning up after the meal."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "medium",
+                "question": "Bu metne göre, geleneksel bir Türk ailesinde misafir ağırlanırken görev dağılımı en iyi nasıl özetlenir?",
+                "options": {
+                  "A": "Kadın aile üyeleri yemek hazırlığı ve temizlikle ilgilenirken, erkekler misafirlerle sosyalleşir.",
+                  "B": "Kadın ve erkek aile üyeleri misafirlerle aynı ölçüde sosyalleşir ve yemek hazırlığını paylaşır.",
+                  "C": "Misafirler yemek hazırlığı ve temizlik görevlerini üstlenir, ev sahibi aile yalnızca sohbet eder.",
+                  "D": "Yetişkin kadın aile üyeleri misafirlerle sürekli sohbet ederken erkekler mutfak işlerini yapar."
+                },
+                "answer": "A",
+                "explanation": "The text describes a traditional division of roles: women typically prepare meals and clean up afterward, while men socialize with guests."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türkiye'de geleneksel bir evi ziyaret sırasında, hangi senaryo tanımlanan kültürel normlarla en tutarlı olurdu?",
+                "options": {
+                  "A": "Yetişkin bir kadın sunucu, başka bir kadın misafir mutfakta yardım ederken erkek misafirlerle siyaset hakkında konuşuyor.",
+                  "B": "Yetişkin erkek ev sahibi, kadın aile üyelerinin yemek hazırlığını ayrı bir şekilde yönetirken misafirleri oturma odasında eğlendirir.",
+                  "C": "Cinsiyet fark etmeksizin tüm aile üyeleri bir araya gelerek misafirlerle eşit şekilde yemek yer ve sohbet eder.",
+                  "D": "Misafirlerin yemekten sonra temizlikte yardım etmesi beklenirken ev sahipleri dinlenir."
+                },
+                "answer": "B",
+                "explanation": "The text indicates a gendered division where men socialize with guests, while women handle meal-related duties, suggesting these activities often occur in separate spaces."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Bazı geleneksel Türk ailelerinde, erkek üyelerin ziyaretçi misafirlerle sosyalleşme rolünü üstlenmesi yaygındır.",
+                "answer": true,
+                "explanation": "The text explicitly states that male family members are responsible for social interaction with guests."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Geleneksel Türk ailelerinde anlatılan göreneğe göre, kadın üyeler misafirle ilgili hiçbir etkinliğe katılmaz ve ziyaretler sırasında tamamen ayrı kalır.",
+                "answer": false,
+                "explanation": "The text states female members are involved in guest-related activities, specifically preparing meals and cleaning up afterwards. They are not described as completely separate."
+              }
+            ]
+          }
+        },
+        {
+          "text": "在土耳其家庭做客时，若过度称赞某件物品，主人有时会觉得有义务将其作为礼物赠送给客人，因此在表达赞美时需要适度。",
+          "source": "Cultural Atlas - Turkish Culture: Religion",
+          "url": "https://culturalatlas.sbs.com.au/turkish-culture/turkish-culture-religion",
+          "qa": {
+            "qas": [
+              {
+                "type": "mcq",
+                "difficulty": "easy",
+                "question": "Bir Türk evini ziyaret ederken bir eşyayı övmek konusunda neye dikkat etmelisiniz?",
+                "options": {
+                  "A": "Bunu çok yüksek sesle övmek",
+                  "B": "Çok sık övmek",
+                  "C": "Aşırı derecede övmek",
+                  "D": "Yabancı bir dilde övmek"
+                },
+                "answer": "C",
+                "explanation": "Excessive praise for an item might make the host feel obligated to give it as a gift."
+              },
+              {
+                "type": "mcq",
+                "difficulty": "hard",
+                "question": "Türk evlerindeki iltifatlarla ilgili olarak, hangi ifade en doğrudur?",
+                "options": {},
+                "answer": "B",
+                "explanation": "The custom highlights the risk of excessive praise, implying that moderate compliments are acceptable but overdoing it can pressure the host."
+              },
+              {
+                "type": "tf",
+                "difficulty": "easy",
+                "question": "Türkiye'de, bir ev sahibinin evinde bir şeyi fazla övüyorsanız, size vermek zorunda hissedebilirler.",
+                "answer": true,
+                "explanation": "Excessive admiration can make the host feel obligated to offer the item as a gift."
+              },
+              {
+                "type": "tf",
+                "difficulty": "hard",
+                "question": "Evdeki eşyaları övmekle ilgili Türk geleneği, yanlış anlaşılmayı önlemek için ne kadar küçük olursa olsun herhangi bir iltifattan kaçınılması gerektiği anlamına gelir.",
+                "answer": false,
+                "explanation": "The text advises moderation (\"适度\"), not complete avoidance. It warns against *excessive* praise, not all praise."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

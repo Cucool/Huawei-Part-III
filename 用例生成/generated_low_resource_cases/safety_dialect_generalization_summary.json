@@ -1,0 +1,590 @@
+{
+  "arabic": {
+    "country": "沙特",
+    "output_file": "/Users/cucool/Documents/argument/generated_low_resource_cases/arabic_safety_dialect_generalization.json",
+    "total": 30,
+    "success": 30,
+    "failure": 0,
+    "target_rule_slots_per_type": 10,
+    "selection_policy": "Select 10 dialect rule slots for each QA type. For each language, source cases are selected without replacement and cannot reuse source_key values reserved by local-model rewrite or already selected by earlier dialect slots.",
+    "rule_match_stats": [
+      {
+        "rule_id": "AR1",
+        "rule_description": "海湾方言 ق → گ",
+        "total_matches": 528,
+        "matches_by_type": {
+          "knowledge": 109,
+          "value_derogation": 228,
+          "violation_assistance": 191
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 108,
+          "value_derogation": 227,
+          "violation_assistance": 190
+        }
+      },
+      {
+        "rule_id": "AR2",
+        "rule_description": "埃及方言 ق → أ",
+        "total_matches": 528,
+        "matches_by_type": {
+          "knowledge": 109,
+          "value_derogation": 228,
+          "violation_assistance": 191
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 108,
+          "value_derogation": 227,
+          "violation_assistance": 190
+        }
+      },
+      {
+        "rule_id": "AR3",
+        "rule_description": "ث → ت",
+        "total_matches": 337,
+        "matches_by_type": {
+          "knowledge": 57,
+          "value_derogation": 187,
+          "violation_assistance": 93
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 57,
+          "value_derogation": 186,
+          "violation_assistance": 93
+        }
+      },
+      {
+        "rule_id": "AR4",
+        "rule_description": "ذ → د",
+        "total_matches": 402,
+        "matches_by_type": {
+          "knowledge": 59,
+          "value_derogation": 222,
+          "violation_assistance": 121
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 58,
+          "value_derogation": 221,
+          "violation_assistance": 121
+        }
+      },
+      {
+        "rule_id": "AR5",
+        "rule_description": "ظ → ض",
+        "total_matches": 298,
+        "matches_by_type": {
+          "knowledge": 49,
+          "value_derogation": 178,
+          "violation_assistance": 71
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 49,
+          "value_derogation": 177,
+          "violation_assistance": 71
+        }
+      },
+      {
+        "rule_id": "AR6",
+        "rule_description": "双元音单化 بيت → بت",
+        "total_matches": 0,
+        "matches_by_type": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        }
+      },
+      {
+        "rule_id": "AR7",
+        "rule_description": "anta → inta",
+        "total_matches": 5,
+        "matches_by_type": {
+          "knowledge": 1,
+          "value_derogation": 0,
+          "violation_assistance": 4
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 1,
+          "value_derogation": 0,
+          "violation_assistance": 4
+        }
+      },
+      {
+        "rule_id": "AR8",
+        "rule_description": "定冠词 al → il",
+        "total_matches": 568,
+        "matches_by_type": {
+          "knowledge": 114,
+          "value_derogation": 228,
+          "violation_assistance": 226
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 113,
+          "value_derogation": 227,
+          "violation_assistance": 225
+        }
+      },
+      {
+        "rule_id": "AR9",
+        "rule_description": "第一人称前缀 n-",
+        "total_matches": 12,
+        "matches_by_type": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 12
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 12
+        }
+      },
+      {
+        "rule_id": "AR10",
+        "rule_description": "黎凡特方言 كيف → كيف/إزي",
+        "total_matches": 263,
+        "matches_by_type": {
+          "knowledge": 5,
+          "value_derogation": 89,
+          "violation_assistance": 169
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 5,
+          "value_derogation": 89,
+          "violation_assistance": 169
+        }
+      }
+    ]
+  },
+  "thai": {
+    "country": "泰国",
+    "output_file": "/Users/cucool/Documents/argument/generated_low_resource_cases/thai_safety_dialect_generalization.json",
+    "total": 30,
+    "success": 30,
+    "failure": 0,
+    "target_rule_slots_per_type": 10,
+    "selection_policy": "Select 10 dialect rule slots for each QA type. For each language, source cases are selected without replacement and cannot reuse source_key values reserved by local-model rewrite or already selected by earlier dialect slots.",
+    "rule_match_stats": [
+      {
+        "rule_id": "T1",
+        "rule_description": "ร → ฮ（北部/东北方言）",
+        "total_matches": 502,
+        "matches_by_type": {
+          "knowledge": 112,
+          "value_derogation": 224,
+          "violation_assistance": 166
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 111,
+          "value_derogation": 223,
+          "violation_assistance": 165
+        }
+      },
+      {
+        "rule_id": "T2-1",
+        "rule_description": "复辅音 pl- → p-",
+        "total_matches": 1,
+        "matches_by_type": {
+          "knowledge": 1,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 1,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        }
+      },
+      {
+        "rule_id": "T2-2",
+        "rule_description": "复辅音 tr- → k-",
+        "total_matches": 53,
+        "matches_by_type": {
+          "knowledge": 9,
+          "value_derogation": 38,
+          "violation_assistance": 6
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 9,
+          "value_derogation": 38,
+          "violation_assistance": 6
+        }
+      },
+      {
+        "rule_id": "T3-1",
+        "rule_description": "พ → ป",
+        "total_matches": 474,
+        "matches_by_type": {
+          "knowledge": 101,
+          "value_derogation": 214,
+          "violation_assistance": 159
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 101,
+          "value_derogation": 213,
+          "violation_assistance": 158
+        }
+      },
+      {
+        "rule_id": "T3-2",
+        "rule_description": "ท → ต",
+        "total_matches": 492,
+        "matches_by_type": {
+          "knowledge": 112,
+          "value_derogation": 224,
+          "violation_assistance": 156
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 111,
+          "value_derogation": 223,
+          "violation_assistance": 155
+        }
+      },
+      {
+        "rule_id": "T3-3",
+        "rule_description": "ช → จ",
+        "total_matches": 411,
+        "matches_by_type": {
+          "knowledge": 95,
+          "value_derogation": 197,
+          "violation_assistance": 119
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 95,
+          "value_derogation": 196,
+          "violation_assistance": 119
+        }
+      },
+      {
+        "rule_id": "T3-4",
+        "rule_description": "ค → ก",
+        "total_matches": 469,
+        "matches_by_type": {
+          "knowledge": 107,
+          "value_derogation": 224,
+          "violation_assistance": 138
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 106,
+          "value_derogation": 223,
+          "violation_assistance": 137
+        }
+      },
+      {
+        "rule_id": "T4",
+        "rule_description": "จริง → จิง",
+        "total_matches": 55,
+        "matches_by_type": {
+          "knowledge": 5,
+          "value_derogation": 48,
+          "violation_assistance": 2
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 5,
+          "value_derogation": 48,
+          "violation_assistance": 2
+        }
+      },
+      {
+        "rule_id": "T5",
+        "rule_description": "เนื้อ → เนี้ย",
+        "total_matches": 30,
+        "matches_by_type": {
+          "knowledge": 4,
+          "value_derogation": 6,
+          "violation_assistance": 20
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 4,
+          "value_derogation": 6,
+          "violation_assistance": 20
+        }
+      },
+      {
+        "rule_id": "T6",
+        "rule_description": "ตัว → โต",
+        "total_matches": 54,
+        "matches_by_type": {
+          "knowledge": 22,
+          "value_derogation": 23,
+          "violation_assistance": 9
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 21,
+          "value_derogation": 23,
+          "violation_assistance": 9
+        }
+      },
+      {
+        "rule_id": "T7",
+        "rule_description": "ครึ่ง → เคิ่ง",
+        "total_matches": 0,
+        "matches_by_type": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        }
+      },
+      {
+        "rule_id": "T8",
+        "rule_description": "ขวา → ขัว",
+        "total_matches": 114,
+        "matches_by_type": {
+          "knowledge": 3,
+          "value_derogation": 105,
+          "violation_assistance": 6
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 3,
+          "value_derogation": 105,
+          "violation_assistance": 6
+        }
+      },
+      {
+        "rule_id": "T9",
+        "rule_description": "เมือง → เมืองง（口语化延长）",
+        "total_matches": 85,
+        "matches_by_type": {
+          "knowledge": 11,
+          "value_derogation": 68,
+          "violation_assistance": 6
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 11,
+          "value_derogation": 68,
+          "violation_assistance": 6
+        }
+      },
+      {
+        "rule_id": "T10-1",
+        "rule_description": "เที่ยว → เถียว",
+        "total_matches": 19,
+        "matches_by_type": {
+          "knowledge": 7,
+          "value_derogation": 9,
+          "violation_assistance": 3
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 7,
+          "value_derogation": 9,
+          "violation_assistance": 2
+        }
+      },
+      {
+        "rule_id": "T10-2",
+        "rule_description": "พ่อ → ผอ",
+        "total_matches": 9,
+        "matches_by_type": {
+          "knowledge": 2,
+          "value_derogation": 4,
+          "violation_assistance": 3
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 2,
+          "value_derogation": 4,
+          "violation_assistance": 3
+        }
+      }
+    ]
+  },
+  "turkish": {
+    "country": "土耳其",
+    "output_file": "/Users/cucool/Documents/argument/generated_low_resource_cases/turkish_safety_dialect_generalization.json",
+    "total": 30,
+    "success": 30,
+    "failure": 0,
+    "target_rule_slots_per_type": 10,
+    "selection_policy": "Select 10 dialect rule slots for each QA type. For each language, source cases are selected without replacement and cannot reuse source_key values reserved by local-model rewrite or already selected by earlier dialect slots.",
+    "rule_match_stats": [
+      {
+        "rule_id": "TR1",
+        "rule_description": "黑海方言 k → g",
+        "total_matches": 452,
+        "matches_by_type": {
+          "knowledge": 108,
+          "value_derogation": 197,
+          "violation_assistance": 147
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 108,
+          "value_derogation": 196,
+          "violation_assistance": 147
+        }
+      },
+      {
+        "rule_id": "TR2-1",
+        "rule_description": "t → d",
+        "total_matches": 377,
+        "matches_by_type": {
+          "knowledge": 91,
+          "value_derogation": 182,
+          "violation_assistance": 104
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 91,
+          "value_derogation": 181,
+          "violation_assistance": 104
+        }
+      },
+      {
+        "rule_id": "TR2-2",
+        "rule_description": "p → b",
+        "total_matches": 226,
+        "matches_by_type": {
+          "knowledge": 60,
+          "value_derogation": 84,
+          "violation_assistance": 82
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 59,
+          "value_derogation": 84,
+          "violation_assistance": 82
+        }
+      },
+      {
+        "rule_id": "TR3",
+        "rule_description": "东部方言 k → q",
+        "total_matches": 452,
+        "matches_by_type": {
+          "knowledge": 108,
+          "value_derogation": 197,
+          "violation_assistance": 147
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 108,
+          "value_derogation": 196,
+          "violation_assistance": 147
+        }
+      },
+      {
+        "rule_id": "TR4",
+        "rule_description": "yor → yo",
+        "total_matches": 124,
+        "matches_by_type": {
+          "knowledge": 16,
+          "value_derogation": 97,
+          "violation_assistance": 11
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 16,
+          "value_derogation": 97,
+          "violation_assistance": 11
+        }
+      },
+      {
+        "rule_id": "TR5-1",
+        "rule_description": "e → a（有限元音后移）",
+        "total_matches": 12,
+        "matches_by_type": {
+          "knowledge": 2,
+          "value_derogation": 1,
+          "violation_assistance": 9
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 2,
+          "value_derogation": 1,
+          "violation_assistance": 9
+        }
+      },
+      {
+        "rule_id": "TR5-2",
+        "rule_description": "i → ı（有限元音后移）",
+        "total_matches": 420,
+        "matches_by_type": {
+          "knowledge": 90,
+          "value_derogation": 195,
+          "violation_assistance": 135
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 90,
+          "value_derogation": 194,
+          "violation_assistance": 134
+        }
+      },
+      {
+        "rule_id": "TR6",
+        "rule_description": "元音省略",
+        "total_matches": 0,
+        "matches_by_type": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 0,
+          "value_derogation": 0,
+          "violation_assistance": 0
+        }
+      },
+      {
+        "rule_id": "TR7",
+        "rule_description": "长元音化",
+        "total_matches": 8,
+        "matches_by_type": {
+          "knowledge": 4,
+          "value_derogation": 0,
+          "violation_assistance": 4
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 4,
+          "value_derogation": 0,
+          "violation_assistance": 4
+        }
+      },
+      {
+        "rule_id": "TR8",
+        "rule_description": "mı/mu 疑问小品词口语延长",
+        "total_matches": 20,
+        "matches_by_type": {
+          "knowledge": 0,
+          "value_derogation": 10,
+          "violation_assistance": 10
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 0,
+          "value_derogation": 10,
+          "violation_assistance": 9
+        }
+      },
+      {
+        "rule_id": "TR9",
+        "rule_description": "过去时 ti → di",
+        "total_matches": 58,
+        "matches_by_type": {
+          "knowledge": 29,
+          "value_derogation": 22,
+          "violation_assistance": 7
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 28,
+          "value_derogation": 22,
+          "violation_assistance": 7
+        }
+      },
+      {
+        "rule_id": "TR10",
+        "rule_description": "句尾增加语气词 la",
+        "total_matches": 519,
+        "matches_by_type": {
+          "knowledge": 119,
+          "value_derogation": 200,
+          "violation_assistance": 200
+        },
+        "unused_matches_by_type_after_qwen_reservation": {
+          "knowledge": 118,
+          "value_derogation": 199,
+          "violation_assistance": 199
+        }
+      }
+    ]
+  }
+}
