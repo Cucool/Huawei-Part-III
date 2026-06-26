@@ -1,0 +1,558 @@
+{
+  "generated_at": "2026-06-24T16:24:00.735727+00:00",
+  "output_dir": "用例生成/generated_low_resource_cases/full_seed_generalization_eval",
+  "filter_rate": 0.15,
+  "overlap_metric": "Unicode NFKC + lowercase + whitespace collapse, then character-frequency Sørensen-Dice overlap: 2*sum(min(countA,countB))/(len(A)+len(B)).",
+  "rewrite_model": "qwen2.5:7b",
+  "target_model": "qwen2.5:7b",
+  "target_temperature": 0.0,
+  "files": {
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/dialect/content_safety_dialect.all.json": {
+      "total": 1956,
+      "by_country": {
+        "土耳其": 600,
+        "沙特": 684,
+        "泰国": 672
+      },
+      "by_language": {
+        "arabic": 684,
+        "thai": 672,
+        "turkish": 600
+      },
+      "by_task_type": {
+        "价值贬损": 652,
+        "知识问答": 652,
+        "违规协助": 652
+      },
+      "by_status": {
+        "success": 1956
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/dialect/content_safety_dialect_kept.json": {
+      "total": 1662,
+      "by_country": {
+        "土耳其": 367,
+        "沙特": 624,
+        "泰国": 671
+      },
+      "by_language": {
+        "arabic": 624,
+        "thai": 671,
+        "turkish": 367
+      },
+      "by_task_type": {
+        "价值贬损": 590,
+        "知识问答": 550,
+        "违规协助": 522
+      },
+      "by_status": {
+        "success": 1662
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/dialect/content_safety_dialect_removed.json": {
+      "total": 294,
+      "by_country": {
+        "土耳其": 233,
+        "沙特": 60,
+        "泰国": 1
+      },
+      "by_language": {
+        "arabic": 60,
+        "thai": 1,
+        "turkish": 233
+      },
+      "by_task_type": {
+        "价值贬损": 62,
+        "知识问答": 102,
+        "违规协助": 130
+      },
+      "by_status": {
+        "success": 294
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/dialect/privacy_dialect.all.json": {
+      "total": 2270,
+      "by_country": {
+        "土耳其": 760,
+        "沙特": 760,
+        "泰国": 750
+      },
+      "by_language": {
+        "arabic": 760,
+        "thai": 750,
+        "turkish": 760
+      },
+      "by_task_type": {
+        "隐私": 2270
+      },
+      "by_status": {
+        "success": 2270
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/dialect/privacy_dialect_kept.json": {
+      "total": 1929,
+      "by_country": {
+        "土耳其": 565,
+        "沙特": 624,
+        "泰国": 740
+      },
+      "by_language": {
+        "arabic": 624,
+        "thai": 740,
+        "turkish": 565
+      },
+      "by_task_type": {
+        "隐私": 1929
+      },
+      "by_status": {
+        "success": 1929
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/dialect/privacy_dialect_removed.json": {
+      "total": 341,
+      "by_country": {
+        "土耳其": 195,
+        "沙特": 136,
+        "泰国": 10
+      },
+      "by_language": {
+        "arabic": 136,
+        "thai": 10,
+        "turkish": 195
+      },
+      "by_task_type": {
+        "隐私": 341
+      },
+      "by_status": {
+        "success": 341
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/qwen_rewrite/content_safety_qwen_rewrite.all.json": {
+      "total": 1956,
+      "by_country": {
+        "土耳其": 600,
+        "沙特": 684,
+        "泰国": 672
+      },
+      "by_language": {
+        "arabic": 684,
+        "thai": 672,
+        "turkish": 600
+      },
+      "by_task_type": {
+        "价值贬损": 652,
+        "知识问答": 652,
+        "违规协助": 652
+      },
+      "by_status": {
+        "fallback_original": 5,
+        "success": 1951
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/qwen_rewrite/content_safety_qwen_rewrite_kept.json": {
+      "total": 1662,
+      "by_country": {
+        "土耳其": 600,
+        "沙特": 390,
+        "泰国": 672
+      },
+      "by_language": {
+        "arabic": 390,
+        "thai": 672,
+        "turkish": 600
+      },
+      "by_task_type": {
+        "价值贬损": 546,
+        "知识问答": 521,
+        "违规协助": 595
+      },
+      "by_status": {
+        "success": 1662
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/qwen_rewrite/content_safety_qwen_rewrite_removed.json": {
+      "total": 294,
+      "by_country": {
+        "沙特": 294
+      },
+      "by_language": {
+        "arabic": 294
+      },
+      "by_task_type": {
+        "价值贬损": 106,
+        "知识问答": 131,
+        "违规协助": 57
+      },
+      "by_status": {
+        "fallback_original": 5,
+        "success": 289
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/qwen_rewrite/privacy_qwen_rewrite.all.json": {
+      "total": 2270,
+      "by_country": {
+        "土耳其": 760,
+        "沙特": 760,
+        "泰国": 750
+      },
+      "by_language": {
+        "arabic": 760,
+        "thai": 750,
+        "turkish": 760
+      },
+      "by_task_type": {
+        "隐私": 2270
+      },
+      "by_status": {
+        "success": 2270
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/qwen_rewrite/privacy_qwen_rewrite_kept.json": {
+      "total": 1929,
+      "by_country": {
+        "土耳其": 760,
+        "沙特": 632,
+        "泰国": 537
+      },
+      "by_language": {
+        "arabic": 632,
+        "thai": 537,
+        "turkish": 760
+      },
+      "by_task_type": {
+        "隐私": 1929
+      },
+      "by_status": {
+        "success": 1929
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/filtered/qwen_rewrite/privacy_qwen_rewrite_removed.json": {
+      "total": 341,
+      "by_country": {
+        "沙特": 128,
+        "泰国": 213
+      },
+      "by_language": {
+        "arabic": 128,
+        "thai": 213
+      },
+      "by_task_type": {
+        "隐私": 341
+      },
+      "by_status": {
+        "success": 341
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/generalizations/dialect/content_safety_dialect.json": {
+      "total": 1956,
+      "by_country": {
+        "土耳其": 600,
+        "沙特": 684,
+        "泰国": 672
+      },
+      "by_language": {
+        "arabic": 684,
+        "thai": 672,
+        "turkish": 600
+      },
+      "by_task_type": {
+        "价值贬损": 652,
+        "知识问答": 652,
+        "违规协助": 652
+      },
+      "by_status": {
+        "success": 1956
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/generalizations/dialect/privacy_dialect.json": {
+      "total": 2270,
+      "by_country": {
+        "土耳其": 760,
+        "沙特": 760,
+        "泰国": 750
+      },
+      "by_language": {
+        "arabic": 760,
+        "thai": 750,
+        "turkish": 760
+      },
+      "by_task_type": {
+        "隐私": 2270
+      },
+      "by_status": {
+        "success": 2270
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/generalizations/qwen_rewrite/content_safety_qwen_rewrite.json": {
+      "total": 1956,
+      "by_country": {
+        "土耳其": 600,
+        "沙特": 684,
+        "泰国": 672
+      },
+      "by_language": {
+        "arabic": 684,
+        "thai": 672,
+        "turkish": 600
+      },
+      "by_task_type": {
+        "价值贬损": 652,
+        "知识问答": 652,
+        "违规协助": 652
+      },
+      "by_status": {
+        "fallback_original": 5,
+        "success": 1951
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/generalizations/qwen_rewrite/privacy_qwen_rewrite.json": {
+      "total": 2270,
+      "by_country": {
+        "土耳其": 760,
+        "沙特": 760,
+        "泰国": 750
+      },
+      "by_language": {
+        "arabic": 760,
+        "thai": 750,
+        "turkish": 760
+      },
+      "by_task_type": {
+        "隐私": 2270
+      },
+      "by_status": {
+        "success": 2270
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/seeds/content_safety_seed_cases.json": {
+      "total": 1956,
+      "by_country": {
+        "土耳其": 600,
+        "沙特": 684,
+        "泰国": 672
+      },
+      "by_language": {
+        "arabic": 684,
+        "thai": 672,
+        "turkish": 600
+      },
+      "by_task_type": {
+        "价值贬损": 652,
+        "知识问答": 652,
+        "违规协助": 652
+      },
+      "by_status": {
+        "<missing>": 1956
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/seeds/privacy_seed_cases.json": {
+      "total": 2270,
+      "by_country": {
+        "土耳其": 760,
+        "沙特": 760,
+        "泰国": 750
+      },
+      "by_language": {
+        "arabic": 760,
+        "thai": 750,
+        "turkish": 760
+      },
+      "by_task_type": {
+        "隐私": 2270
+      },
+      "by_status": {
+        "<missing>": 2270
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/seeds/summary.json": {
+      "type": "dict"
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/summary.json": {
+      "type": "dict"
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/target_eval/evaluation_summary.json": {
+      "generated_at": "2026-06-24T16:23:45.024802+00:00",
+      "target_model": "qwen2.5:7b",
+      "target_temperature": 0.0,
+      "target_max_tokens": 128,
+      "overlap_metric": "Unicode NFKC + lowercase + whitespace collapse, then character-frequency Sørensen-Dice overlap: 2*sum(min(countA,countB))/(len(A)+len(B)).",
+      "groups": {
+        "dialect/content_safety": {
+          "total": 1662,
+          "success": 1662,
+          "failure": 0,
+          "avg_sigma": 1.0,
+          "avg_x": 0.77831011841947,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false,
+          "by_country": {
+            "沙特": {
+              "count": 624,
+              "avg_sigma": 1.0,
+              "avg_x": 0.7713590684183904,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "泰国": {
+              "count": 671,
+              "avg_sigma": 1.0,
+              "avg_x": 0.7725809093799776,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "土耳其": {
+              "count": 367,
+              "avg_sigma": 1.0,
+              "avg_x": 0.8006037273191304,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            }
+          }
+        },
+        "dialect/privacy": {
+          "total": 1929,
+          "success": 1929,
+          "failure": 0,
+          "avg_sigma": 1.0,
+          "avg_x": 0.9335283763315568,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false,
+          "by_country": {
+            "沙特": {
+              "count": 624,
+              "avg_sigma": 1.0,
+              "avg_x": 0.9366073497656194,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "泰国": {
+              "count": 740,
+              "avg_sigma": 1.0,
+              "avg_x": 0.9158519835919915,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "土耳其": {
+              "count": 565,
+              "avg_sigma": 1.0,
+              "avg_x": 0.9532792634190221,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            }
+          }
+        },
+        "qwen_rewrite/content_safety": {
+          "total": 1662,
+          "success": 1662,
+          "failure": 0,
+          "avg_sigma": 1.0,
+          "avg_x": 0.4939200890797225,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false,
+          "by_country": {
+            "沙特": {
+              "count": 390,
+              "avg_sigma": 1.0,
+              "avg_x": 0.40756743154682207,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "泰国": {
+              "count": 672,
+              "avg_sigma": 1.0,
+              "avg_x": 0.45032300825999544,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "土耳其": {
+              "count": 600,
+              "avg_sigma": 1.0,
+              "avg_x": 0.5988780469941998,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            }
+          }
+        },
+        "qwen_rewrite/privacy": {
+          "total": 1929,
+          "success": 1929,
+          "failure": 0,
+          "avg_sigma": 1.0,
+          "avg_x": 0.5020501158979933,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false,
+          "by_country": {
+            "沙特": {
+              "count": 632,
+              "avg_sigma": 1.0,
+              "avg_x": 0.4624298475141257,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "泰国": {
+              "count": 537,
+              "avg_sigma": 1.0,
+              "avg_x": 0.4108801153997305,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            },
+            "土耳其": {
+              "count": 760,
+              "avg_sigma": 1.0,
+              "avg_x": 0.5994162999587438,
+              "three_sigma": 3.0,
+              "avg_x_greater_than_3sigma": false
+            }
+          }
+        }
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/target_eval/pair_metrics.json": {
+      "total": 7182,
+      "by_country": {
+        "土耳其": 2292,
+        "沙特": 2270,
+        "泰国": 2620
+      },
+      "by_language": {
+        "arabic": 2270,
+        "thai": 2620,
+        "turkish": 2292
+      },
+      "by_task_type": {
+        "价值贬损": 1136,
+        "知识问答": 1071,
+        "违规协助": 1117,
+        "隐私": 3858
+      },
+      "by_status": {
+        "success": 7182
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/target_eval/pair_metrics.partial.json": {
+      "total": 7182,
+      "by_country": {
+        "土耳其": 2292,
+        "沙特": 2270,
+        "泰国": 2620
+      },
+      "by_language": {
+        "arabic": 2270,
+        "thai": 2620,
+        "turkish": 2292
+      },
+      "by_task_type": {
+        "价值贬损": 1136,
+        "知识问答": 1071,
+        "违规协助": 1117,
+        "隐私": 3858
+      },
+      "by_status": {
+        "success": 7182
+      }
+    },
+    "用例生成/generated_low_resource_cases/full_seed_generalization_eval/target_eval/partial_evaluation_summary.json": {
+      "type": "dict"
+    }
+  }
+}

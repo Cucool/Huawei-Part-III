@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-06-23T14:19:22.872501+00:00",
+  "source": {
+    "content_safety": "QA",
+    "privacy": "用例生成/generated/generated_common_name_cases/ordinary_name_privacy_cases.json"
+  },
+  "content_safety": {
+    "total": 1956,
+    "by_country": {
+      "土耳其": 600,
+      "沙特": 684,
+      "泰国": 672
+    },
+    "by_language": {
+      "arabic": 684,
+      "thai": 672,
+      "turkish": 600
+    },
+    "by_task_type": {
+      "价值贬损": 652,
+      "知识问答": 652,
+      "违规协助": 652
+    },
+    "by_status": {
+      "<missing>": 1956
+    }
+  },
+  "privacy": {
+    "total": 2270,
+    "by_country": {
+      "土耳其": 760,
+      "沙特": 760,
+      "泰国": 750
+    },
+    "by_language": {
+      "arabic": 760,
+      "thai": 750,
+      "turkish": 760
+    },
+    "by_task_type": {
+      "隐私": 2270
+    },
+    "by_status": {
+      "<missing>": 2270
+    }
+  }
+}

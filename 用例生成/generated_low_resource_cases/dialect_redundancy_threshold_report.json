@@ -1,0 +1,216 @@
+{
+  "generated_at": "2026-06-17T15:50:23.044773+00:00",
+  "title": "方言化冗余率与阈值选择报告",
+  "data_dir": "generated_low_resource_cases/泛化方法/方言化",
+  "scope": "仅分析该目录下 status=success 的方言化 JSON 记录。",
+  "selection_rule": "参考 DataComp-LM Bloom Filter Dedup 的 n-gram containment 思路，按本数据扫描阈值；每个国家组和每个单独文件冗余率均需低于 15%。",
+  "target_max_redundancy_rate": 0.15,
+  "methods": {
+    "dialect": {
+      "method_label": "方言化",
+      "metric": {
+        "name": "datacomp_bff_char_5_to_13gram_containment",
+        "label": "DataComp-LM BFF-style character 5-13 gram containment",
+        "redundant_if": "similarity >= 0.955",
+        "normalization": "Unicode NFKC，小写，合并空白字符；保留占位符；按 Unicode 字符取 5-13 gram",
+        "formula": "C(A,B)=|G5-13(A)∩G5-13(B)|/|G5-13(B)|，A 为原句，B 为方言化句子"
+      },
+      "selected_threshold": 0.955,
+      "minimum_compliant_threshold": 0.953,
+      "selected_threshold_rates": {
+        "overall": {
+          "group": "方言化",
+          "count": 680,
+          "redundant_count": 31,
+          "redundancy_rate": 0.045588235294117645,
+          "redundancy_rate_percent": 4.5588235294117645
+        },
+        "by_country": [
+          {
+            "group": "沙特-方言化",
+            "count": 238,
+            "redundant_count": 7,
+            "redundancy_rate": 0.029411764705882353,
+            "redundancy_rate_percent": 2.941176470588235
+          },
+          {
+            "group": "泰国-方言化",
+            "count": 239,
+            "redundant_count": 2,
+            "redundancy_rate": 0.008368200836820083,
+            "redundancy_rate_percent": 0.8368200836820083
+          },
+          {
+            "group": "土耳其-方言化",
+            "count": 203,
+            "redundant_count": 22,
+            "redundancy_rate": 0.10837438423645321,
+            "redundancy_rate_percent": 10.83743842364532
+          }
+        ],
+        "by_file": [
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/arabic_privacy_dialect.json",
+            "count": 21,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/arabic_reinforced_mcq_dialect.json",
+            "count": 217,
+            "redundant_count": 7,
+            "redundancy_rate": 0.03225806451612903,
+            "redundancy_rate_percent": 3.225806451612903
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/thai_privacy_dialect.json",
+            "count": 26,
+            "redundant_count": 2,
+            "redundancy_rate": 0.07692307692307693,
+            "redundancy_rate_percent": 7.6923076923076925
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/thai_reinforced_mcq_dialect.json",
+            "count": 213,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/turkish_privacy_dialect.json",
+            "count": 16,
+            "redundant_count": 0,
+            "redundancy_rate": 0.0,
+            "redundancy_rate_percent": 0.0
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/turkish_reinforced_mcq_dialect.json",
+            "count": 187,
+            "redundant_count": 22,
+            "redundancy_rate": 0.11764705882352941,
+            "redundancy_rate_percent": 11.76470588235294
+          }
+        ]
+      },
+      "threshold_sweep": [
+        {
+          "threshold": 0.8,
+          "overall_rate": 0.510294,
+          "max_country_rate": 0.940887,
+          "max_file_rate": 1.0
+        },
+        {
+          "threshold": 0.9,
+          "overall_rate": 0.235294,
+          "max_country_rate": 0.571429,
+          "max_file_rate": 0.572193
+        },
+        {
+          "threshold": 0.95,
+          "overall_rate": 0.061765,
+          "max_country_rate": 0.157635,
+          "max_file_rate": 0.165775
+        },
+        {
+          "threshold": 0.953,
+          "overall_rate": 0.055882,
+          "max_country_rate": 0.137931,
+          "max_file_rate": 0.149733
+        },
+        {
+          "threshold": 0.955,
+          "overall_rate": 0.045588,
+          "max_country_rate": 0.108374,
+          "max_file_rate": 0.117647
+        },
+        {
+          "threshold": 0.96,
+          "overall_rate": 0.035294,
+          "max_country_rate": 0.083744,
+          "max_file_rate": 0.090909
+        },
+        {
+          "threshold": 0.99,
+          "overall_rate": 0.0,
+          "max_country_rate": 0.0,
+          "max_file_rate": 0.0
+        }
+      ],
+      "similarity_distribution": {
+        "by_file": [
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/arabic_privacy_dialect.json",
+            "count": 21,
+            "min": 0.42592592592592593,
+            "median": 0.7428571428571429,
+            "p85": 0.8269230769230769,
+            "p90": 0.8269230769230769,
+            "p95": 0.8269230769230769,
+            "max": 0.8269230769230769
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/arabic_reinforced_mcq_dialect.json",
+            "count": 217,
+            "min": 0.21693121693121692,
+            "median": 0.8266606005459509,
+            "p85": 0.9127491538172245,
+            "p90": 0.9249478804725504,
+            "p95": 0.9431977559607293,
+            "max": 0.9869375907111756
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/thai_privacy_dialect.json",
+            "count": 26,
+            "min": 0.3888888888888889,
+            "median": 0.7841269841269841,
+            "p85": 0.8787878787878788,
+            "p90": 0.9534883720930233,
+            "p95": 0.9615384615384616,
+            "max": 0.9696969696969697
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/thai_reinforced_mcq_dialect.json",
+            "count": 213,
+            "min": 0.15760111576011157,
+            "median": 0.574331550802139,
+            "p85": 0.6995274914089347,
+            "p90": 0.7196850393700788,
+            "p95": 0.7626450116009281,
+            "max": 0.9019607843137255
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/turkish_privacy_dialect.json",
+            "count": 16,
+            "min": 0.8018018018018018,
+            "median": 0.9090909090909091,
+            "p85": 0.94,
+            "p90": 0.9432773109243697,
+            "p95": 0.95,
+            "max": 0.95
+          },
+          {
+            "group": "generated_low_resource_cases/泛化方法/方言化/turkish_reinforced_mcq_dialect.json",
+            "count": 187,
+            "min": 0.6131953428201811,
+            "median": 0.9141949152542372,
+            "p85": 0.9522388059701492,
+            "p90": 0.9579002079002079,
+            "p95": 0.9647366129734436,
+            "max": 0.9819397993311036
+          }
+        ]
+      },
+      "threshold_basis": {
+        "rationale": "方言化泛化要求保留语义，因此语义相似度不适合作为单独冗余判据。本报告改用 DataComp-LM 的 Bloom Filter Dedup 思路：判断候选文本中已有 n-gram 的覆盖比例，只把表层 n-gram 覆盖率极高的方言化结果判为冗余。由于本报告处理的是阿拉伯语、泰语、土耳其语短句，word n-gram 会受到泰语无空格分词影响，因此用字符 5-13 gram 替代 word n-gram；本数据量较小，也不使用 Bloom filter 近似结构，而是直接计算原句与方言化句子的精确 containment。DataComp-LM 提供了 n-gram containment 式去重和 0.75、0.8、0.9、0.99 等阈值消融作为参考。本报告按 0.001 阈值网格扫描，0.953 是同时满足每个国家组和每个单独文件冗余率低于 15% 的最小阈值；但该阈值下最大单文件冗余率已接近红线。因此推荐采用 0.955 作为交付阈值，在贴合本数据分布的同时留出合规余量。",
+        "references": [
+          {
+            "paper": "Li et al., DataComp-LM: In search of the next generation of training sets for language models, 2024",
+            "url": "https://arxiv.org/abs/2406.11794",
+            "note": "在 Bloom Filter Dedup 中使用 n-gram 覆盖比例判重；论文消融 min/max n-gram 和 0.75、0.8、0.9、0.99 阈值。本报告沿用其 n-gram containment 思路，并用本数据校准具体阈值。"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "method_dir": "用例生成/generated_low_resource_cases/泛化方法",
+  "model": "mixed; reinforced_mcq_qwen_rewrite completed with Qwen3-32B",
+  "base_url": "cluster vLLM OpenAI-compatible API",
+  "countries": {
+    "arabic": {
+      "country": "沙特",
+      "source_file": "generated_reinforced_qa_eval_cases/Saudi/Saudi_MCQ_知识问答.json",
+      "source_cases": 217,
+      "dialect_output": "用例生成/generated_low_resource_cases/泛化方法/方言化/arabic_reinforced_mcq_dialect.json",
+      "dialect_success": 217,
+      "dialect_no_match": 0,
+      "rewrite_output": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/arabic_reinforced_mcq_qwen_rewrite.json",
+      "rewrite_success": 217,
+      "rewrite_failure": 0,
+      "rewrite_model": "Qwen3-32B"
+    },
+    "thai": {
+      "country": "泰国",
+      "source_file": "generated_reinforced_qa_eval_cases/Thailand/Thailand_MCQ_知识问答.json",
+      "source_cases": 213,
+      "dialect_output": "用例生成/generated_low_resource_cases/泛化方法/方言化/thai_reinforced_mcq_dialect.json",
+      "dialect_success": 213,
+      "dialect_no_match": 0,
+      "rewrite_output": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/thai_reinforced_mcq_qwen_rewrite.json",
+      "rewrite_success": 213,
+      "rewrite_failure": 0,
+      "rewrite_model": "Qwen3-32B"
+    },
+    "turkish": {
+      "country": "土耳其",
+      "source_file": "generated_reinforced_qa_eval_cases/Turkey/Turkey_MCQ_知识问答.json",
+      "source_cases": 189,
+      "dialect_output": "用例生成/generated_low_resource_cases/泛化方法/方言化/turkish_reinforced_mcq_dialect.json",
+      "dialect_success": 187,
+      "dialect_no_match": 0,
+      "rewrite_output": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/turkish_reinforced_mcq_qwen_rewrite.json",
+      "rewrite_success": 189,
+      "rewrite_failure": 0,
+      "rewrite_model": "Qwen3-32B"
+    }
+  },
+  "method_counts": {
+    "dialect": [
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/arabic_privacy_dialect.json",
+        "total": 21,
+        "success": 21,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/arabic_reinforced_mcq_dialect.json",
+        "total": 217,
+        "success": 217,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/arabic_safety_dialect_generalization.json",
+        "total": 30,
+        "success": 30,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/thai_privacy_dialect.json",
+        "total": 26,
+        "success": 26,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/thai_reinforced_mcq_dialect.json",
+        "total": 213,
+        "success": 213,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/thai_safety_dialect_generalization.json",
+        "total": 30,
+        "success": 30,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/turkish_privacy_dialect.json",
+        "total": 16,
+        "success": 16,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/turkish_reinforced_mcq_dialect.json",
+        "total": 189,
+        "success": 187,
+        "failure_or_no_match": 2
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/方言化/turkish_safety_dialect_generalization.json",
+        "total": 30,
+        "success": 30,
+        "failure_or_no_match": 0
+      }
+    ],
+    "qwen_rewrite": [
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/arabic_privacy_qwen_rewrite.json",
+        "total": 10,
+        "success": 10,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/arabic_reinforced_mcq_qwen_rewrite.json",
+        "total": 217,
+        "success": 217,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/thai_privacy_qwen_rewrite.json",
+        "total": 10,
+        "success": 10,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/thai_reinforced_mcq_qwen_rewrite.json",
+        "total": 213,
+        "success": 213,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/turkish_privacy_qwen_rewrite.json",
+        "total": 10,
+        "success": 10,
+        "failure_or_no_match": 0
+      },
+      {
+        "file": "用例生成/generated_low_resource_cases/泛化方法/本地模型改写/turkish_reinforced_mcq_qwen_rewrite.json",
+        "total": 189,
+        "success": 189,
+        "failure_or_no_match": 0
+      }
+    ]
+  }
+}

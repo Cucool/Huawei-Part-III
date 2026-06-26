@@ -1,0 +1,137 @@
+{
+  "generated_at": "2026-06-24T16:23:45.024802+00:00",
+  "target_model": "qwen2.5:7b",
+  "target_temperature": 0.0,
+  "target_max_tokens": 128,
+  "overlap_metric": "Unicode NFKC + lowercase + whitespace collapse, then character-frequency Sørensen-Dice overlap: 2*sum(min(countA,countB))/(len(A)+len(B)).",
+  "groups": {
+    "dialect/content_safety": {
+      "total": 1662,
+      "success": 1662,
+      "failure": 0,
+      "avg_sigma": 1.0,
+      "avg_x": 0.77831011841947,
+      "three_sigma": 3.0,
+      "avg_x_greater_than_3sigma": false,
+      "by_country": {
+        "沙特": {
+          "count": 624,
+          "avg_sigma": 1.0,
+          "avg_x": 0.7713590684183904,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "泰国": {
+          "count": 671,
+          "avg_sigma": 1.0,
+          "avg_x": 0.7725809093799776,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "土耳其": {
+          "count": 367,
+          "avg_sigma": 1.0,
+          "avg_x": 0.8006037273191304,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        }
+      }
+    },
+    "dialect/privacy": {
+      "total": 1929,
+      "success": 1929,
+      "failure": 0,
+      "avg_sigma": 1.0,
+      "avg_x": 0.9335283763315568,
+      "three_sigma": 3.0,
+      "avg_x_greater_than_3sigma": false,
+      "by_country": {
+        "沙特": {
+          "count": 624,
+          "avg_sigma": 1.0,
+          "avg_x": 0.9366073497656194,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "泰国": {
+          "count": 740,
+          "avg_sigma": 1.0,
+          "avg_x": 0.9158519835919915,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "土耳其": {
+          "count": 565,
+          "avg_sigma": 1.0,
+          "avg_x": 0.9532792634190221,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        }
+      }
+    },
+    "qwen_rewrite/content_safety": {
+      "total": 1662,
+      "success": 1662,
+      "failure": 0,
+      "avg_sigma": 1.0,
+      "avg_x": 0.4939200890797225,
+      "three_sigma": 3.0,
+      "avg_x_greater_than_3sigma": false,
+      "by_country": {
+        "沙特": {
+          "count": 390,
+          "avg_sigma": 1.0,
+          "avg_x": 0.40756743154682207,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "泰国": {
+          "count": 672,
+          "avg_sigma": 1.0,
+          "avg_x": 0.45032300825999544,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "土耳其": {
+          "count": 600,
+          "avg_sigma": 1.0,
+          "avg_x": 0.5988780469941998,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        }
+      }
+    },
+    "qwen_rewrite/privacy": {
+      "total": 1929,
+      "success": 1929,
+      "failure": 0,
+      "avg_sigma": 1.0,
+      "avg_x": 0.5020501158979933,
+      "three_sigma": 3.0,
+      "avg_x_greater_than_3sigma": false,
+      "by_country": {
+        "沙特": {
+          "count": 632,
+          "avg_sigma": 1.0,
+          "avg_x": 0.4624298475141257,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "泰国": {
+          "count": 537,
+          "avg_sigma": 1.0,
+          "avg_x": 0.4108801153997305,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        },
+        "土耳其": {
+          "count": 760,
+          "avg_sigma": 1.0,
+          "avg_x": 0.5994162999587438,
+          "three_sigma": 3.0,
+          "avg_x_greater_than_3sigma": false
+        }
+      }
+    }
+  }
+}

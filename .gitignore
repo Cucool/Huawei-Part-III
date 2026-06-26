@@ -3,3 +3,5 @@ __pycache__/
 *.py[cod]
 *.tmp
 *.log
+.venv/
+.hf_cache/

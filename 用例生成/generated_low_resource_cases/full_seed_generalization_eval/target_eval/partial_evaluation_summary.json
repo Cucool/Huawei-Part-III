@@ -1,0 +1,93 @@
+{
+  "output_dir": "/share/home/wuwb36g/projects/qwen3_deployment/code/code-vllm/low_resource_sigma_eval/result_true_sigma_seed_only",
+  "summary": {
+    "generated_at": "2026-06-25T02:23:55.182613+00:00",
+    "target_model": "Qwen2.5-7B",
+    "target_temperature": 0.0,
+    "target_max_tokens": 128,
+    "sigma_mode": "seed_run_1 vs seed_run_2, two separate target-model calls per unique seed prompt",
+    "overlap_metric": "Unicode NFKC + lowercase + whitespace collapse, then character-frequency Sorensen-Dice overlap: 2*sum(min(countA,countB))/(len(A)+len(B)).",
+    "groups": {
+      "dialect/content_safety": {
+        "total": 1662,
+        "success": 1662,
+        "failure": 0,
+        "avg_sigma": 0.9422865352951473,
+        "by_country": {
+          "土耳其": {
+            "count": 367,
+            "avg_sigma": 0.936567508796359
+          },
+          "沙特": {
+            "count": 624,
+            "avg_sigma": 0.9421204783762633
+          },
+          "泰国": {
+            "count": 671,
+            "avg_sigma": 0.9455689529440874
+          }
+        }
+      },
+      "dialect/privacy": {
+        "total": 1929,
+        "success": 1929,
+        "failure": 0,
+        "avg_sigma": 0.9206172633772317,
+        "by_country": {
+          "土耳其": {
+            "count": 565,
+            "avg_sigma": 0.9180956105001792
+          },
+          "沙特": {
+            "count": 624,
+            "avg_sigma": 0.914645878965919
+          },
+          "泰国": {
+            "count": 740,
+            "avg_sigma": 0.9275779089829026
+          }
+        }
+      },
+      "qwen_rewrite/content_safety": {
+        "total": 1662,
+        "success": 1662,
+        "failure": 0,
+        "avg_sigma": 0.942039217931084,
+        "by_country": {
+          "土耳其": {
+            "count": 600,
+            "avg_sigma": 0.9383557561380269
+          },
+          "沙特": {
+            "count": 390,
+            "avg_sigma": 0.941484510495284
+          },
+          "泰国": {
+            "count": 672,
+            "avg_sigma": 0.945649951526016
+          }
+        }
+      },
+      "qwen_rewrite/privacy": {
+        "total": 1929,
+        "success": 1929,
+        "failure": 0,
+        "avg_sigma": 0.9204862522331401,
+        "by_country": {
+          "土耳其": {
+            "count": 760,
+            "avg_sigma": 0.9188930736013001
+          },
+          "沙特": {
+            "count": 632,
+            "avg_sigma": 0.9137444360218534
+          },
+          "泰国": {
+            "count": 537,
+            "avg_sigma": 0.9306755326907405
+          }
+        }
+      }
+    }
+  }
+}
